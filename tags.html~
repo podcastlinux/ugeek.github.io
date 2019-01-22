@@ -265,21 +265,112 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
+<div id="table-of-contents">
+<h2>&Iacute;ndice</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd529b26">Etiquetas de los Podcasts</a>
+<ul>
+<li><a href="#orgbdc0e01">anchor'</a></li>
+<li><a href="#org034a2e5">android</a></li>
+<li><a href="#org815df09">antergos</a></li>
+<li><a href="#org33e8f41">app</a></li>
+<li><a href="#org284d613">arduino</a></li>
+<li><a href="#orgdc43d02">bash</a></li>
+<li><a href="#orgf6025d0">crossover</a></li>
+<li><a href="#orgaa94fb0">docker</a></li>
+<li><a href="#org4b9a59e">domótica</a></li>
+<li><a href="#org67839ee">emacs</a></li>
+<li><a href="#orgecee60a">escritorio</a></li>
+<li><a href="#org9315831">flatpak</a></li>
+<li><a href="#org3ae61b7">git'</a></li>
+<li><a href="#org0fe0981">i3</a></li>
+<li><a href="#orgbd0fb1a">jekyll</a></li>
+<li><a href="#org8819163">linux</a></li>
+<li><a href="#orge0f7e8c">maratón</a></li>
+<li><a href="#orgc6d51a2">markdown</a></li>
+<li><a href="#orgaa164ca">mensajeria</a></li>
+<li><a href="#org32c6314">multimedia</a></li>
+<li><a href="#org84ca134">mwc</a></li>
+<li><a href="#org5889cfd">nas</a></li>
+<li><a href="#orga9ab114">nextcloud</a></li>
+<li><a href="#org8b12129">notas</a></li>
+<li><a href="#org357089c">orgmode</a></li>
+<li><a href="#orgb0a94a9">plex</a></li>
+<li><a href="#org810f6dd">podcast'</a></li>
+<li><a href="#orgef6ff66">raspberry</a></li>
+<li><a href="#org1291373">resilio</a></li>
+<li><a href="#org55ae42d">rss</a></li>
+<li><a href="#orgf1dcb68">rsync</a></li>
+<li><a href="#org29491c2">sed</a></li>
+<li><a href="#org245a8b0">seguridad</a></li>
+<li><a href="#org5034d49">servidor</a></li>
+<li><a href="#org9647740">snap</a></li>
+<li><a href="#org387df2d">syncthing</a></li>
+<li><a href="#org186f4e2">telegram</a></li>
+<li><a href="#orgd6750d8">terminal</a></li>
+<li><a href="#orgb3e7573">ubuntu</a></li>
+<li><a href="#orga0db640">unix</a></li>
+<li><a href="#org27d2a88">wiki</a></li>
+<li><a href="#org081c0c1">xiaomi</a></li>
+</ul>
+</li>
+<li><a href="#org9786fd6">Etiquetas de Artículos</a>
+<ul>
+<li><a href="#org1412580">antergos</a></li>
+<li><a href="#orgc11239c">bash</a></li>
+<li><a href="#org1d54628">blog</a></li>
+<li><a href="#org5369989">comandos</a></li>
+<li><a href="#orgc19cbd8">docker</a></li>
+<li><a href="#orga11ee3a">emacs</a></li>
+<li><a href="#org81c8361">git</a></li>
+<li><a href="#org30ed0de">github</a></li>
+<li><a href="#org19c3f9a">gitlab</a></li>
+<li><a href="#orga9864f0">gpg</a></li>
+<li><a href="#org9e7990e">grep</a></li>
+<li><a href="#org7bb2a10">html</a></li>
+<li><a href="#org9b1f6d6">i3</a></li>
+<li><a href="#org2dec2e5">jekyll</a></li>
+<li><a href="#orga1d61a5">kdeconnect</a></li>
+<li><a href="#org3829eb5">ls</a></li>
+<li><a href="#org9a358db">markdown</a></li>
+<li><a href="#org4b30288">melpa</a></li>
+<li><a href="#org7971993">minidlna</a></li>
+<li><a href="#orgbf2222b">multimedia</a></li>
+<li><a href="#org817f559">nextcloud</a></li>
+<li><a href="#org5ecc86a">notas</a></li>
+<li><a href="#org6687cc7">nube</a></li>
+<li><a href="#orgbaf1d91">orgmode</a></li>
+<li><a href="#orgc243430">pandoc</a></li>
+<li><a href="#org7dd0610">podcast</a></li>
+<li><a href="#org31cd947">raspberry</a></li>
+<li><a href="#org99db0cd">rss</a></li>
+<li><a href="#org59ed4da">scrits</a></li>
+<li><a href="#org3f8dc35">sed</a></li>
+<li><a href="#orgcac61f5">servidor</a></li>
+<li><a href="#org9f2f804">sincronización</a></li>
+<li><a href="#org9cf3731">terminal</a></li>
+<li><a href="#org1ef96c0">ubuntu</a></li>
+<li><a href="#orgd5d1c97">unix</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
 <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
 <div id="name"><a href="index.html"><tt>Blog de Tecnología</tt></div></a>
 <div id="icon"><a href="http://feeds.feedburner.com/uGeek" title="rss"><img src="icon/podcast.png"  width="25" height="25"></a>&nbsp;&nbsp;<a href="http://feeds.feedburner.com/uGeekBlog"><img src="icon/rss.png"  width="25" height="25"></a>&nbsp;&nbsp;<a href="https://github.com/ugeek"><img src="icon/github.png"  width="25" height="25" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://twitter.com/ugeekpodcast"><img src="icon/twitter.png"  width="25" height="25"></a>&nbsp;&nbsp;<a href="https://t.me/uGeek"><img src="icon/telegram.png"  width="25" height="25" alt="uGeek"></a></div>
 <div id="menu"><a href="list.html"><tt>Podcasts</tt></a>&nbsp;&nbsp;<a href="https://ugeek.github.io/blog/list.html"><tt>Artículos</tt></a>&nbsp;&nbsp;<a href="https://ugeek.github.io/podcast-test/tags.html"><tt>Tags</tt></a></div>
 <div id="ugeek"><a href="index.html" title="uGeek"><tt>uGeek</tt></a></div>
-<br><br><br><br><br><br><br><br><br><br>
 
 
-<div id="outline-container-orge9b3491" class="outline-2">
-<h2 id="orge9b3491">Etiquetas de los Podcasts</h2>
-<div class="outline-text-2" id="text-orge9b3491">
+<div id="outline-container-orgd529b26" class="outline-2">
+<h2 id="orgd529b26">Etiquetas de los Podcasts</h2>
+<div class="outline-text-2" id="text-orgd529b26">
 </div>
-<div id="outline-container-org47885b9" class="outline-3">
-<h3 id="org47885b9">anchor'</h3>
-<div class="outline-text-3" id="text-org47885b9">
+<div id="outline-container-orgbdc0e01" class="outline-3">
+<h3 id="orgbdc0e01">anchor'</h3>
+<div class="outline-text-3" id="text-orgbdc0e01">
 <ul class="org-ul">
 <li><i>2018-05-31</i> - <a href="https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html">Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor &#x2026;</a></li>
 <li><i>2017-10-28</i> - <a href="https://ugeek.github.io//post/2017-10-28-novedades-anchor-y-como-enlazo-mis-audios.html">Novedades Anchor y como enlazo mis Audios</a></li>
@@ -287,9 +378,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb150ce9" class="outline-3">
-<h3 id="orgb150ce9">android</h3>
-<div class="outline-text-3" id="text-orgb150ce9">
+<div id="outline-container-org034a2e5" class="outline-3">
+<h3 id="org034a2e5">android</h3>
+<div class="outline-text-3" id="text-org034a2e5">
 <ul class="org-ul">
 <li><i>2018-07-19</i> - <a href="https://ugeek.github.io//post/2018-07-19-xiaomi-mi-band-3-y-fileexplorer-pro.html">Xiaomi Mi Band 3 y FileExplorer Pro</a></li>
 <li><i>2018-06-28</i> - <a href="https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html">Android Tv 8 y Arduino Chino</a></li>
@@ -310,18 +401,18 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org651bb75" class="outline-3">
-<h3 id="org651bb75">antergos</h3>
-<div class="outline-text-3" id="text-org651bb75">
+<div id="outline-container-org815df09" class="outline-3">
+<h3 id="org815df09">antergos</h3>
+<div class="outline-text-3" id="text-org815df09">
 <ul class="org-ul">
 <li><i>2017-04-30</i> - <a href="https://ugeek.github.io//post/2017-04-30-instalando-syncthing-en-ubuntu-antergos-y-raspberry-pi.html">Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi</a></li>
 <li><i>2017-04-06</i> - <a href="https://ugeek.github.io//post/2017-04-06-antergos-ocnews-de-nextcloud-y-jekyll.html">Antergos, Ocnews De Nextcloud Y Jekyll</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5649422" class="outline-3">
-<h3 id="org5649422">app</h3>
-<div class="outline-text-3" id="text-org5649422">
+<div id="outline-container-org33e8f41" class="outline-3">
+<h3 id="org33e8f41">app</h3>
+<div class="outline-text-3" id="text-org33e8f41">
 <ul class="org-ul">
 <li><i>2018-12-10</i> - <a href="https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html">Cambio de Filosofía</a></li>
 <li><i>2018-11-30</i> - <a href="https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html">Pocket Cast en tu Escritorio Linux mediante Snap</a></li>
@@ -346,17 +437,17 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org420b297" class="outline-3">
-<h3 id="org420b297">arduino</h3>
-<div class="outline-text-3" id="text-org420b297">
+<div id="outline-container-org284d613" class="outline-3">
+<h3 id="org284d613">arduino</h3>
+<div class="outline-text-3" id="text-org284d613">
 <ul class="org-ul">
 <li><i>2018-06-28</i> - <a href="https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html">Android Tv 8 y Arduino Chino</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5fccaad" class="outline-3">
-<h3 id="org5fccaad">bash</h3>
-<div class="outline-text-3" id="text-org5fccaad">
+<div id="outline-container-orgdc43d02" class="outline-3">
+<h3 id="orgdc43d02">bash</h3>
+<div class="outline-text-3" id="text-orgdc43d02">
 <ul class="org-ul">
 <li><i>2018-05-31</i> - <a href="https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html">Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor &#x2026;</a></li>
 <li><i>2018-04-20</i> - <a href="https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html">Xiaomi Mi Box</a></li>
@@ -366,9 +457,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org16bbede" class="outline-3">
-<h3 id="org16bbede">crossover</h3>
-<div class="outline-text-3" id="text-org16bbede">
+<div id="outline-container-orgf6025d0" class="outline-3">
+<h3 id="orgf6025d0">crossover</h3>
+<div class="outline-text-3" id="text-orgf6025d0">
 <ul class="org-ul">
 <li><i>2018-10-19</i> - <a href="https://ugeek.github.io//post/2018-10-19-muchos-servicios-dietpi-y-mucho-mas-en-el-crossover-con-jose-jimenez.html">Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez</a></li>
 <li><i>2018-05-04</i> - <a href="https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html">MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. </a></li>
@@ -386,9 +477,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org55eb2dd" class="outline-3">
-<h3 id="org55eb2dd">docker</h3>
-<div class="outline-text-3" id="text-org55eb2dd">
+<div id="outline-container-orgaa94fb0" class="outline-3">
+<h3 id="orgaa94fb0">docker</h3>
+<div class="outline-text-3" id="text-orgaa94fb0">
 <ul class="org-ul">
 <li><i>2018-12-03</i> - <a href="https://ugeek.github.io//post/2018-12-03-crea-tu-propio-docker-si-no-existe.html">Crea tu Propio Docker, si no Existe.</a></li>
 <li><i>2018-11-05</i> - <a href="https://ugeek.github.io//post/2018-11-05-como-actualizar-tus-dockers.html">Como Actualizar tus Dockers</a></li>
@@ -400,17 +491,17 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb9db7a9" class="outline-3">
-<h3 id="orgb9db7a9">domótica</h3>
-<div class="outline-text-3" id="text-orgb9db7a9">
+<div id="outline-container-org4b9a59e" class="outline-3">
+<h3 id="org4b9a59e">domótica</h3>
+<div class="outline-text-3" id="text-org4b9a59e">
 <ul class="org-ul">
 <li><i>2017-06-09</i> - <a href="https://ugeek.github.io//post/2017-06-09-domotica-con-mi-raspberry-pi-usemos-el-gpio.html">Domótica con mi Raspberry Pi. Usemos el GPIO</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org65ee8b4" class="outline-3">
-<h3 id="org65ee8b4">emacs</h3>
-<div class="outline-text-3" id="text-org65ee8b4">
+<div id="outline-container-org67839ee" class="outline-3">
+<h3 id="org67839ee">emacs</h3>
+<div class="outline-text-3" id="text-org67839ee">
 <ul class="org-ul">
 <li><i>2018-11-21</i> - <a href="https://ugeek.github.io//post/2018-11-21-gnu-linux-emacs-porque.html">GNU-Linux, Emacs,.. ¿porqué?</a></li>
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
@@ -422,9 +513,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org9b7a463" class="outline-3">
-<h3 id="org9b7a463">escritorio</h3>
-<div class="outline-text-3" id="text-org9b7a463">
+<div id="outline-container-orgecee60a" class="outline-3">
+<h3 id="orgecee60a">escritorio</h3>
+<div class="outline-text-3" id="text-orgecee60a">
 <ul class="org-ul">
 <li><i>2018-11-30</i> - <a href="https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html">Pocket Cast en tu Escritorio Linux mediante Snap</a></li>
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
@@ -433,17 +524,17 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org0bd719e" class="outline-3">
-<h3 id="org0bd719e">flatpak</h3>
-<div class="outline-text-3" id="text-org0bd719e">
+<div id="outline-container-org9315831" class="outline-3">
+<h3 id="org9315831">flatpak</h3>
+<div class="outline-text-3" id="text-org9315831">
 <ul class="org-ul">
 <li><i>2018-12-10</i> - <a href="https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html">Cambio de Filosofía</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orge8fd715" class="outline-3">
-<h3 id="orge8fd715">git'</h3>
-<div class="outline-text-3" id="text-orge8fd715">
+<div id="outline-container-org3ae61b7" class="outline-3">
+<h3 id="org3ae61b7">git'</h3>
+<div class="outline-text-3" id="text-org3ae61b7">
 <ul class="org-ul">
 <li><i>2018-11-26</i> - <a href="https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html">GitLab + Novedades de Syncthing y Orgzly</a></li>
 <li><i>2018-03-14</i> - <a href="https://ugeek.github.io//post/2018-03-14-el-github-gitlab-de-mi-raspberry-gitea.html">El GitHub - GitLab de mi Raspberry. Gitea</a></li>
@@ -452,17 +543,17 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbef6d8b" class="outline-3">
-<h3 id="orgbef6d8b">i3</h3>
-<div class="outline-text-3" id="text-orgbef6d8b">
+<div id="outline-container-org0fe0981" class="outline-3">
+<h3 id="org0fe0981">i3</h3>
+<div class="outline-text-3" id="text-org0fe0981">
 <ul class="org-ul">
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9d422ad" class="outline-3">
-<h3 id="org9d422ad">jekyll</h3>
-<div class="outline-text-3" id="text-org9d422ad">
+<div id="outline-container-orgbd0fb1a" class="outline-3">
+<h3 id="orgbd0fb1a">jekyll</h3>
+<div class="outline-text-3" id="text-orgbd0fb1a">
 <ul class="org-ul">
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
 <li><i>2017-05-06</i> - <a href="https://ugeek.github.io//post/2017-05-06-jekyll-o-wordpress.html">¿Jekyll o WordPress?</a></li>
@@ -472,9 +563,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbdbc26a" class="outline-3">
-<h3 id="orgbdbc26a">linux</h3>
-<div class="outline-text-3" id="text-orgbdbc26a">
+<div id="outline-container-org8819163" class="outline-3">
+<h3 id="org8819163">linux</h3>
+<div class="outline-text-3" id="text-org8819163">
 <ul class="org-ul">
 <li><i>2018-12-10</i> - <a href="https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html">Cambio de Filosofía</a></li>
 <li><i>2018-11-30</i> - <a href="https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html">Pocket Cast en tu Escritorio Linux mediante Snap</a></li>
@@ -498,9 +589,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org75c2d16" class="outline-3">
-<h3 id="org75c2d16">maratón</h3>
-<div class="outline-text-3" id="text-org75c2d16">
+<div id="outline-container-orge0f7e8c" class="outline-3">
+<h3 id="orge0f7e8c">maratón</h3>
+<div class="outline-text-3" id="text-orge0f7e8c">
 <ul class="org-ul">
 <li><i>2018-09-16</i> - <a href="https://ugeek.github.io//post/2018-09-16-hablando-con-atareao-y-mosqueteroweb-de-servidores-en-casa-vps.html">Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,&#x2026;</a></li>
 <li><i>2018-08-27</i> - <a href="https://ugeek.github.io//post/2018-08-27-miscelania-veraniega-maraton-linuxero-texto-plano.html">Miscelania Veraniega. Maratón Linuxero, Texto Plano,&#x2026;</a></li>
@@ -509,9 +600,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgade59a2" class="outline-3">
-<h3 id="orgade59a2">markdown</h3>
-<div class="outline-text-3" id="text-orgade59a2">
+<div id="outline-container-orgc6d51a2" class="outline-3">
+<h3 id="orgc6d51a2">markdown</h3>
+<div class="outline-text-3" id="text-orgc6d51a2">
 <ul class="org-ul">
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
 <li><i>2018-10-14</i> - <a href="https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html">Como gestiono Mis Notas Markdown</a></li>
@@ -521,9 +612,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org88622a9" class="outline-3">
-<h3 id="org88622a9">mensajeria</h3>
-<div class="outline-text-3" id="text-org88622a9">
+<div id="outline-container-orgaa164ca" class="outline-3">
+<h3 id="orgaa164ca">mensajeria</h3>
+<div class="outline-text-3" id="text-orgaa164ca">
 <ul class="org-ul">
 <li><i>2018-07-08</i> - <a href="https://ugeek.github.io//post/2018-07-08-tres-apps-de-mensajeria-con-total-privacidad.html">Tres app's de Mensajería con Total Privacidad</a></li>
 <li><i>2018-01-26</i> - <a href="https://ugeek.github.io//post/2018-01-26-telegram:-audio-y-video-en-streaming.html">Telegram: Audio y Vídeo en Streaming</a></li>
@@ -537,17 +628,17 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org07ce94d" class="outline-3">
-<h3 id="org07ce94d">multimedia</h3>
-<div class="outline-text-3" id="text-org07ce94d">
+<div id="outline-container-org32c6314" class="outline-3">
+<h3 id="org32c6314">multimedia</h3>
+<div class="outline-text-3" id="text-org32c6314">
 <ul class="org-ul">
 <li><i>2018-01-18</i> - <a href="https://ugeek.github.io//post/2018-01-18-recalbox-consola-de-juegos-retro-kodi.html">Recalbox. Consola de Juegos Retro+Kodi</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5c16868" class="outline-3">
-<h3 id="org5c16868">mwc</h3>
-<div class="outline-text-3" id="text-org5c16868">
+<div id="outline-container-org84ca134" class="outline-3">
+<h3 id="org84ca134">mwc</h3>
+<div class="outline-text-3" id="text-org84ca134">
 <ul class="org-ul">
 <li><i>2017-03-04</i> - <a href="https://ugeek.github.io//post/2017-03-04-entrevista-a-chema-y-juan-dos-desarrolladores-de-software-libre-de-igalia-com-en-el-mwc17.html">Entrevista a Chema y Juan, dos desarrolladores de Software Libre de Igalia.com en el #mwc17</a></li>
 <li><i>2017-03-02</i> - <a href="https://ugeek.github.io//post/2017-03-02-entrevista-con-arturo-suarez--directivo-del-cloud-de-canonical-ubuntu.html">Entrevista con Arturo Suarez, DIrectivo del Cloud de Canonical Ubuntu</a></li>
@@ -555,9 +646,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf6a2d33" class="outline-3">
-<h3 id="orgf6a2d33">nas</h3>
-<div class="outline-text-3" id="text-orgf6a2d33">
+<div id="outline-container-org5889cfd" class="outline-3">
+<h3 id="org5889cfd">nas</h3>
+<div class="outline-text-3" id="text-org5889cfd">
 <ul class="org-ul">
 <li><i>2017-12-15</i> - <a href="https://ugeek.github.io//post/2017-12-15-nas-vs-servidor-linux.html">Nas vs Servidor Linux</a></li>
 <li><i>2017-09-02</i> - <a href="https://ugeek.github.io//post/2017-09-02-respuestas-a-preguntas-de-los-oyentes-y-maraton-linuxero.html">Respuestas a Preguntas de los Oyentes y Maratón Linuxero</a></li>
@@ -569,9 +660,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgcbc855a" class="outline-3">
-<h3 id="orgcbc855a">nextcloud</h3>
-<div class="outline-text-3" id="text-orgcbc855a">
+<div id="outline-container-orga9ab114" class="outline-3">
+<h3 id="orga9ab114">nextcloud</h3>
+<div class="outline-text-3" id="text-orga9ab114">
 <ul class="org-ul">
 <li><i>2018-03-22</i> - <a href="https://ugeek.github.io//post/2018-03-22-joplin-el-evernote-del-software-libre.html">Joplin. El Evernote del Software Libre</a></li>
 <li><i>2018-01-15</i> - <a href="https://ugeek.github.io//post/2018-01-15-nextcloud-talk-y-script-para-instalar-nextcloud.html">Nextcloud Talk y Script para Instalar Nextcloud</a></li>
@@ -591,9 +682,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org92cda85" class="outline-3">
-<h3 id="org92cda85">notas</h3>
-<div class="outline-text-3" id="text-org92cda85">
+<div id="outline-container-org8b12129" class="outline-3">
+<h3 id="org8b12129">notas</h3>
+<div class="outline-text-3" id="text-org8b12129">
 <ul class="org-ul">
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
 <li><i>2018-10-14</i> - <a href="https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html">Como gestiono Mis Notas Markdown</a></li>
@@ -614,9 +705,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orga78810c" class="outline-3">
-<h3 id="orga78810c">orgmode</h3>
-<div class="outline-text-3" id="text-orga78810c">
+<div id="outline-container-org357089c" class="outline-3">
+<h3 id="org357089c">orgmode</h3>
+<div class="outline-text-3" id="text-org357089c">
 <ul class="org-ul">
 <li><i>2018-11-26</i> - <a href="https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html">GitLab + Novedades de Syncthing y Orgzly</a></li>
 <li><i>2018-10-09</i> - <a href="https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html">Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.</a></li>
@@ -625,9 +716,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd69f925" class="outline-3">
-<h3 id="orgd69f925">plex</h3>
-<div class="outline-text-3" id="text-orgd69f925">
+<div id="outline-container-orgb0a94a9" class="outline-3">
+<h3 id="orgb0a94a9">plex</h3>
+<div class="outline-text-3" id="text-orgb0a94a9">
 <ul class="org-ul">
 <li><i>2018-05-31</i> - <a href="https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html">Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor &#x2026;</a></li>
 <li><i>2018-05-04</i> - <a href="https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html">MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. </a></li>
@@ -636,9 +727,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc55b6e3" class="outline-3">
-<h3 id="orgc55b6e3">podcast'</h3>
-<div class="outline-text-3" id="text-orgc55b6e3">
+<div id="outline-container-org810f6dd" class="outline-3">
+<h3 id="org810f6dd">podcast'</h3>
+<div class="outline-text-3" id="text-org810f6dd">
 <ul class="org-ul">
 <li><i>2019-01-14</i> - <a href="https://ugeek.github.io//post/2019-01-14-proyectos-nuevos-y-el-poder-de-la-terminal.html">Proyectos Nuevos y el Poder de la Terminal</a></li>
 <li><i>2018-12-13</i> - <a href="https://ugeek.github.io//post/2018-12-13-escuchar-podcast-a-medida-y-dos-bots-de-telegram.html">Escuchar podcast a medida y dos bots de telegram</a></li>
@@ -663,14 +754,13 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orga4eb289" class="outline-3">
-<h3 id="orga4eb289">raspberry</h3>
-<div class="outline-text-3" id="text-orga4eb289">
+<div id="outline-container-orgef6ff66" class="outline-3">
+<h3 id="orgef6ff66">raspberry</h3>
+<div class="outline-text-3" id="text-orgef6ff66">
 <ul class="org-ul">
 <li><i>2018-10-19</i> - <a href="https://ugeek.github.io//post/2018-10-19-muchos-servicios-dietpi-y-mucho-mas-en-el-crossover-con-jose-jimenez.html">Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez</a></li>
 <li><i>2018-09-16</i> - <a href="https://ugeek.github.io//post/2018-09-16-hablando-con-atareao-y-mosqueteroweb-de-servidores-en-casa-vps.html">Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,&#x2026;</a></li>
 <li><i>2018-07-26</i> - <a href="https://ugeek.github.io//post/2018-07-26-hablando-de-servicios-y-servidores-entre-amigos.html">Hablando de Servicios y Servidores entre Amigos</a></li>
-<li><i>2018-07-08</i> - <a href="https://ugeek.github.io//post/2018-07-08-tres-apps-de-mensajeria-con-total-privacidad.html">Tres app's de Mensajería con Total Privacidad</a></li>
 <li><i>2018-05-25</i> - <a href="https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html">Servidor de ebooks con Calibre </a></li>
 <li><i>2018-05-08</i> - <a href="https://ugeek.github.io//post/2018-05-08-docker-en-raspberry.html">Docker en Raspberry</a></li>
 <li><i>2018-04-26</i> - <a href="https://ugeek.github.io//post/2018-04-26-la-nube-mas-segura-dentro-y-fuera-de-tu-red-local.html">La Nube más Segura Dentro y Fuera de tu Red Local</a></li>
@@ -697,9 +787,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orge3bca0b" class="outline-3">
-<h3 id="orge3bca0b">resilio</h3>
-<div class="outline-text-3" id="text-orge3bca0b">
+<div id="outline-container-org1291373" class="outline-3">
+<h3 id="org1291373">resilio</h3>
+<div class="outline-text-3" id="text-org1291373">
 <ul class="org-ul">
 <li><i>2017-07-05</i> - <a href="https://ugeek.github.io//post/2017-07-05-miscelanea-nextcloud-12-resilio-rsync.html">Miscelánea. Nextcloud 12, Resilio, Rsync&#x2026;</a></li>
 <li><i>2017-06-25</i> - <a href="https://ugeek.github.io//post/2017-06-25-nextcloud-resilio-syncthing-que-nube-elijo.html">Nextcloud, Resilio, Syncthing&#x2026; ¿Que Nube elijo?</a></li>
@@ -708,26 +798,26 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgfcc5719" class="outline-3">
-<h3 id="orgfcc5719">rss</h3>
-<div class="outline-text-3" id="text-orgfcc5719">
+<div id="outline-container-org55ae42d" class="outline-3">
+<h3 id="org55ae42d">rss</h3>
+<div class="outline-text-3" id="text-org55ae42d">
 <ul class="org-ul">
 <li><i>2018-02-22</i> - <a href="https://ugeek.github.io//post/2018-02-22-tiny-tiny-rss-feedme-y-voice.html">Tiny Tiny RSS, FeedMe y @Voice</a></li>
 <li><i>2017-02-14</i> - <a href="https://ugeek.github.io//post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html">News y FreshRSS. Gestor de Noticias RSS.</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdce5830" class="outline-3">
-<h3 id="orgdce5830">rsync</h3>
-<div class="outline-text-3" id="text-orgdce5830">
+<div id="outline-container-orgf1dcb68" class="outline-3">
+<h3 id="orgf1dcb68">rsync</h3>
+<div class="outline-text-3" id="text-orgf1dcb68">
 <ul class="org-ul">
 <li><i>2017-07-05</i> - <a href="https://ugeek.github.io//post/2017-07-05-miscelanea-nextcloud-12-resilio-rsync.html">Miscelánea. Nextcloud 12, Resilio, Rsync&#x2026;</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org8d90a44" class="outline-3">
-<h3 id="org8d90a44">sed</h3>
-<div class="outline-text-3" id="text-org8d90a44">
+<div id="outline-container-org29491c2" class="outline-3">
+<h3 id="org29491c2">sed</h3>
+<div class="outline-text-3" id="text-org29491c2">
 <ul class="org-ul">
 <li><i>2018-04-20</i> - <a href="https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html">Xiaomi Mi Box</a></li>
 <li><i>2017-08-08</i> - <a href="https://ugeek.github.io//post/2017-08-08-porque-se-descarga-tan-rapido-la-bateria-de-mi-android.html">¿Porque se descarga tan rápido la batería de mi Android?</a></li>
@@ -737,18 +827,18 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org36bda1b" class="outline-3">
-<h3 id="org36bda1b">seguridad</h3>
-<div class="outline-text-3" id="text-org36bda1b">
+<div id="outline-container-org245a8b0" class="outline-3">
+<h3 id="org245a8b0">seguridad</h3>
+<div class="outline-text-3" id="text-org245a8b0">
 <ul class="org-ul">
 <li><i>2017-05-12</i> - <a href="https://ugeek.github.io//post/2017-05-12-telefonica-esta-siendo-atacada.html">Telefónica esta siendo Atacada!!!</a></li>
 <li><i>2017-03-22</i> - <a href="https://ugeek.github.io//post/2017-03-22-keepass-como-gestiono-mis-contrasenas.html">Keepass, como gestiono mis contraseñas</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga59797b" class="outline-3">
-<h3 id="orga59797b">servidor</h3>
-<div class="outline-text-3" id="text-orga59797b">
+<div id="outline-container-org5034d49" class="outline-3">
+<h3 id="org5034d49">servidor</h3>
+<div class="outline-text-3" id="text-org5034d49">
 <ul class="org-ul">
 <li><i>2018-12-03</i> - <a href="https://ugeek.github.io//post/2018-12-03-crea-tu-propio-docker-si-no-existe.html">Crea tu Propio Docker, si no Existe.</a></li>
 <li><i>2018-11-05</i> - <a href="https://ugeek.github.io//post/2018-11-05-como-actualizar-tus-dockers.html">Como Actualizar tus Dockers</a></li>
@@ -797,9 +887,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org388c321" class="outline-3">
-<h3 id="org388c321">snap</h3>
-<div class="outline-text-3" id="text-org388c321">
+<div id="outline-container-org9647740" class="outline-3">
+<h3 id="org9647740">snap</h3>
+<div class="outline-text-3" id="text-org9647740">
 <ul class="org-ul">
 <li><i>2018-12-10</i> - <a href="https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html">Cambio de Filosofía</a></li>
 <li><i>2018-11-30</i> - <a href="https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html">Pocket Cast en tu Escritorio Linux mediante Snap</a></li>
@@ -808,9 +898,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdc11c5d" class="outline-3">
-<h3 id="orgdc11c5d">syncthing</h3>
-<div class="outline-text-3" id="text-orgdc11c5d">
+<div id="outline-container-org387df2d" class="outline-3">
+<h3 id="org387df2d">syncthing</h3>
+<div class="outline-text-3" id="text-org387df2d">
 <ul class="org-ul">
 <li><i>2018-11-26</i> - <a href="https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html">GitLab + Novedades de Syncthing y Orgzly</a></li>
 <li><i>2018-10-29</i> - <a href="https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html">Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</a></li>
@@ -822,9 +912,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf5c5c0d" class="outline-3">
-<h3 id="orgf5c5c0d">telegram</h3>
-<div class="outline-text-3" id="text-orgf5c5c0d">
+<div id="outline-container-org186f4e2" class="outline-3">
+<h3 id="org186f4e2">telegram</h3>
+<div class="outline-text-3" id="text-org186f4e2">
 <ul class="org-ul">
 <li><i>2018-12-13</i> - <a href="https://ugeek.github.io//post/2018-12-13-escuchar-podcast-a-medida-y-dos-bots-de-telegram.html">Escuchar podcast a medida y dos bots de telegram</a></li>
 <li><i>2018-02-09</i> - <a href="https://ugeek.github.io//post/2018-02-09-kanboard-con-notificaciones-en-telegram.html">Kanboard con Notificaciones en Telegram</a></li>
@@ -843,9 +933,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdd1f78f" class="outline-3">
-<h3 id="orgdd1f78f">terminal</h3>
-<div class="outline-text-3" id="text-orgdd1f78f">
+<div id="outline-container-orgd6750d8" class="outline-3">
+<h3 id="orgd6750d8">terminal</h3>
+<div class="outline-text-3" id="text-orgd6750d8">
 <ul class="org-ul">
 <li><i>2019-01-14</i> - <a href="https://ugeek.github.io//post/2019-01-14-proyectos-nuevos-y-el-poder-de-la-terminal.html">Proyectos Nuevos y el Poder de la Terminal</a></li>
 <li><i>2018-04-20</i> - <a href="https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html">Xiaomi Mi Box</a></li>
@@ -859,9 +949,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org44b95d0" class="outline-3">
-<h3 id="org44b95d0">ubuntu</h3>
-<div class="outline-text-3" id="text-org44b95d0">
+<div id="outline-container-orgb3e7573" class="outline-3">
+<h3 id="orgb3e7573">ubuntu</h3>
+<div class="outline-text-3" id="text-orgb3e7573">
 <ul class="org-ul">
 <li><i>2017-06-13</i> - <a href="https://ugeek.github.io//post/2017-06-13-con-linux-es-posible.html">Con Linux es posible</a></li>
 <li><i>2017-04-30</i> - <a href="https://ugeek.github.io//post/2017-04-30-instalando-syncthing-en-ubuntu-antergos-y-raspberry-pi.html">Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi</a></li>
@@ -875,9 +965,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc61c929" class="outline-3">
-<h3 id="orgc61c929">unix</h3>
-<div class="outline-text-3" id="text-orgc61c929">
+<div id="outline-container-orga0db640" class="outline-3">
+<h3 id="orga0db640">unix</h3>
+<div class="outline-text-3" id="text-orga0db640">
 <ul class="org-ul">
 <li><i>2018-04-20</i> - <a href="https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html">Xiaomi Mi Box</a></li>
 <li><i>2017-05-06</i> - <a href="https://ugeek.github.io//post/2017-05-06-jekyll-o-wordpress.html">¿Jekyll o WordPress?</a></li>
@@ -886,24 +976,368 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org9d600e9" class="outline-3">
-<h3 id="org9d600e9">wiki</h3>
-<div class="outline-text-3" id="text-org9d600e9">
+<div id="outline-container-org27d2a88" class="outline-3">
+<h3 id="org27d2a88">wiki</h3>
+<div class="outline-text-3" id="text-org27d2a88">
 <ul class="org-ul">
 <li><i>2017-06-21</i> - <a href="https://ugeek.github.io//post/2017-06-21-tiddlywiki-una-wiki-en-un-unico-archivo-y-multiplataforma.html">TiddlyWiki. Una Wiki en un único archivo y multiplataforma.</a></li>
 <li><i>2017-02-23</i> - <a href="https://ugeek.github.io//post/2017-02-23-dokuwiki-nueva-forma-de-tomar-mis-notas-monta-tu-wiki-con-dokuwiki-o-mediawiki.html">Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki.</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9256989" class="outline-3">
-<h3 id="org9256989">xiaomi</h3>
-<div class="outline-text-3" id="text-org9256989">
+<div id="outline-container-org081c0c1" class="outline-3">
+<h3 id="org081c0c1">xiaomi</h3>
+<div class="outline-text-3" id="text-org081c0c1">
 <ul class="org-ul">
 <li><i>2018-09-12</i> - <a href="https://ugeek.github.io//post/2018-09-12-xiaomi-mi-band-3-de-un-modo-libre.html">Xiaomi Mi band 3 de un modo Libre</a></li>
 <li><i>2018-07-19</i> - <a href="https://ugeek.github.io//post/2018-07-19-xiaomi-mi-band-3-y-fileexplorer-pro.html">Xiaomi Mi Band 3 y FileExplorer Pro</a></li>
 <li><i>2018-07-10</i> - <a href="https://ugeek.github.io//post/2018-07-10-existe-un-internet-sin-publicidad.html">¿Existe un Internet sin Publicidad?</a></li>
 <li><i>2018-06-28</i> - <a href="https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html">Android Tv 8 y Arduino Chino</a></li>
 <li><i>2018-04-20</i> - <a href="https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html">Xiaomi Mi Box</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org9786fd6" class="outline-2">
+<h2 id="org9786fd6">Etiquetas de Artículos</h2>
+<div class="outline-text-2" id="text-org9786fd6">
+</div>
+<div id="outline-container-org1412580" class="outline-3">
+<h3 id="org1412580">antergos</h3>
+<div class="outline-text-3" id="text-org1412580">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-antergos-comandos-para-terminal-y-derivadas-de-arch-linux.html">Antergos. Comandos para terminal y derivadas de Arch Linux</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc11239c" class="outline-3">
+<h3 id="orgc11239c">bash</h3>
+<div class="outline-text-3" id="text-orgc11239c">
+<ul class="org-ul">
+<li><i>2019-01-05</i> - <a href="https://ugeek.github.io/blog/post/2019-01-05-elimina-archivos-duplicados-con-fduples.html">Elimina archivos duplicados con fduples</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-el-poder-de-la-terminal-y-el-scripting.html">El poder de la terminal y el scripting</a></li>
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-kdeconnect-en-ubuntu.html">Kde Connect en Ubuntu&#x2026;</a></li>
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+<li><i>2018-12-30</i> - <a href="https://ugeek.github.io/blog/post/2018-12-30-eliminar-comentarios-de-nuestros-script.html">Eliminar comentarios de nuestros script</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-descargar-todos-los-episodios-de-un-podcast-con-bash.html">Descargar todos los episodios de un Podcast con wget</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-eliminar-lineas-en-blanco.html">Eliminar líneas en Blanco con sed</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1d54628" class="outline-3">
+<h3 id="org1d54628">blog</h3>
+<div class="outline-text-3" id="text-org1d54628">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-crear-el-feed-para-el-podcast-en-tu-blog-con-jekyll.html">Crear el Feed para el podcast en tu Blog con Jekyll</a></li>
+<li><i>2019-01-08</i> - <a href="https://ugeek.github.io/blog/post/2019-01-08-crear-un-blog-en-github.-github-pages.html">Crear un Blog en GitHub. GitHub Pages</a></li>
+<li><i>2019-01-04</i> - <a href="https://ugeek.github.io/blog/post/2019-01-04-crear-un-blog-en-gitlab.-gitlab-pages.html">Crear un Blog en GitLab. GitLab Pages</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5369989" class="outline-3">
+<h3 id="org5369989">comandos</h3>
+<div class="outline-text-3" id="text-org5369989">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-antergos-comandos-para-terminal-y-derivadas-de-arch-linux.html">Antergos. Comandos para terminal y derivadas de Arch Linux</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc19cbd8" class="outline-3">
+<h3 id="orgc19cbd8">docker</h3>
+<div class="outline-text-3" id="text-orgc19cbd8">
+<ul class="org-ul">
+<li><i>2019-01-06</i> - <a href="https://ugeek.github.io/blog/post/2019-01-06-nextcloudpi.-nextcloud-en-raspbian-con-docker.html">NextcloudPi. Nextcloud en Raspbian con Docker</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga11ee3a" class="outline-3">
+<h3 id="orga11ee3a">emacs</h3>
+<div class="outline-text-3" id="text-orga11ee3a">
+<ul class="org-ul">
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html">Con Emacs también podemos editar Markdown</a></li>
+<li><i>2018-12-31</i> - <a href="https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html">Kde Connect en Emacs</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html">Convertir de Markdown a Org Mode gracias a Pandoc</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org81c8361" class="outline-3">
+<h3 id="org81c8361">git</h3>
+<div class="outline-text-3" id="text-org81c8361">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-utilizando-git-con-la-terminal-github.html">Utilizando Git con la Terminal. GitHub</a></li>
+<li><i>2019-01-12</i> - <a href="https://ugeek.github.io/blog/post/2019-01-12-ignorar-archivos-que-no-queremos-que-suban-a-git.html">Ignorar archivos que no queremos que suban a Git</a></li>
+<li><i>2019-01-08</i> - <a href="https://ugeek.github.io/blog/post/2019-01-08-crear-un-blog-en-github.-github-pages.html">Crear un Blog en GitHub. GitHub Pages</a></li>
+<li><i>2019-01-04</i> - <a href="https://ugeek.github.io/blog/post/2019-01-04-crear-un-blog-en-gitlab.-gitlab-pages.html">Crear un Blog en GitLab. GitLab Pages</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org30ed0de" class="outline-3">
+<h3 id="org30ed0de">github</h3>
+<div class="outline-text-3" id="text-org30ed0de">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-utilizando-git-con-la-terminal-github.html">Utilizando Git con la Terminal. GitHub</a></li>
+<li><i>2019-01-12</i> - <a href="https://ugeek.github.io/blog/post/2019-01-12-ignorar-archivos-que-no-queremos-que-suban-a-git.html">Ignorar archivos que no queremos que suban a Git</a></li>
+<li><i>2019-01-08</i> - <a href="https://ugeek.github.io/blog/post/2019-01-08-crear-un-blog-en-github.-github-pages.html">Crear un Blog en GitHub. GitHub Pages</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org19c3f9a" class="outline-3">
+<h3 id="org19c3f9a">gitlab</h3>
+<div class="outline-text-3" id="text-org19c3f9a">
+<ul class="org-ul">
+<li><i>2019-01-12</i> - <a href="https://ugeek.github.io/blog/post/2019-01-12-ignorar-archivos-que-no-queremos-que-suban-a-git.html">Ignorar archivos que no queremos que suban a Git</a></li>
+<li><i>2019-01-04</i> - <a href="https://ugeek.github.io/blog/post/2019-01-04-crear-un-blog-en-gitlab.-gitlab-pages.html">Crear un Blog en GitLab. GitLab Pages</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga9864f0" class="outline-3">
+<h3 id="orga9864f0">gpg</h3>
+<div class="outline-text-3" id="text-orga9864f0">
+<ul class="org-ul">
+<li><i>2019-01-17</i> - <a href="https://ugeek.github.io/blog/post/2019-01-17-gpg-cifrado-de-archivos-simetrico.html">GPG. Cifrado de archivos simétrico</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9e7990e" class="outline-3">
+<h3 id="org9e7990e">grep</h3>
+<div class="outline-text-3" id="text-org9e7990e">
+<ul class="org-ul">
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+<li><i>2018-12-30</i> - <a href="https://ugeek.github.io/blog/post/2018-12-30-eliminar-comentarios-de-nuestros-script.html">Eliminar comentarios de nuestros script</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7bb2a10" class="outline-3">
+<h3 id="org7bb2a10">html</h3>
+<div class="outline-text-3" id="text-org7bb2a10">
+<ul class="org-ul">
+<li><i>2019-01-08</i> - <a href="https://ugeek.github.io/blog/post/2019-01-08-crear-un-blog-en-github.-github-pages.html">Crear un Blog en GitHub. GitHub Pages</a></li>
+<li><i>2019-01-04</i> - <a href="https://ugeek.github.io/blog/post/2019-01-04-crear-un-blog-en-gitlab.-gitlab-pages.html">Crear un Blog en GitLab. GitLab Pages</a></li>
+<li><i>2018-12-29</i> - <a href="https://ugeek.github.io/blog/post/2018-12-29-redirigir-el-trafico-de-pagina-web-a-otra.html">Redirigir el tráfico de una página web a otra</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9b1f6d6" class="outline-3">
+<h3 id="org9b1f6d6">i3</h3>
+<div class="outline-text-3" id="text-org9b1f6d6">
+<ul class="org-ul">
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-kdeconnect-en-ubuntu.html">Kde Connect en Ubuntu&#x2026;</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2dec2e5" class="outline-3">
+<h3 id="org2dec2e5">jekyll</h3>
+<div class="outline-text-3" id="text-org2dec2e5">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-crear-el-feed-para-el-podcast-en-tu-blog-con-jekyll.html">Crear el Feed para el podcast en tu Blog con Jekyll</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga1d61a5" class="outline-3">
+<h3 id="orga1d61a5">kdeconnect</h3>
+<div class="outline-text-3" id="text-orga1d61a5">
+<ul class="org-ul">
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-kdeconnect-en-ubuntu.html">Kde Connect en Ubuntu&#x2026;</a></li>
+<li><i>2018-12-31</i> - <a href="https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html">Kde Connect en Emacs</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3829eb5" class="outline-3">
+<h3 id="org3829eb5">ls</h3>
+<div class="outline-text-3" id="text-org3829eb5">
+<ul class="org-ul">
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9a358db" class="outline-3">
+<h3 id="org9a358db">markdown</h3>
+<div class="outline-text-3" id="text-org9a358db">
+<ul class="org-ul">
+<li><i>2019-01-08</i> - <a href="https://ugeek.github.io/blog/post/2019-01-08-crear-un-blog-en-github.-github-pages.html">Crear un Blog en GitHub. GitHub Pages</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-visualiza-tus-notas-markdown-version-web-con-mkdocs.html">Visualiza tus Notas Markdown Versión Web con MkDocs</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html">Con Emacs también podemos editar Markdown</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html">Convertir de Markdown a Org Mode gracias a Pandoc</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4b30288" class="outline-3">
+<h3 id="org4b30288">melpa</h3>
+<div class="outline-text-3" id="text-org4b30288">
+<ul class="org-ul">
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html">Con Emacs también podemos editar Markdown</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7971993" class="outline-3">
+<h3 id="org7971993">minidlna</h3>
+<div class="outline-text-3" id="text-org7971993">
+<ul class="org-ul">
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-minidlna.html">minidlna</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgbf2222b" class="outline-3">
+<h3 id="orgbf2222b">multimedia</h3>
+<div class="outline-text-3" id="text-orgbf2222b">
+<ul class="org-ul">
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-minidlna.html">minidlna</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org817f559" class="outline-3">
+<h3 id="org817f559">nextcloud</h3>
+<div class="outline-text-3" id="text-org817f559">
+<ul class="org-ul">
+<li><i>2019-01-06</i> - <a href="https://ugeek.github.io/blog/post/2019-01-06-nextcloudpi.-nextcloud-en-raspbian-con-docker.html">NextcloudPi. Nextcloud en Raspbian con Docker</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5ecc86a" class="outline-3">
+<h3 id="org5ecc86a">notas</h3>
+<div class="outline-text-3" id="text-org5ecc86a">
+<ul class="org-ul">
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-visualiza-tus-notas-markdown-version-web-con-mkdocs.html">Visualiza tus Notas Markdown Versión Web con MkDocs</a></li>
+<li><i>2018-12-30</i> - <a href="https://ugeek.github.io/blog/post/2018-12-30-eliminar-comentarios-de-nuestros-script.html">Eliminar comentarios de nuestros script</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6687cc7" class="outline-3">
+<h3 id="org6687cc7">nube</h3>
+<div class="outline-text-3" id="text-org6687cc7">
+<ul class="org-ul">
+<li><i>2019-01-17</i> - <a href="https://ugeek.github.io/blog/post/2019-01-17-gpg-cifrado-de-archivos-simetrico.html">GPG. Cifrado de archivos simétrico</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgbaf1d91" class="outline-3">
+<h3 id="orgbaf1d91">orgmode</h3>
+<div class="outline-text-3" id="text-orgbaf1d91">
+<ul class="org-ul">
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html">Con Emacs también podemos editar Markdown</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html">Convertir de Markdown a Org Mode gracias a Pandoc</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc243430" class="outline-3">
+<h3 id="orgc243430">pandoc</h3>
+<div class="outline-text-3" id="text-orgc243430">
+<ul class="org-ul">
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html">Convertir de Markdown a Org Mode gracias a Pandoc</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7dd0610" class="outline-3">
+<h3 id="org7dd0610">podcast</h3>
+<div class="outline-text-3" id="text-org7dd0610">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-crear-el-feed-para-el-podcast-en-tu-blog-con-jekyll.html">Crear el Feed para el podcast en tu Blog con Jekyll</a></li>
+<li><i>2019-01-06</i> - <a href="https://ugeek.github.io/blog/post/2019-01-06-nextcloudpi.-nextcloud-en-raspbian-con-docker.html">NextcloudPi. Nextcloud en Raspbian con Docker</a></li>
+<li><i>2018-12-31</i> - <a href="https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html">Kde Connect en Emacs</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-descargar-todos-los-episodios-de-un-podcast-con-bash.html">Descargar todos los episodios de un Podcast con wget</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org31cd947" class="outline-3">
+<h3 id="org31cd947">raspberry</h3>
+<div class="outline-text-3" id="text-org31cd947">
+<ul class="org-ul">
+<li><i>2019-01-20</i> - <a href="https://ugeek.github.io/blog/post/2019-01-20-servidor-de-mensajeria-matrix-para-raspberry-cliente-riot.html">Servidor de Mensajería Matrix para Raspberry. Cliente Riot</a></li>
+<li><i>2019-01-17</i> - <a href="https://ugeek.github.io/blog/post/2019-01-17-gpg-cifrado-de-archivos-simetrico.html">GPG. Cifrado de archivos simétrico</a></li>
+<li><i>2019-01-06</i> - <a href="https://ugeek.github.io/blog/post/2019-01-06-nextcloudpi.-nextcloud-en-raspbian-con-docker.html">NextcloudPi. Nextcloud en Raspbian con Docker</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-visualiza-tus-notas-markdown-version-web-con-mkdocs.html">Visualiza tus Notas Markdown Versión Web con MkDocs</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-minidlna.html">minidlna</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org99db0cd" class="outline-3">
+<h3 id="org99db0cd">rss</h3>
+<div class="outline-text-3" id="text-org99db0cd">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-crear-el-feed-para-el-podcast-en-tu-blog-con-jekyll.html">Crear el Feed para el podcast en tu Blog con Jekyll</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org59ed4da" class="outline-3">
+<h3 id="org59ed4da">scrits</h3>
+<div class="outline-text-3" id="text-org59ed4da">
+<ul class="org-ul">
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-el-poder-de-la-terminal-y-el-scripting.html">El poder de la terminal y el scripting</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3f8dc35" class="outline-3">
+<h3 id="org3f8dc35">sed</h3>
+<div class="outline-text-3" id="text-org3f8dc35">
+<ul class="org-ul">
+<li><i>2018-12-30</i> - <a href="https://ugeek.github.io/blog/post/2018-12-30-eliminar-comentarios-de-nuestros-script.html">Eliminar comentarios de nuestros script</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-eliminar-lineas-en-blanco.html">Eliminar líneas en Blanco con sed</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgcac61f5" class="outline-3">
+<h3 id="orgcac61f5">servidor</h3>
+<div class="outline-text-3" id="text-orgcac61f5">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-crear-el-feed-para-el-podcast-en-tu-blog-con-jekyll.html">Crear el Feed para el podcast en tu Blog con Jekyll</a></li>
+<li><i>2019-01-20</i> - <a href="https://ugeek.github.io/blog/post/2019-01-20-servidor-de-mensajeria-matrix-para-raspberry-cliente-riot.html">Servidor de Mensajería Matrix para Raspberry. Cliente Riot</a></li>
+<li><i>2019-01-17</i> - <a href="https://ugeek.github.io/blog/post/2019-01-17-gpg-cifrado-de-archivos-simetrico.html">GPG. Cifrado de archivos simétrico</a></li>
+<li><i>2019-01-08</i> - <a href="https://ugeek.github.io/blog/post/2019-01-08-crear-un-blog-en-github.-github-pages.html">Crear un Blog en GitHub. GitHub Pages</a></li>
+<li><i>2019-01-06</i> - <a href="https://ugeek.github.io/blog/post/2019-01-06-nextcloudpi.-nextcloud-en-raspbian-con-docker.html">NextcloudPi. Nextcloud en Raspbian con Docker</a></li>
+<li><i>2019-01-04</i> - <a href="https://ugeek.github.io/blog/post/2019-01-04-crear-un-blog-en-gitlab.-gitlab-pages.html">Crear un Blog en GitLab. GitLab Pages</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-visualiza-tus-notas-markdown-version-web-con-mkdocs.html">Visualiza tus Notas Markdown Versión Web con MkDocs</a></li>
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+<li><i>2018-12-29</i> - <a href="https://ugeek.github.io/blog/post/2018-12-29-redirigir-el-trafico-de-pagina-web-a-otra.html">Redirigir el tráfico de una página web a otra</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-minidlna.html">minidlna</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9f2f804" class="outline-3">
+<h3 id="org9f2f804">sincronización</h3>
+<div class="outline-text-3" id="text-org9f2f804">
+<ul class="org-ul">
+<li><i>2018-12-31</i> - <a href="https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html">Kde Connect en Emacs</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9cf3731" class="outline-3">
+<h3 id="org9cf3731">terminal</h3>
+<div class="outline-text-3" id="text-org9cf3731">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-utilizando-git-con-la-terminal-github.html">Utilizando Git con la Terminal. GitHub</a></li>
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-antergos-comandos-para-terminal-y-derivadas-de-arch-linux.html">Antergos. Comandos para terminal y derivadas de Arch Linux</a></li>
+<li><i>2019-01-05</i> - <a href="https://ugeek.github.io/blog/post/2019-01-05-elimina-archivos-duplicados-con-fduples.html">Elimina archivos duplicados con fduples</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-el-poder-de-la-terminal-y-el-scripting.html">El poder de la terminal y el scripting</a></li>
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-kdeconnect-en-ubuntu.html">Kde Connect en Ubuntu&#x2026;</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-descargar-todos-los-episodios-de-un-podcast-con-bash.html">Descargar todos los episodios de un Podcast con wget</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-eliminar-lineas-en-blanco.html">Eliminar líneas en Blanco con sed</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1ef96c0" class="outline-3">
+<h3 id="org1ef96c0">ubuntu</h3>
+<div class="outline-text-3" id="text-org1ef96c0">
+<ul class="org-ul">
+<li><i>2019-01-21</i> - <a href="https://ugeek.github.io/blog/post/2019-01-21-antergos-comandos-para-terminal-y-derivadas-de-arch-linux.html">Antergos. Comandos para terminal y derivadas de Arch Linux</a></li>
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-kdeconnect-en-ubuntu.html">Kde Connect en Ubuntu&#x2026;</a></li>
+<li><i>2018-12-31</i> - <a href="https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html">Kde Connect en Emacs</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd5d1c97" class="outline-3">
+<h3 id="orgd5d1c97">unix</h3>
+<div class="outline-text-3" id="text-orgd5d1c97">
+<ul class="org-ul">
+<li><i>2019-01-05</i> - <a href="https://ugeek.github.io/blog/post/2019-01-05-elimina-archivos-duplicados-con-fduples.html">Elimina archivos duplicados con fduples</a></li>
+<li><i>2019-01-03</i> - <a href="https://ugeek.github.io/blog/post/2019-01-03-el-poder-de-la-terminal-y-el-scripting.html">El poder de la terminal y el scripting</a></li>
+<li><i>2019-01-02</i> - <a href="https://ugeek.github.io/blog/post/2019-01-02-crear-listas-m3u-para-minidlna-o-vlc.html">Crear listas m3u para minidlna o vlc</a></li>
+<li><i>2018-12-30</i> - <a href="https://ugeek.github.io/blog/post/2018-12-30-eliminar-comentarios-de-nuestros-script.html">Eliminar comentarios de nuestros script</a></li>
+<li><i>2018-12-28</i> - <a href="https://ugeek.github.io/blog/post/2018-12-28-descargar-todos-los-episodios-de-un-podcast-con-bash.html">Descargar todos los episodios de un Podcast con wget</a></li>
+<li><i>2018-12-27</i> - <a href="https://ugeek.github.io/blog/post/2018-12-27-eliminar-lineas-en-blanco.html">Eliminar líneas en Blanco con sed</a></li>
 </ul>
 <br><br><br><p style="text-align: center;">Powered by <a href="https://github.com/ugeek/org-bash-podcast" target="_blank" rel="noopener">org-bash-podcast</a></p><p style="text-align: center;">Writing in orgmode whith emacs</p> <p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>
 </div>
