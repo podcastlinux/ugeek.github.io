@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 22 Jan 2019 18:28 +0100</pubDate>
+    <pubDate>Wed, 23 Jan 2019 19:00 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Alternativa para sincronizar tus Calendarios, Contactos, rss, Tareas...</title>
+    <link>https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html</link>
+    <pubDate>Wed, 23 Jan 2019 20:44 +0100</pubDate>
+    <description>Sincroniza tus Calendarios, Contactos, rss y Tareas con Syncthing y DecSync
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html&gt;Alternativa para sincronizar tus Calendarios, Contactos, rss, Tareas...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/2177369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-23%2FAlternativa-para-sincronizar-t-6dbe9a23c72f9.m4a"/>
+    <guid>https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html</guid> 
+          <itunes:summary>Sincroniza tus Calendarios, Contactos, rss y Tareas con Syncthing y DecSync</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Proyectos Nuevos y el Poder de la Terminal</title>
     <link>https://ugeek.github.io//post/2019-01-14-proyectos-nuevos-y-el-poder-de-la-terminal.html</link>
@@ -3473,7 +3500,7 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <enclosure url="hhttps://ia601902.us.archive.org/28/items/007LinuxEsUnaAlternativaReal/%23007%20Linux%20es%20una%20alternativa%20real.mp3"/>
+    <enclosure url="https://ia601902.us.archive.org/28/items/007LinuxEsUnaAlternativaReal/%23007%20Linux%20es%20una%20alternativa%20real.mp3"/>
     <guid>https://ugeek.github.io//post/2017-02-07-linux-es-una-alternativa-real.html</guid> 
           <itunes:summary>Linux como alternativa a otras soluciones privativas así como programas de Software Libre.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
