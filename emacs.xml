@@ -1,65 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>uGeek Podcast</title>
-    <link>https://ugeek.github.io/</link>
+    <title>uGeek Blog </title>
+    <link>https://ugeek.github.io/blog</link>
     <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
     <image>
-       <url>https://ugeek.github.io//ugeek.png</url>
-       <title>uGeek Podcast</title>
-       <link>https://ugeek.github.io/</link>
+       <url>https://ugeek.github.io/blog/ugeek.png</url>
+       <title>uGeek Blog </title>
+       <link>https://ugeek.github.io/blog</link>
     </image>
     <language>es</language>
-    <atom:link href="https://ugeek.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+    <atom:link href="https://ugeek.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <generator>org-bash-blog static site generator (https://github.com/ugeek/org-bash-blog)</generator>
    <item>
-    <title>GNU-Linux, Emacs,.. ¿porqué?</title>
-    <link>https://ugeek.github.io//post/2018-11-21-gnu-linux-emacs-porque.html</link>
-    <description>GNU-Linux, Emacs,.. ¿porqué?</description>
-    <pubDate>Wed, 21 Nov 2018 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2018-11-21-gnu-linux-emacs-porque.html</guid>
+    <title>Lee Super rápido en Emacs con Spray</title>
+    <link>https://ugeek.github.io/blog/post/2019-01-27-lee-super-rapido-en-emacs-con-spray.html</link>
+    <description>No se si recordáis la aplicación Spritz, aquella aplicación que apareció a principios del año 2014 y que sus desarrolladores prometían que podríamos doblar o triplicar la velocidad de lectura. Si eres de aquellos que quieren leer más rápido o te cuesta concentrarte en la lectura de tus orgmode, voy a explicarte como instalarlo en el propio emacs de un modo sencillo.... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2019-01-27-lee-super-rapido-en-emacs-con-spray.html&gt;Lee Super rápido en Emacs con Spray&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Sun, 27 Jan 2019 18:00 +0100</pubDate>
+    <guid>https://ugeek.github.io/blog/post/2019-01-27-lee-super-rapido-en-emacs-con-spray.html</guid>
    </item>
    <item>
-    <title>Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</title>
-    <link>https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</link>
-    <description>Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</description>
-    <pubDate>Mon, 29 Oct 2018 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</guid>
+    <title>Con Emacs también podemos editar Markdown</title>
+    <link>https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html</link>
+    <description>He hablado de como crear tus archivos Org Mode mediante Emacs, pero… ¿Realmente vale la pena invertir tiempo en aprender los atajos de teclado y el funcionamiento de Emacs?... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html&gt;Con Emacs también podemos editar Markdown&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Thu, 03 Jan 2019 18:00 +0100</pubDate>
+    <guid>https://ugeek.github.io/blog/post/2019-01-03-con-emacs-tambien-podemos-editar-markdown.html</guid>
    </item>
    <item>
-    <title>Como gestiono Mis Notas Markdown</title>
-    <link>https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html</link>
-    <description>Como gestiono Mis Notas Markdown</description>
-    <pubDate>Sun, 14 Oct 2018 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html</guid>
+    <title>Kde Connect en Emacs</title>
+    <link>https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html</link>
+    <description>Por culpa del [[https://www.atareao.es/podcast/integrando-android-con-ubuntu/][Podcast de atareao.es]], he estado probando Kde Connect y la verdad es que ha pasado a ser una aplicación imprescindible en mi día a día. Tal como explica en su Podcast, existe la posibilidad de utilizarla con Emacs y como podéis imaginar, no me he podido resistir a probarla. Os explico como utilizarla... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html&gt;Kde Connect en Emacs&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 31 Dec 2018 18:00 +0100</pubDate>
+    <guid>https://ugeek.github.io/blog/post/2018-12-31-kde-connecte-en-emacs.html</guid>
    </item>
    <item>
-    <title>Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.</title>
-    <link>https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</link>
-    <description>Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.</description>
-    <pubDate>Tue, 09 Oct 2018 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</guid>
-   </item>
-   <item>
-    <title>El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….</title>
-    <link>https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</link>
-    <description>El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….</description>
-    <pubDate>Wed, 19 Sep 2018 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</guid>
-   </item>
-   <item>
-    <title>Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...</title>
-    <link>https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</link>
-    <description>Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...</description>
-    <pubDate>Wed, 12 Jul 2017 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</guid>
-   </item>
-   <item>
-    <title>Metodo mas completo para recopilar notas, org Mode</title>
-    <link>https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</link>
-    <description>Este es el método definitivo, hasta ahora, para tomar mis notas con un sistema jerárquico de  notas y todas dentro en un único txt, renombrado como .org</description>
-    <pubDate>Wed, 08 Mar 2017 20:44 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</guid>
+    <title>Convertir de Markdown a Org Mode gracias a Pandoc</title>
+    <link>https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html</link>
+    <description>Vamos a convertir nuestros archivos Markdown a Org Mode gracias a Pandoc... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html&gt;Convertir de Markdown a Org Mode gracias a Pandoc&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/blog&gt;Visita uGeek Blog &lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Fri, 28 Dec 2018 18:00 +0100</pubDate>
+    <guid>https://ugeek.github.io/blog/post/2018-12-28-convertir-de-markdown-a-org-mode-gracias-a-pandoc.html</guid>
    </item>
   </channel>
 </rss>
