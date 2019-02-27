@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 27 Feb 2019 21:40 +0100</pubDate>
+    <pubDate>Wed, 27 Feb 2019 21:53 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Aplicaciones a la última en tu Raspberry o Servidor</title>
+    <link>https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</link>
+    <pubDate>Wed, 27 Feb 2019 20:44 +0100</pubDate>
+    <description>Prueba crear tu Blog con org-bash-blog y crea tus dockers
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html&gt;Aplicaciones a la última en tu Raspberry o Servidor&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/2505475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-27%2F10579962-44100-1-af5ed9653ca74.mp3"/>
+    <guid>https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</guid> 
+          <itunes:summary>Prueba crear tu Blog con org-bash-blog y crea tus dockers</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Enviar archivos a la Papelera desde la Terminal</title>
     <link>https://ugeek.github.io//post/2019-02-07-enviar-archivos-a-la-papelera-desde-la-terminal.html</link>
@@ -47,33 +74,6 @@
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/2310167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-7%2F9670117-44100-2-661931ff15fce.mp3"/>
     <guid>https://ugeek.github.io//post/2019-02-07-enviar-archivos-a-la-papelera-desde-la-terminal.html</guid> 
           <itunes:summary>Artículo completo, con mas información en: https://ugeek.github.io/blog/post/2019-02-07-papelera-reciclaje-desde-la-terminal.html. Aplicación de Podcast: https://ugeek.github.io/blog/post/2019-01-26-castero-podcatcher-ligero-para-terminal.html</itunes:summary>
-          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
-          <itunes:explicit>No</itunes:explicit>
-   </item>
-   <item>
-    <title>Aplicaciones a la última en tu Raspberry o Servidor</title>
-    <link>https://ugeek.github.io//post/2019-02-07-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</link>
-    <pubDate>Thu, 07 Feb 2019 20:44 +0100</pubDate>
-    <description>Prueba crear tu Blog con org-bash-blog y crea tus dockers
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-02-07-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html&gt;Aplicaciones a la última en tu Raspberry o Servidor&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
-
-&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
-
-&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
-
-</description>
-    <enclosure url="https://anchor.fm/s/106db04/podcast/play/2505475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-27%2F10579962-44100-1-af5ed9653ca74.mp3"/>
-    <guid>https://ugeek.github.io//post/2019-02-07-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</guid> 
-          <itunes:summary>Prueba crear tu Blog con org-bash-blog y crea tus dockers</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
