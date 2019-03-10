@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 27 Feb 2019 21:53 +0100</pubDate>
+    <pubDate>Sun, 10 Mar 2019 20:57 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Notas y Documentos en la nube para compartir, trabajar en equipo,...</title>
+    <link>https://ugeek.github.io//post/...-notas-y-documentos-en-la-nube-para-compartir.html</link>
+    <pubDate> 20:44 +0100</pubDate>
+    <description>-trabajar-en-equipo
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/...-notas-y-documentos-en-la-nube-para-compartir.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="21:00"/>
+    <guid>https://ugeek.github.io//post/...-notas-y-documentos-en-la-nube-para-compartir.html</guid> 
+          <itunes:summary>-trabajar-en-equipo</itunes:summary>
+          <itunes:image href=""/>  
+          <itunes:keywords>emacs,orgmode,,,</itunes:keywords>
+          <itunes:explicit>https://ugeek.github.io/blog/icon/ugeek.png</itunes:explicit>
+   </item>
    <item>
     <title>Aplicaciones a la última en tu Raspberry o Servidor</title>
     <link>https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</link>
