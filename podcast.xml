@@ -22,14 +22,14 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sun, 10 Mar 2019 21:16 +0100</pubDate>
+    <pubDate>Sun, 10 Mar 2019 23:23 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Notas y Documentos en la nube para compartir, trabajar en equipo,...</title>
-    <link>https://ugeek.github.io//post/2019-03-10-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</link>
-    <pubDate>Sun, 10 Mar 2019 20:44 +0100</pubDate>
-    <description>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita. Podemos utilizar Simplenote en nuestro navegador web, aplicaciones de escritorio (incluso con paquete &nbsp;snap), Android, iOS…
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-10-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
+    <link>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</link>
+    <pubDate>Mon, 11 Mar 2019 20:44 +0100</pubDate>
+    <description>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -45,8 +45,8 @@
 
 </description>
     <enclosure url="https://anchor.fm/s/106db04/podcast/play/2604843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-10%2FNotas-y-Documentos-en-la-nube--b4a7c142e9463.m4a"/>
-    <guid>https://ugeek.github.io//post/2019-03-10-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid> 
-          <itunes:summary>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita. Podemos utilizar Simplenote en nuestro navegador web, aplicaciones de escritorio (incluso con paquete &nbsp;snap), Android, iOS…</itunes:summary>
+    <guid>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid> 
+          <itunes:summary>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
           <itunes:keywords>,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
