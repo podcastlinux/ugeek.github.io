@@ -13,10 +13,10 @@
     <atom:link href="https://ugeek.github.io//feed.xml" rel="self" type="application/rss+xml" />
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
-    <title>Notas y Documentos en la nube para compartir, trabajar en equipo,...</title>
-    <link>https://ugeek.github.io//post/2019-03-10-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</link>
-    <description>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita. Podemos utilizar Simplenote en nuestro navegador web, aplicaciones de escritorio (incluso con paquete &nbsp;snap), Android, iOS…... 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-10-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
+    <title>Crea un Bot de Telegram con Bash muy Facil</title>
+    <link>https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html</link>
+    <description>Todas las notas de este Podcast, las encontraras en:https://ugeek.github.io/blog/post/2019-03-14-crea-un-bot-de-telegram-con-bash-y-una-sola-linea-de-terminal.html... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html&gt;Crea un Bot de Telegram con Bash muy Facil&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -35,8 +35,34 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <pubDate>Sun, 10 Mar 2019 21:00 +0100</pubDate>
-    <guid>https://ugeek.github.io//post/2019-03-10-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid>
+    <pubDate>Thu, 14 Mar 2019 21:36 +0100</pubDate>
+    <guid>https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html</guid>
+   </item>
+   <item>
+    <title>Notas y Documentos en la nube para compartir, trabajar en equipo,...</title>
+    <link>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</link>
+    <description>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita... 
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <pubDate>Mon, 11 Mar 2019 5:45 +0100</pubDate>
+    <guid>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid>
    </item>
    <item>
     <title>Aplicaciones a la última en tu Raspberry o Servidor</title>
