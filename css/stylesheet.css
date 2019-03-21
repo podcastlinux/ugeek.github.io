@@ -7,7 +7,7 @@
 
 @media all and (min-width: 1000px){
     #ugeek { left: 42%; } }
- 
+
 
 
 body {
@@ -16,7 +16,7 @@ body {
 
 @media all and (min-width: 1000px){
     body {
-        max-width: 42%;
+        max-width: 80%;
         margin: auto; } }
 
 @media all and (max-width: 1000px){
@@ -212,4 +212,5 @@ table, th, td {
     margin: auto;
     
 }
+
 
