@@ -8,8 +8,8 @@
 @media all and (min-width: 1000px){
     #ugeek { left: 42%; } }
 @media all and (max-width: 1000px){
-    body { right: 80%; } }
-
+    #ugeek { left: 82%; } }
+ 
 
 
 body {
