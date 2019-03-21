@@ -1,5 +1,15 @@
  /* Letras centrales de uGeek */
 
+#ugeek {
+  position: absolute;
+  font-size: 2.00em;
+  top: 1.30em; }
+
+@media all and (min-width: 1000px){
+    #ugeek { left: 42%; } }
+@media all and (max-width: 1000px){
+    body { right: 80%; } }
+
 
 
 body {
@@ -8,7 +18,7 @@ body {
 
 @media all and (min-width: 1000px){
     body {
-        max-width: 80%;
+        max-width: 42%;
         margin: auto; } }
 
 @media all and (max-width: 1000px){
