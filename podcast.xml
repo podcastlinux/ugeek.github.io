@@ -22,14 +22,14 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 28 Mar 2019 15:54 +0100</pubDate>
+    <pubDate>Thu, 28 Mar 2019 16:01 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram.</title>
-    <link>https://ugeek.github.io//post/-archivos…-con-mi-bot-de-telegram-y-categorías-telegram.-enviando-imágenes.html</link>
-    <pubDate> 20:44 +0100</pubDate>
-    <description>-audios
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/-archivos…-con-mi-bot-de-telegram-y-categorías-telegram.-enviando-imágenes.html&gt;Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram.&lt;/a&gt;
+    <link>https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html</link>
+    <pubDate>Thu, 28 Mar 2019 20:44 +0100</pubDate>
+    <description>Sigue paso a paso el tutorial en : https://ugeek.github.io/blog/post/2019-03-26-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-de-una-sola-linea-de-terminal.html
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html&gt;Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -44,12 +44,12 @@
 &lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
 
 </description>
-    <enclosure url="15:42"/>
-    <guid>https://ugeek.github.io//post/-archivos…-con-mi-bot-de-telegram-y-categorías-telegram.-enviando-imágenes.html</guid> 
-          <itunes:summary>-audios</itunes:summary>
-          <itunes:image href=""/>  
-          <itunes:keywords>bot,,,,</itunes:keywords>
-          <itunes:explicit>https://ugeek.github.io/blog/icon/ugeek.png</itunes:explicit>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/2770641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-28%2FEnviando-Im-genes--audios--arc-873dfdb47c8ba.m4a"/>
+    <guid>https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html</guid> 
+          <itunes:summary>Sigue paso a paso el tutorial en : https://ugeek.github.io/blog/post/2019-03-26-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-de-una-sola-linea-de-terminal.html</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
     <title>Crea un Bot de Telegram con Bash muy Facil</title>
