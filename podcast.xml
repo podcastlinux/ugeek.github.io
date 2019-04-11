@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Sun, 07 Apr 2019 00:39 +0100</pubDate>
+    <pubDate>Thu, 11 Apr 2019 18:15 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Controla tu Raspberry, Servidor o PC desde Telegram</title>
+    <link>https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</link>
+    <pubDate>Thu, 11 Apr 2019 20:44 +0100</pubDate>
+    <description>Voy a explicarte como configurar un Bot de Telegram, que te va a &nbsp;permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html&gt;Controla tu Raspberry, Servidor o PC desde Telegram&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/2909385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-11%2F12698297-44100-2-cc7aa8e8b47a9.mp3"/>
+    <guid>https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</guid> 
+          <itunes:summary>Voy a explicarte como configurar un Bot de Telegram, que te va a &nbsp;permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram.</title>
     <link>https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html</link>
