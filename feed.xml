@@ -5,7 +5,7 @@
     <link>https://ugeek.github.io/</link>
     <description>Blog de Tecnología, Android, GNU Linux, Servidores, y mucho más. Blog vinculado al Blog del Podcast de uGeek</description>
     <image>
-       <url>https://ugeek.github.io//ugeek.png</url>
+       <url>https://ugeek.github.io/ugeek.png</url>
        <title>uGeek Podcast</title>
        <link>https://ugeek.github.io/</link>
     </image>
@@ -15,7 +15,9 @@
    <item>
     <title>Podcast de Controla tu Raspberry, Servidor o PC desde Telegram</title>
     <link>https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</link>
-    <description>Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast de Controla tu Raspberry, Servidor o PC desde Telegram"&gt;
+&lt;br&gt;&lt;p&gt;Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html&gt;Podcast de Controla tu Raspberry, Servidor o PC desde Telegram&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -25,6 +27,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -36,12 +39,18 @@
 
 </description>
     <pubDate>Thu, 11 Apr 2019 21:00 +0100</pubDate>
+    <category>telegram</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</guid>
    </item>
    <item>
     <title>Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram.</title>
     <link>https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html</link>
-    <description>Sigue paso a paso el tutorial en : https://ugeek.github.io/blog/post/2019-03-26-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-de-una-sola-linea-de-terminal.html... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram."&gt;
+&lt;br&gt;&lt;p&gt;Sigue paso a paso el tutorial en : https://ugeek.github.io/blog/post/2019-03-26-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-de-una-sola-linea-de-terminal.html... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html&gt;Enviando Imágenes, audios, archivos… con mi bot de Telegram y Categorías Telegram.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -51,6 +60,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -62,12 +72,18 @@
 
 </description>
     <pubDate>Thu, 28 Mar 2019 15:42 +0100</pubDate>
+    <category>telegram</category>
+    <category>bot</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html</guid>
    </item>
    <item>
     <title>Crea un Bot de Telegram con Bash muy Facil</title>
     <link>https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html</link>
-    <description>Todas las notas de este Podcast, las encontraras en:https://ugeek.github.io/blog/post/2019-03-14-crea-un-bot-de-telegram-con-bash-y-una-sola-linea-de-terminal.html... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Crea un Bot de Telegram con Bash muy Facil"&gt;
+&lt;br&gt;&lt;p&gt;Todas las notas de este Podcast, las encontraras en:https://ugeek.github.io/blog/post/2019-03-14-crea-un-bot-de-telegram-con-bash-y-una-sola-linea-de-terminal.html... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html&gt;Crea un Bot de Telegram con Bash muy Facil&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -77,6 +93,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -88,12 +105,18 @@
 
 </description>
     <pubDate>Thu, 14 Mar 2019 22:36 +0100</pubDate>
+    <category>telegram</category>
+    <category>bash</category>
+    <category>telegram</category>
+    <category>bot</category>
     <guid>https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html</guid>
    </item>
    <item>
     <title>Notas y Documentos en la nube para compartir, trabajar en equipo,...</title>
     <link>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</link>
-    <description>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Notas y Documentos en la nube para compartir, trabajar en equipo,..."&gt;
+&lt;br&gt;&lt;p&gt;Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html&gt;Notas y Documentos en la nube para compartir, trabajar en equipo,...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -103,6 +126,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -114,12 +138,18 @@
 
 </description>
     <pubDate>Mon, 11 Mar 2019 5:45 +0100</pubDate>
+    <category>emacs</category>
+    <category>emacs</category>
+    <category>orgmode</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid>
    </item>
    <item>
     <title>Aplicaciones a la última en tu Raspberry o Servidor</title>
     <link>https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</link>
-    <description>Prueba crear tu Blog con org-bash-blog y crea tus dockers... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Aplicaciones a la última en tu Raspberry o Servidor"&gt;
+&lt;br&gt;&lt;p&gt;Prueba crear tu Blog con org-bash-blog y crea tus dockers... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html&gt;Aplicaciones a la última en tu Raspberry o Servidor&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -129,6 +159,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -140,12 +171,18 @@
 
 </description>
     <pubDate>Wed, 27 Feb 2019 21:52 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category>docker</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</guid>
    </item>
    <item>
     <title>Enviar archivos a la Papelera desde la Terminal</title>
     <link>https://ugeek.github.io//post/2019-02-07-enviar-archivos-a-la-papelera-desde-la-terminal.html</link>
-    <description>Artículo completo, con mas información en: https://ugeek.github.io/blog/post/2019-02-07-papelera-reciclaje-desde-la-terminal.html. Aplicación de Podcast: https://ugeek.github.io/blog/post/2019-01-26-castero-podcatcher-ligero-para-terminal.html... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Enviar archivos a la Papelera desde la Terminal"&gt;
+&lt;br&gt;&lt;p&gt;Artículo completo, con mas información en: https://ugeek.github.io/blog/post/2019-02-07-papelera-reciclaje-desde-la-terminal.html. Aplicación de Podcast: https://ugeek.github.io/blog/post/2019-01-26-castero-podcatcher-ligero-para-terminal.html... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-02-07-enviar-archivos-a-la-papelera-desde-la-terminal.html&gt;Enviar archivos a la Papelera desde la Terminal&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -155,6 +192,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -166,12 +204,18 @@
 
 </description>
     <pubDate>Thu, 07 Feb 2019 17:40 +0100</pubDate>
+    <category>terminal</category>
+    <category>bash</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-02-07-enviar-archivos-a-la-papelera-desde-la-terminal.html</guid>
    </item>
    <item>
     <title>33 Servicios de Software Libre, en un servidor Gratis que puedes utilizar</title>
     <link>https://ugeek.github.io//post/2019-01-30-33-servicios-de-software-libre-en-un-servidor-gratis-que-puedes-utilizar.html</link>
-    <description>33 Servicios de Software Libre, en un servidor Gratis que puedes utilizar. Servicios como nextcloud, tt-rss, wallabag, dokuwiki... que podrás utilizar y probar de un modo gratuito en: https://framasoft.org. Vista la web de ugeek.github.io para más información... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="33 Servicios de Software Libre, en un servidor Gratis que puedes utilizar"&gt;
+&lt;br&gt;&lt;p&gt;33 Servicios de Software Libre, en un servidor Gratis que puedes utilizar. Servicios como nextcloud, tt-rss, wallabag, dokuwiki... que podrás utilizar y probar de un modo gratuito en: https://framasoft.org. Vista la web de ugeek.github.io para más información... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-01-30-33-servicios-de-software-libre-en-un-servidor-gratis-que-puedes-utilizar.html&gt;33 Servicios de Software Libre, en un servidor Gratis que puedes utilizar&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -181,6 +225,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -192,12 +237,18 @@
 
 </description>
     <pubDate>Wed, 30 Jan 2019 20:35 +0100</pubDate>
+    <category>servicios</category>
+    <category>nextcloud</category>
+    <category>tt-rss</category>
+    <category>wallabag</category>
     <guid>https://ugeek.github.io//post/2019-01-30-33-servicios-de-software-libre-en-un-servidor-gratis-que-puedes-utilizar.html</guid>
    </item>
    <item>
     <title>Alternativa para sincronizar tus Calendarios, Contactos, rss, Tareas...</title>
     <link>https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html</link>
-    <description>Sincroniza tus Calendarios, Contactos, rss y Tareas con Syncthing y DecSync... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Alternativa para sincronizar tus Calendarios, Contactos, rss, Tareas..."&gt;
+&lt;br&gt;&lt;p&gt;Sincroniza tus Calendarios, Contactos, rss y Tareas con Syncthing y DecSync... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html&gt;Alternativa para sincronizar tus Calendarios, Contactos, rss, Tareas...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -207,6 +258,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -218,12 +270,18 @@
 
 </description>
     <pubDate>Wed, 23 Jan 2019 18:55 +0100</pubDate>
+    <category>syncthing</category>
+    <category>nextcloud</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html</guid>
    </item>
    <item>
     <title>Proyectos Nuevos y el Poder de la Terminal</title>
     <link>https://ugeek.github.io//post/2019-01-14-proyectos-nuevos-y-el-poder-de-la-terminal.html</link>
-    <description>Proyectos Nuevos y el Poder de la Terminal... 
+    <description>
+&lt;img src="https://i.imgur.com/EnuPSxT.jpg" alt="Proyectos Nuevos y el Poder de la Terminal"&gt;
+&lt;br&gt;&lt;p&gt;Proyectos Nuevos y el Poder de la Terminal... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-01-14-proyectos-nuevos-y-el-poder-de-la-terminal.html&gt;Proyectos Nuevos y el Poder de la Terminal&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -233,6 +291,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -244,12 +303,18 @@
 
 </description>
     <pubDate>Mon, 14 Jan 2019 19:12 +0100</pubDate>
+    <category>terminal</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2019-01-14-proyectos-nuevos-y-el-poder-de-la-terminal.html</guid>
    </item>
    <item>
     <title>Escuchar podcast a medida y dos bots de telegram</title>
     <link>https://ugeek.github.io//post/2018-12-13-escuchar-podcast-a-medida-y-dos-bots-de-telegram.html</link>
-    <description>Escuchar podcast a medida y dos bots de telegram... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Escuchar podcast a medida y dos bots de telegram"&gt;
+&lt;br&gt;&lt;p&gt;Escuchar podcast a medida y dos bots de telegram... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-12-13-escuchar-podcast-a-medida-y-dos-bots-de-telegram.html&gt;Escuchar podcast a medida y dos bots de telegram&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -259,6 +324,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -270,12 +336,18 @@
 
 </description>
     <pubDate>Thu, 13 Dec 2018 17:33 +0100</pubDate>
+    <category>podcast'</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-12-13-escuchar-podcast-a-medida-y-dos-bots-de-telegram.html</guid>
    </item>
    <item>
     <title>Cambio de Filosofía</title>
     <link>https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html</link>
-    <description>Cambio de Filosofía... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Cambio de Filosofía"&gt;
+&lt;br&gt;&lt;p&gt;Cambio de Filosofía... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html&gt;Cambio de Filosofía&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -285,6 +357,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -296,12 +369,18 @@
 
 </description>
     <pubDate>Mon, 10 Dec 2018 08:00 +0100</pubDate>
+    <category>linux</category>
+    <category>snap</category>
+    <category>flatpak</category>
+    <category>app</category>
     <guid>https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html</guid>
    </item>
    <item>
     <title>Crea tu Propio Docker, si no Existe.</title>
     <link>https://ugeek.github.io//post/2018-12-03-crea-tu-propio-docker-si-no-existe.html</link>
-    <description>Crea tu Propio Docker, si no Existe.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Crea tu Propio Docker, si no Existe."&gt;
+&lt;br&gt;&lt;p&gt;Crea tu Propio Docker, si no Existe.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-12-03-crea-tu-propio-docker-si-no-existe.html&gt;Crea tu Propio Docker, si no Existe.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -311,6 +390,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -322,12 +402,18 @@
 
 </description>
     <pubDate>Mon, 03 Dec 2018 18:44 +0100</pubDate>
+    <category>docker</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-12-03-crea-tu-propio-docker-si-no-existe.html</guid>
    </item>
    <item>
     <title>Pocket Cast en tu Escritorio Linux mediante Snap</title>
     <link>https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html</link>
-    <description>Pocket Cast en tu Escritorio Linux mediante Snap... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Pocket Cast en tu Escritorio Linux mediante Snap"&gt;
+&lt;br&gt;&lt;p&gt;Pocket Cast en tu Escritorio Linux mediante Snap... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html&gt;Pocket Cast en tu Escritorio Linux mediante Snap&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -337,6 +423,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -348,12 +435,18 @@
 
 </description>
     <pubDate>Fri, 30 Nov 2018 22:51 +0100</pubDate>
+    <category>app</category>
+    <category>snap</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html</guid>
    </item>
    <item>
     <title>GitLab + Novedades de Syncthing y Orgzly</title>
     <link>https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html</link>
-    <description>GitLab + Novedades de Syncthing y Orgzly... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="GitLab + Novedades de Syncthing y Orgzly"&gt;
+&lt;br&gt;&lt;p&gt;GitLab + Novedades de Syncthing y Orgzly... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html&gt;GitLab + Novedades de Syncthing y Orgzly&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -363,6 +456,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -374,12 +468,18 @@
 
 </description>
     <pubDate>Mon, 26 Nov 2018 21:22 +0100</pubDate>
+    <category>syncthing</category>
+    <category>git'</category>
+    <category>orgmode</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html</guid>
    </item>
    <item>
     <title>GNU-Linux, Emacs,.. ¿porqué?</title>
     <link>https://ugeek.github.io//post/2018-11-21-gnu-linux-emacs-porque.html</link>
-    <description>GNU-Linux, Emacs,.. ¿porqué?... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="GNU-Linux, Emacs,.. ¿porqué?"&gt;
+&lt;br&gt;&lt;p&gt;GNU-Linux, Emacs,.. ¿porqué?... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-11-21-gnu-linux-emacs-porque.html&gt;GNU-Linux, Emacs,.. ¿porqué?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -389,6 +489,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -400,12 +501,18 @@
 
 </description>
     <pubDate>Wed, 21 Nov 2018 21:53 +0100</pubDate>
+    <category>emacs</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-11-21-gnu-linux-emacs-porque.html</guid>
    </item>
    <item>
     <title>Como Actualizar tus Dockers</title>
     <link>https://ugeek.github.io//post/2018-11-05-como-actualizar-tus-dockers.html</link>
-    <description>Como Actualizar tus Dockers... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como Actualizar tus Dockers"&gt;
+&lt;br&gt;&lt;p&gt;Como Actualizar tus Dockers... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-11-05-como-actualizar-tus-dockers.html&gt;Como Actualizar tus Dockers&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -415,6 +522,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -426,12 +534,18 @@
 
 </description>
     <pubDate>Mon, 05 Nov 2018 22:49 +0100</pubDate>
+    <category>docker</category>
+    <category>docker</category>
+    <category>servidor</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-11-05-como-actualizar-tus-dockers.html</guid>
    </item>
    <item>
     <title>Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</title>
     <link>https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</link>
-    <description>Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3"&gt;
+&lt;br&gt;&lt;p&gt;Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html&gt;Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -441,6 +555,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -452,12 +567,18 @@
 
 </description>
     <pubDate>Mon, 29 Oct 2018 20:06 +0100</pubDate>
+    <category>syncthing</category>
+    <category>notas</category>
+    <category>emacs</category>
+    <category>i3</category>
     <guid>https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</guid>
    </item>
    <item>
     <title>Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez</title>
     <link>https://ugeek.github.io//post/2018-10-19-muchos-servicios-dietpi-y-mucho-mas-en-el-crossover-con-jose-jimenez.html</link>
-    <description>Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez"&gt;
+&lt;br&gt;&lt;p&gt;Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-10-19-muchos-servicios-dietpi-y-mucho-mas-en-el-crossover-con-jose-jimenez.html&gt;Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -467,6 +588,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -478,12 +600,18 @@
 
 </description>
     <pubDate>Fri, 19 Oct 2018 18:59 +0100</pubDate>
+    <category>raspberry</category>
+    <category>crossover</category>
+    <category>servidor</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-10-19-muchos-servicios-dietpi-y-mucho-mas-en-el-crossover-con-jose-jimenez.html</guid>
    </item>
    <item>
     <title>Como gestiono Mis Notas Markdown</title>
     <link>https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html</link>
-    <description>Como gestiono Mis Notas Markdown... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como gestiono Mis Notas Markdown"&gt;
+&lt;br&gt;&lt;p&gt;Como gestiono Mis Notas Markdown... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html&gt;Como gestiono Mis Notas Markdown&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -493,6 +621,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -504,12 +633,18 @@
 
 </description>
     <pubDate>Sun, 14 Oct 2018 23:34 +0100</pubDate>
+    <category>notas</category>
+    <category>markdown</category>
+    <category>emacs</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html</guid>
    </item>
    <item>
     <title>Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.</title>
     <link>https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</link>
-    <description>Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil."&gt;
+&lt;br&gt;&lt;p&gt;Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html&gt;Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -519,6 +654,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -530,12 +666,18 @@
 
 </description>
     <pubDate>Tue, 09 Oct 2018 23:26 +0100</pubDate>
+    <category>emacs</category>
+    <category>emacs</category>
+    <category>orgmode</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</guid>
    </item>
    <item>
     <title>El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….</title>
     <link>https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</link>
-    <description>El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo…."&gt;
+&lt;br&gt;&lt;p&gt;El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html&gt;El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -545,6 +687,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -556,12 +699,18 @@
 
 </description>
     <pubDate>Wed, 19 Sep 2018 18:19 +0100</pubDate>
+    <category>notas</category>
+    <category>emacs</category>
+    <category>orgmode</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</guid>
    </item>
    <item>
     <title>Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,...</title>
     <link>https://ugeek.github.io//post/2018-09-16-hablando-con-atareao-y-mosqueteroweb-de-servidores-en-casa-vps.html</link>
-    <description>Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,... Episodio que grabé con Atareao y MosqueteroWeb, en el primer aniversario de maratón linuxero... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,..."&gt;
+&lt;br&gt;&lt;p&gt;Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,... Episodio que grabé con Atareao y MosqueteroWeb, en el primer aniversario de maratón linuxero... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-09-16-hablando-con-atareao-y-mosqueteroweb-de-servidores-en-casa-vps.html&gt;Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -571,6 +720,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -582,12 +732,18 @@
 
 </description>
     <pubDate>Sun, 16 Sep 2018 22:15 +0100</pubDate>
+    <category>raspberry</category>
+    <category>servidor</category>
+    <category>maratón</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-09-16-hablando-con-atareao-y-mosqueteroweb-de-servidores-en-casa-vps.html</guid>
    </item>
    <item>
     <title>Xiaomi Mi band 3 de un modo Libre</title>
     <link>https://ugeek.github.io//post/2018-09-12-xiaomi-mi-band-3-de-un-modo-libre.html</link>
-    <description>Xiaomi Mi band 3 de un modo Libre... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Xiaomi Mi band 3 de un modo Libre"&gt;
+&lt;br&gt;&lt;p&gt;Xiaomi Mi band 3 de un modo Libre... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-09-12-xiaomi-mi-band-3-de-un-modo-libre.html&gt;Xiaomi Mi band 3 de un modo Libre&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -597,6 +753,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -608,12 +765,18 @@
 
 </description>
     <pubDate>Wed, 12 Sep 2018 19:25 +0100</pubDate>
+    <category>xiaomi</category>
+    <category>xiaomi</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-09-12-xiaomi-mi-band-3-de-un-modo-libre.html</guid>
    </item>
    <item>
     <title>Miscelania Veraniega. Maratón Linuxero, Texto Plano,...</title>
     <link>https://ugeek.github.io//post/2018-08-27-miscelania-veraniega-maraton-linuxero-texto-plano.html</link>
-    <description>Miscelania Veraniega. Maratón Linuxero, Texto Plano,...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Miscelania Veraniega. Maratón Linuxero, Texto Plano,..."&gt;
+&lt;br&gt;&lt;p&gt;Miscelania Veraniega. Maratón Linuxero, Texto Plano,...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-08-27-miscelania-veraniega-maraton-linuxero-texto-plano.html&gt;Miscelania Veraniega. Maratón Linuxero, Texto Plano,...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -623,6 +786,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -634,12 +798,18 @@
 
 </description>
     <pubDate>Mon, 27 Aug 2018 19:02 +0100</pubDate>
+    <category>textoplano</category>
+    <category>maratón</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-08-27-miscelania-veraniega-maraton-linuxero-texto-plano.html</guid>
    </item>
    <item>
     <title>Hablando de Servicios y Servidores entre Amigos</title>
     <link>https://ugeek.github.io//post/2018-07-26-hablando-de-servicios-y-servidores-entre-amigos.html</link>
-    <description>Hablando de Servicios y Servidores entre Amigos... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Hablando de Servicios y Servidores entre Amigos"&gt;
+&lt;br&gt;&lt;p&gt;Hablando de Servicios y Servidores entre Amigos... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-07-26-hablando-de-servicios-y-servidores-entre-amigos.html&gt;Hablando de Servicios y Servidores entre Amigos&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -649,6 +819,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -660,12 +831,18 @@
 
 </description>
     <pubDate>Thu, 26 Jul 2018 23:59 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-07-26-hablando-de-servicios-y-servidores-entre-amigos.html</guid>
    </item>
    <item>
     <title>Xiaomi Mi Band 3 y FileExplorer Pro</title>
     <link>https://ugeek.github.io//post/2018-07-19-xiaomi-mi-band-3-y-fileexplorer-pro.html</link>
-    <description>Xiaomi Mi Band 3 y FileExplorer Pro... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Xiaomi Mi Band 3 y FileExplorer Pro"&gt;
+&lt;br&gt;&lt;p&gt;Xiaomi Mi Band 3 y FileExplorer Pro... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-07-19-xiaomi-mi-band-3-y-fileexplorer-pro.html&gt;Xiaomi Mi Band 3 y FileExplorer Pro&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -675,6 +852,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -686,12 +864,18 @@
 
 </description>
     <pubDate>Thu, 19 Jul 2018 20:17 +0100</pubDate>
+    <category>xiaomi</category>
+    <category>android</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-07-19-xiaomi-mi-band-3-y-fileexplorer-pro.html</guid>
    </item>
    <item>
     <title>¿Existe un Internet sin Publicidad?</title>
     <link>https://ugeek.github.io//post/2018-07-10-existe-un-internet-sin-publicidad.html</link>
-    <description>En el podcast de hoy, explico cómo navegar sin publicidad y mis primeras impresiones con mi nuevo router Xiaomi y OpenWrt.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="¿Existe un Internet sin Publicidad?"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy, explico cómo navegar sin publicidad y mis primeras impresiones con mi nuevo router Xiaomi y OpenWrt.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-07-10-existe-un-internet-sin-publicidad.html&gt;¿Existe un Internet sin Publicidad?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -701,6 +885,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -712,12 +897,18 @@
 
 </description>
     <pubDate>Tue, 10 Jul 2018 22:34 +0100</pubDate>
+    <category>router</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-07-10-existe-un-internet-sin-publicidad.html</guid>
    </item>
    <item>
     <title>Tres app's de Mensajería con Total Privacidad</title>
     <link>https://ugeek.github.io//post/2018-07-08-tres-apps-de-mensajeria-con-total-privacidad.html</link>
-    <description>En este podcast os hablo de tres aplicaciones y servicios, que puedes instalar en tu raspberry y móvil para mantener al máximo tu privacidad... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Tres app's de Mensajería con Total Privacidad"&gt;
+&lt;br&gt;&lt;p&gt;En este podcast os hablo de tres aplicaciones y servicios, que puedes instalar en tu raspberry y móvil para mantener al máximo tu privacidad... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-07-08-tres-apps-de-mensajeria-con-total-privacidad.html&gt;Tres app's de Mensajería con Total Privacidad&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -727,6 +918,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -738,12 +930,18 @@
 
 </description>
     <pubDate>Sun, 08 Jul 2018 19:00 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-07-08-tres-apps-de-mensajeria-con-total-privacidad.html</guid>
    </item>
    <item>
     <title>Android Tv 8 y Arduino Chino</title>
     <link>https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html</link>
-    <description>En este podcast os hablo de la actualización a Android Tv 8 y mi nueva adquisición, un arduino chino... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Android Tv 8 y Arduino Chino"&gt;
+&lt;br&gt;&lt;p&gt;En este podcast os hablo de la actualización a Android Tv 8 y mi nueva adquisición, un arduino chino... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html&gt;Android Tv 8 y Arduino Chino&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -753,6 +951,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -764,12 +963,18 @@
 
 </description>
     <pubDate>Thu, 28 Jun 2018 23:55 +0100</pubDate>
+    <category>xiaomi</category>
+    <category>arduino</category>
+    <category>android</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html</guid>
    </item>
    <item>
     <title>¿Son Todas Nuestras App's tan Seguras a Nivel de Privacidad?</title>
     <link>https://ugeek.github.io//post/2018-06-26-son-todas-nuestras-app-tan-seguras-a-nivel-de-privacidad.html</link>
-    <description>¿Son Todas Nuestras App's tan Seguras a Nivel de Privacidad?... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="¿Son Todas Nuestras App's tan Seguras a Nivel de Privacidad?"&gt;
+&lt;br&gt;&lt;p&gt;¿Son Todas Nuestras App's tan Seguras a Nivel de Privacidad?... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-06-26-son-todas-nuestras-app-tan-seguras-a-nivel-de-privacidad.html&gt;¿Son Todas Nuestras App's tan Seguras a Nivel de Privacidad?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -779,6 +984,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -790,12 +996,18 @@
 
 </description>
     <pubDate>Tue, 26 Jun 2018 07:40 +0100</pubDate>
+    <category>android</category>
+    <category>android</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-06-26-son-todas-nuestras-app-tan-seguras-a-nivel-de-privacidad.html</guid>
    </item>
    <item>
     <title>La Mejor Aplicación de Podcast</title>
     <link>https://ugeek.github.io//post/2018-06-21-la-mejor-aplicacion-de-podcast.html</link>
-    <description>La Mejor Aplicación de Podcast... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="La Mejor Aplicación de Podcast"&gt;
+&lt;br&gt;&lt;p&gt;La Mejor Aplicación de Podcast... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-06-21-la-mejor-aplicacion-de-podcast.html&gt;La Mejor Aplicación de Podcast&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -805,6 +1017,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -816,12 +1029,18 @@
 
 </description>
     <pubDate>Thu, 21 Jun 2018 23:10 +0100</pubDate>
+    <category>android</category>
+    <category>podcast'</category>
+    <category>android</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-06-21-la-mejor-aplicacion-de-podcast.html</guid>
    </item>
    <item>
     <title>Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor ...</title>
     <link>https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html</link>
-    <description>Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor ...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor ..."&gt;
+&lt;br&gt;&lt;p&gt;Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor ...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html&gt;Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor ...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -831,6 +1050,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -842,12 +1062,18 @@
 
 </description>
     <pubDate>Thu, 31 May 2018 21:33 +0100</pubDate>
+    <category>plex</category>
+    <category>anchor'</category>
+    <category>bash</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html</guid>
    </item>
    <item>
     <title>Servidor de ebooks con Calibre </title>
     <link>https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html</link>
-    <description>Servidor de ebooks con Calibre ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Servidor de ebooks con Calibre "&gt;
+&lt;br&gt;&lt;p&gt;Servidor de ebooks con Calibre ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html&gt;Servidor de ebooks con Calibre &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -857,6 +1083,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -868,12 +1095,18 @@
 
 </description>
     <pubDate>Fri, 25 May 2018 07:40 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html</guid>
    </item>
    <item>
     <title>Docker. En que ando liado...</title>
     <link>https://ugeek.github.io//post/2018-05-23-docker-en-que-ando-liado.html</link>
-    <description>Docker. En que ando liado...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Docker. En que ando liado..."&gt;
+&lt;br&gt;&lt;p&gt;Docker. En que ando liado...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-23-docker-en-que-ando-liado.html&gt;Docker. En que ando liado...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -883,6 +1116,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -894,12 +1128,18 @@
 
 </description>
     <pubDate>Wed, 23 May 2018 20:45 +0100</pubDate>
+    <category>docker</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-05-23-docker-en-que-ando-liado.html</guid>
    </item>
    <item>
     <title>Como Montar Contenedores Docker</title>
     <link>https://ugeek.github.io//post/2018-05-17-como-montar-contenedores-docker.html</link>
-    <description>Como Montar Contenedores Docker... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como Montar Contenedores Docker"&gt;
+&lt;br&gt;&lt;p&gt;Como Montar Contenedores Docker... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-17-como-montar-contenedores-docker.html&gt;Como Montar Contenedores Docker&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -909,6 +1149,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -920,12 +1161,18 @@
 
 </description>
     <pubDate>Thu, 17 May 2018 07:40 +0100</pubDate>
+    <category>docker</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-05-17-como-montar-contenedores-docker.html</guid>
    </item>
    <item>
     <title>Docker en Raspberry</title>
     <link>https://ugeek.github.io//post/2018-05-08-docker-en-raspberry.html</link>
-    <description>Docker en Raspberry... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Docker en Raspberry"&gt;
+&lt;br&gt;&lt;p&gt;Docker en Raspberry... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-08-docker-en-raspberry.html&gt;Docker en Raspberry&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -935,6 +1182,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -946,12 +1194,18 @@
 
 </description>
     <pubDate>Tue, 08 May 2018 07:40 +0100</pubDate>
+    <category>docker</category>
+    <category>docker</category>
+    <category>raspberry</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-05-08-docker-en-raspberry.html</guid>
    </item>
    <item>
     <title>MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. </title>
     <link>https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html</link>
-    <description>MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. "&gt;
+&lt;br&gt;&lt;p&gt;MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html&gt;MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -961,6 +1215,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -972,12 +1227,18 @@
 
 </description>
     <pubDate>Fri, 04 May 2018 21:05 +0100</pubDate>
+    <category>plex</category>
+    <category>crossover</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html</guid>
    </item>
    <item>
     <title>La Nube más Segura Dentro y Fuera de tu Red Local</title>
     <link>https://ugeek.github.io//post/2018-04-26-la-nube-mas-segura-dentro-y-fuera-de-tu-red-local.html</link>
-    <description>La Nube más Segura Dentro y Fuera de tu Red Local... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="La Nube más Segura Dentro y Fuera de tu Red Local"&gt;
+&lt;br&gt;&lt;p&gt;La Nube más Segura Dentro y Fuera de tu Red Local... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-04-26-la-nube-mas-segura-dentro-y-fuera-de-tu-red-local.html&gt;La Nube más Segura Dentro y Fuera de tu Red Local&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -987,6 +1248,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -998,12 +1260,18 @@
 
 </description>
     <pubDate>Thu, 26 Apr 2018 07:40 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category>servidor</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-04-26-la-nube-mas-segura-dentro-y-fuera-de-tu-red-local.html</guid>
    </item>
    <item>
     <title>Varios Temas, Notas Markdown ...</title>
     <link>https://ugeek.github.io//post/2018-04-25-varios-temas-notas-markdown.html</link>
-    <description>Varios Temas, Notas Markdown ...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Varios Temas, Notas Markdown ..."&gt;
+&lt;br&gt;&lt;p&gt;Varios Temas, Notas Markdown ...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-04-25-varios-temas-notas-markdown.html&gt;Varios Temas, Notas Markdown ...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1013,6 +1281,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1024,12 +1293,18 @@
 
 </description>
     <pubDate>Wed, 25 Apr 2018 07:40 +0100</pubDate>
+    <category>notas</category>
+    <category>markdown</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-04-25-varios-temas-notas-markdown.html</guid>
    </item>
    <item>
     <title>Xiaomi Mi Box</title>
     <link>https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html</link>
-    <description>Xiaomi Mi Box... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Xiaomi Mi Box"&gt;
+&lt;br&gt;&lt;p&gt;Xiaomi Mi Box... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html&gt;Xiaomi Mi Box&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1039,6 +1314,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1050,12 +1326,18 @@
 
 </description>
     <pubDate>Fri, 20 Apr 2018 07:40 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
     <guid>https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html</guid>
    </item>
    <item>
     <title>Rclone</title>
     <link>https://ugeek.github.io//post/2018-04-19-rclone.html</link>
-    <description>Rclone... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Rclone"&gt;
+&lt;br&gt;&lt;p&gt;Rclone... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-04-19-rclone.html&gt;Rclone&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1065,6 +1347,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1076,12 +1359,18 @@
 
 </description>
     <pubDate>Thu, 19 Apr 2018 07:40 +0100</pubDate>
+    <category>servidor</category>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-04-19-rclone.html</guid>
    </item>
    <item>
     <title>Relés para el GPIO y Próximos Podcast</title>
     <link>https://ugeek.github.io//post/2018-04-16-reles-para-el-gpio-y-proximos-podcast.html</link>
-    <description>Relés para el GPIO y Próximos Podcast... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Relés para el GPIO y Próximos Podcast"&gt;
+&lt;br&gt;&lt;p&gt;Relés para el GPIO y Próximos Podcast... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-04-16-reles-para-el-gpio-y-proximos-podcast.html&gt;Relés para el GPIO y Próximos Podcast&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1091,6 +1380,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1102,12 +1392,18 @@
 
 </description>
     <pubDate>Mon, 16 Apr 2018 07:40 +0100</pubDate>
+    <category>raspberry</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-04-16-reles-para-el-gpio-y-proximos-podcast.html</guid>
    </item>
    <item>
     <title>LPlayer. Un Reproductor Ultra-ligero para Linux</title>
     <link>https://ugeek.github.io//post/2018-03-23-lplayer--un-reproductor-ultra-ligero-para-linux.html</link>
-    <description>LPlayer. Un Reproductor Ultra-ligero para Linux... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="LPlayer. Un Reproductor Ultra-ligero para Linux"&gt;
+&lt;br&gt;&lt;p&gt;LPlayer. Un Reproductor Ultra-ligero para Linux... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-03-23-lplayer--un-reproductor-ultra-ligero-para-linux.html&gt;LPlayer. Un Reproductor Ultra-ligero para Linux&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1117,6 +1413,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1128,12 +1425,18 @@
 
 </description>
     <pubDate>Fri, 23 Mar 2018 06:40 +0100</pubDate>
+    <category>app</category>
+    <category>escritorio</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-03-23-lplayer--un-reproductor-ultra-ligero-para-linux.html</guid>
    </item>
    <item>
     <title>Joplin. El Evernote del Software Libre</title>
     <link>https://ugeek.github.io//post/2018-03-22-joplin-el-evernote-del-software-libre.html</link>
-    <description>Joplin. El Evernote del Software Libre... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Joplin. El Evernote del Software Libre"&gt;
+&lt;br&gt;&lt;p&gt;Joplin. El Evernote del Software Libre... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-03-22-joplin-el-evernote-del-software-libre.html&gt;Joplin. El Evernote del Software Libre&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1143,6 +1446,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1154,12 +1458,18 @@
 
 </description>
     <pubDate>Thu, 22 Mar 2018 06:40 +0100</pubDate>
+    <category>app</category>
+    <category>android</category>
+    <category>markdown</category>
+    <category>nextcloud</category>
     <guid>https://ugeek.github.io//post/2018-03-22-joplin-el-evernote-del-software-libre.html</guid>
    </item>
    <item>
     <title>Crossover con Bateria2x100. MasterClass Plex</title>
     <link>https://ugeek.github.io//post/2018-03-18-crossover-con-bateria2x100-masterclass-plex.html</link>
-    <description>Crossover con Bateria2x100. MasterClass Plex... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Crossover con Bateria2x100. MasterClass Plex"&gt;
+&lt;br&gt;&lt;p&gt;Crossover con Bateria2x100. MasterClass Plex... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-03-18-crossover-con-bateria2x100-masterclass-plex.html&gt;Crossover con Bateria2x100. MasterClass Plex&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1169,6 +1479,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1180,12 +1491,18 @@
 
 </description>
     <pubDate>Sun, 18 Mar 2018 06:40 +0100</pubDate>
+    <category>plex</category>
+    <category>servidor</category>
+    <category>crossover</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-03-18-crossover-con-bateria2x100-masterclass-plex.html</guid>
    </item>
    <item>
     <title>KODExplorer. El Navegador de Carpetas Web para Raspberry o Servidor</title>
     <link>https://ugeek.github.io//post/2018-03-15-kodexplorer-el-navegador-de-carpetas-web-para-raspberry-o-servidor.html</link>
-    <description>KODExplorer. El Navegador de Carpetas Web para Raspberry o Servidor... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="KODExplorer. El Navegador de Carpetas Web para Raspberry o Servidor"&gt;
+&lt;br&gt;&lt;p&gt;KODExplorer. El Navegador de Carpetas Web para Raspberry o Servidor... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-03-15-kodexplorer-el-navegador-de-carpetas-web-para-raspberry-o-servidor.html&gt;KODExplorer. El Navegador de Carpetas Web para Raspberry o Servidor&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1195,6 +1512,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1206,12 +1524,18 @@
 
 </description>
     <pubDate>Thu, 15 Mar 2018 06:40 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-03-15-kodexplorer-el-navegador-de-carpetas-web-para-raspberry-o-servidor.html</guid>
    </item>
    <item>
     <title>El GitHub - GitLab de mi Raspberry. Gitea</title>
     <link>https://ugeek.github.io//post/2018-03-14-el-github-gitlab-de-mi-raspberry-gitea.html</link>
-    <description>El GitHub - GitLab de mi Raspberry. Gitea... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="El GitHub - GitLab de mi Raspberry. Gitea"&gt;
+&lt;br&gt;&lt;p&gt;El GitHub - GitLab de mi Raspberry. Gitea... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-03-14-el-github-gitlab-de-mi-raspberry-gitea.html&gt;El GitHub - GitLab de mi Raspberry. Gitea&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1221,6 +1545,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1232,12 +1557,18 @@
 
 </description>
     <pubDate>Wed, 14 Mar 2018 06:40 +0100</pubDate>
+    <category>git'</category>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-03-14-el-github-gitlab-de-mi-raspberry-gitea.html</guid>
    </item>
    <item>
     <title>Respuestas a Consultas y NewPipe</title>
     <link>https://ugeek.github.io//post/2018-02-23-respuestas-a-consultas-y-newpipe.html</link>
-    <description>Hoy hablo de una aplicación que preserva nuestra privacidad a la hora de ver vídeos de youtube, poder descargarlos, variar la velocidad… y lo mejor de todo, de software libre.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Respuestas a Consultas y NewPipe"&gt;
+&lt;br&gt;&lt;p&gt;Hoy hablo de una aplicación que preserva nuestra privacidad a la hora de ver vídeos de youtube, poder descargarlos, variar la velocidad… y lo mejor de todo, de software libre.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-02-23-respuestas-a-consultas-y-newpipe.html&gt;Respuestas a Consultas y NewPipe&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1247,6 +1578,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1258,12 +1590,18 @@
 
 </description>
     <pubDate>Fri, 23 Feb 2018 06:40 +0100</pubDate>
+    <category>app</category>
+    <category>android</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-02-23-respuestas-a-consultas-y-newpipe.html</guid>
    </item>
    <item>
     <title>Tiny Tiny RSS, FeedMe y @Voice</title>
     <link>https://ugeek.github.io//post/2018-02-22-tiny-tiny-rss-feedme-y-voice.html</link>
-    <description>En el podcast de hoy explico mi experiencia con Tiny Tiny RSS, FeedMe y @Voice... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Tiny Tiny RSS, FeedMe y @Voice"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy explico mi experiencia con Tiny Tiny RSS, FeedMe y @Voice... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-02-22-tiny-tiny-rss-feedme-y-voice.html&gt;Tiny Tiny RSS, FeedMe y @Voice&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1273,6 +1611,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1284,12 +1623,18 @@
 
 </description>
     <pubDate>Thu, 22 Feb 2018 06:40 +0100</pubDate>
+    <category>app</category>
+    <category>android</category>
+    <category>servidor</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-02-22-tiny-tiny-rss-feedme-y-voice.html</guid>
    </item>
    <item>
     <title>Iniciarse en GNU/Linux y aprender con la Terminal</title>
     <link>https://ugeek.github.io//post/2018-02-21-iniciarse-en-gnu-linux-y-aprender-con-la-terminal.html</link>
-    <description>Iniciarse en GNU/Linux y aprender con la Terminal... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Iniciarse en GNU/Linux y aprender con la Terminal"&gt;
+&lt;br&gt;&lt;p&gt;Iniciarse en GNU/Linux y aprender con la Terminal... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-02-21-iniciarse-en-gnu-linux-y-aprender-con-la-terminal.html&gt;Iniciarse en GNU/Linux y aprender con la Terminal&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1299,6 +1644,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1310,12 +1656,18 @@
 
 </description>
     <pubDate>Wed, 21 Feb 2018 06:40 +0100</pubDate>
+    <category>linux</category>
+    <category>terminal</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-02-21-iniciarse-en-gnu-linux-y-aprender-con-la-terminal.html</guid>
    </item>
    <item>
     <title>Kanboard con Notificaciones en Telegram</title>
     <link>https://ugeek.github.io//post/2018-02-09-kanboard-con-notificaciones-en-telegram.html</link>
-    <description>Kanboard, me ha parecido un servicio alucinante, ya que podemos gestionar nuestras tareas y gestionar nuestros proyectos. Te invito a escuchar el audio donde lo explico con mas detalle.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Kanboard con Notificaciones en Telegram"&gt;
+&lt;br&gt;&lt;p&gt;Kanboard, me ha parecido un servicio alucinante, ya que podemos gestionar nuestras tareas y gestionar nuestros proyectos. Te invito a escuchar el audio donde lo explico con mas detalle.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-02-09-kanboard-con-notificaciones-en-telegram.html&gt;Kanboard con Notificaciones en Telegram&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1325,6 +1677,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1336,12 +1689,18 @@
 
 </description>
     <pubDate>Fri, 09 Feb 2018 06:40 +0100</pubDate>
+    <category>servidor</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-02-09-kanboard-con-notificaciones-en-telegram.html</guid>
    </item>
    <item>
     <title>Screen y la Terminal</title>
     <link>https://ugeek.github.io//post/2018-02-01-screen-y-la-terminal.html</link>
-    <description>Screen y la Terminal... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Screen y la Terminal"&gt;
+&lt;br&gt;&lt;p&gt;Screen y la Terminal... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-02-01-screen-y-la-terminal.html&gt;Screen y la Terminal&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1351,6 +1710,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1362,12 +1722,18 @@
 
 </description>
     <pubDate>Thu, 01 Feb 2018 06:40 +0100</pubDate>
+    <category>terminal</category>
+    <category>terminal</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-02-01-screen-y-la-terminal.html</guid>
    </item>
    <item>
     <title>Telegram: Audio y Vídeo en Streaming</title>
     <link>https://ugeek.github.io//post/2018-01-26-telegram:-audio-y-video-en-streaming.html</link>
-    <description>Llega la reproducción de Audio y Vídeo en Streaming a Telegram... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Telegram: Audio y Vídeo en Streaming"&gt;
+&lt;br&gt;&lt;p&gt;Llega la reproducción de Audio y Vídeo en Streaming a Telegram... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-01-26-telegram:-audio-y-video-en-streaming.html&gt;Telegram: Audio y Vídeo en Streaming&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1377,6 +1743,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1388,12 +1755,18 @@
 
 </description>
     <pubDate>Fri, 26 Jan 2018 16:55 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-01-26-telegram:-audio-y-video-en-streaming.html</guid>
    </item>
    <item>
     <title>Telegram X</title>
     <link>https://ugeek.github.io//post/2018-01-25-telegram-x.html</link>
-    <description>Analizo la nueva Telegram X. Comparo con Telegram Oficial y Plus Messenger.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Telegram X"&gt;
+&lt;br&gt;&lt;p&gt;Analizo la nueva Telegram X. Comparo con Telegram Oficial y Plus Messenger.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-01-25-telegram-x.html&gt;Telegram X&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1403,6 +1776,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1414,12 +1788,18 @@
 
 </description>
     <pubDate>Thu, 25 Jan 2018 06:30 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-01-25-telegram-x.html</guid>
    </item>
    <item>
     <title>Arrancar Raspberry desde USB</title>
     <link>https://ugeek.github.io//post/2018-01-23-arrancar-raspberry-desde-usb.html</link>
-    <description>Arrancar Raspberry desde USB... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Arrancar Raspberry desde USB"&gt;
+&lt;br&gt;&lt;p&gt;Arrancar Raspberry desde USB... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-01-23-arrancar-raspberry-desde-usb.html&gt;Arrancar Raspberry desde USB&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1429,6 +1809,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1440,12 +1821,18 @@
 
 </description>
     <pubDate>Tue, 23 Jan 2018 17:00 +0100</pubDate>
+    <category>raspberry</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-01-23-arrancar-raspberry-desde-usb.html</guid>
    </item>
    <item>
     <title>Recalbox. Consola de Juegos Retro+Kodi</title>
     <link>https://ugeek.github.io//post/2018-01-18-recalbox-consola-de-juegos-retro-kodi.html</link>
-    <description>En este podcast os explico mi experiencia con Recalbox. Consola de Juegos Retro+Kodi... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Recalbox. Consola de Juegos Retro+Kodi"&gt;
+&lt;br&gt;&lt;p&gt;En este podcast os explico mi experiencia con Recalbox. Consola de Juegos Retro+Kodi... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-01-18-recalbox-consola-de-juegos-retro-kodi.html&gt;Recalbox. Consola de Juegos Retro+Kodi&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1455,6 +1842,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1466,12 +1854,18 @@
 
 </description>
     <pubDate>Thu, 18 Jan 2018 18:35 +0100</pubDate>
+    <category>raspberry</category>
+    <category>multimedia</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-01-18-recalbox-consola-de-juegos-retro-kodi.html</guid>
    </item>
    <item>
     <title>Nextcloud Talk y Script para Instalar Nextcloud</title>
     <link>https://ugeek.github.io//post/2018-01-15-nextcloud-talk-y-script-para-instalar-nextcloud.html</link>
-    <description>En este podcast os hablo de Nextcloud Talk y un script para poder instalar Nextcloud completo en tu Raspberry Pi... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Nextcloud Talk y Script para Instalar Nextcloud"&gt;
+&lt;br&gt;&lt;p&gt;En este podcast os hablo de Nextcloud Talk y un script para poder instalar Nextcloud completo en tu Raspberry Pi... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-01-15-nextcloud-talk-y-script-para-instalar-nextcloud.html&gt;Nextcloud Talk y Script para Instalar Nextcloud&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1481,6 +1875,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1492,12 +1887,18 @@
 
 </description>
     <pubDate>Mon, 15 Jan 2018 22:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>nextcloud</category>
+    <category>raspberry</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2018-01-15-nextcloud-talk-y-script-para-instalar-nextcloud.html</guid>
    </item>
    <item>
     <title>Rerproductor de Podcast y 2 App de Oferta</title>
     <link>https://ugeek.github.io//post/2017-12-20-rerproductor-de-podcast-y-2-app-de-oferta.html</link>
-    <description>Rerproductor de Podcast y 2 App de Oferta... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Rerproductor de Podcast y 2 App de Oferta"&gt;
+&lt;br&gt;&lt;p&gt;Rerproductor de Podcast y 2 App de Oferta... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-12-20-rerproductor-de-podcast-y-2-app-de-oferta.html&gt;Rerproductor de Podcast y 2 App de Oferta&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1507,6 +1908,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1518,12 +1920,18 @@
 
 </description>
     <pubDate>Wed, 20 Dec 2017 23:20 +0100</pubDate>
+    <category>app</category>
+    <category>podcast'</category>
+    <category>android</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-12-20-rerproductor-de-podcast-y-2-app-de-oferta.html</guid>
    </item>
    <item>
     <title>Nas vs Servidor Linux</title>
     <link>https://ugeek.github.io//post/2017-12-15-nas-vs-servidor-linux.html</link>
-    <description>¿Que diferencia hay entre un Servidor Linux y los NAS QNAP-Synology?. En este podcast os explico desde mi punto de vista los pros y contras para decidir cual será tu servidor.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Nas vs Servidor Linux"&gt;
+&lt;br&gt;&lt;p&gt;¿Que diferencia hay entre un Servidor Linux y los NAS QNAP-Synology?. En este podcast os explico desde mi punto de vista los pros y contras para decidir cual será tu servidor.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-12-15-nas-vs-servidor-linux.html&gt;Nas vs Servidor Linux&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1533,6 +1941,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1544,12 +1953,18 @@
 
 </description>
     <pubDate>Fri, 15 Dec 2017 07:15 +0100</pubDate>
+    <category>linux</category>
+    <category>nas</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-12-15-nas-vs-servidor-linux.html</guid>
    </item>
    <item>
     <title>Slimbook One. El 3 en 1</title>
     <link>https://ugeek.github.io//post/2017-12-11-slimbook-one-el-3-en-1.html</link>
-    <description>En el podcast de hoy os explico mi experiencia con el Slimbook One, 2 meses y medio después de estar utilizandolo. slimbook... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Slimbook One. El 3 en 1"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy os explico mi experiencia con el Slimbook One, 2 meses y medio después de estar utilizandolo. slimbook... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-12-11-slimbook-one-el-3-en-1.html&gt;Slimbook One. El 3 en 1&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1559,6 +1974,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1570,12 +1986,18 @@
 
 </description>
     <pubDate>Mon, 11 Dec 2017 16:00 +0100</pubDate>
+    <category>linux</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-12-11-slimbook-one-el-3-en-1.html</guid>
    </item>
    <item>
     <title>Recomendaciones y Próximos Podcast</title>
     <link>https://ugeek.github.io//post/2017-12-03-recomendaciones-y-proximos-podcast.html</link>
-    <description>Recomendaciones y Próximos Podcast... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Recomendaciones y Próximos Podcast"&gt;
+&lt;br&gt;&lt;p&gt;Recomendaciones y Próximos Podcast... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-12-03-recomendaciones-y-proximos-podcast.html&gt;Recomendaciones y Próximos Podcast&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1585,6 +2007,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1596,12 +2019,18 @@
 
 </description>
     <pubDate>Sun, 03 Dec 2017 21:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-12-03-recomendaciones-y-proximos-podcast.html</guid>
    </item>
    <item>
     <title>Grabadora de Audio en Oferta</title>
     <link>https://ugeek.github.io//post/2017-11-09-grabadora-de-audio-en-oferta.html</link>
-    <description>Hi-Q MP3 Voice Recorder. Una de las mejores grabadoras de Android, ahora de oferta... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Grabadora de Audio en Oferta"&gt;
+&lt;br&gt;&lt;p&gt;Hi-Q MP3 Voice Recorder. Una de las mejores grabadoras de Android, ahora de oferta... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-11-09-grabadora-de-audio-en-oferta.html&gt;Grabadora de Audio en Oferta&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1611,6 +2040,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1622,12 +2052,18 @@
 
 </description>
     <pubDate>Thu, 09 Nov 2017 21:55 +0100</pubDate>
+    <category>app</category>
+    <category>android</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-11-09-grabadora-de-audio-en-oferta.html</guid>
    </item>
    <item>
     <title>Novedades Anchor y como enlazo mis Audios</title>
     <link>https://ugeek.github.io//post/2017-10-28-novedades-anchor-y-como-enlazo-mis-audios.html</link>
-    <description>Novedades Anchor y como enlazo mis Audios... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Novedades Anchor y como enlazo mis Audios"&gt;
+&lt;br&gt;&lt;p&gt;Novedades Anchor y como enlazo mis Audios... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-10-28-novedades-anchor-y-como-enlazo-mis-audios.html&gt;Novedades Anchor y como enlazo mis Audios&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1637,6 +2073,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1648,12 +2085,18 @@
 
 </description>
     <pubDate>Sat, 28 Oct 2017 21:40 +0100</pubDate>
+    <category>podcast</category>
+    <category>anchor'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-10-28-novedades-anchor-y-como-enlazo-mis-audios.html</guid>
    </item>
    <item>
     <title>Aplicación Gratis de Podcast y Música Streaming</title>
     <link>https://ugeek.github.io//post/2017-10-26-aplicacion-gratis-de-podcast-y-musica-streaming.html</link>
-    <description>Solo hoy y durante 24h, la aplicación Gom Audio Plus totalmente gratis en el Play Store de Google.Podremos utilizarlo de reproductor... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Aplicación Gratis de Podcast y Música Streaming"&gt;
+&lt;br&gt;&lt;p&gt;Solo hoy y durante 24h, la aplicación Gom Audio Plus totalmente gratis en el Play Store de Google.Podremos utilizarlo de reproductor... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-10-26-aplicacion-gratis-de-podcast-y-musica-streaming.html&gt;Aplicación Gratis de Podcast y Música Streaming&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1663,6 +2106,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1674,12 +2118,18 @@
 
 </description>
     <pubDate>Thu, 26 Oct 2017 19:35 +0100</pubDate>
+    <category>app</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-10-26-aplicacion-gratis-de-podcast-y-musica-streaming.html</guid>
    </item>
    <item>
     <title>Android: Es Explorer y varios exploradores de Carpetas</title>
     <link>https://ugeek.github.io//post/2017-10-25-android-es-explorer-y-varios-exploradores-de-carpetas.html</link>
-    <description>En el podcast de hoy, os hablo de 3 de los mejores exploradores de carpetas, conectarnos a nubes públicas,… de Android... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Android: Es Explorer y varios exploradores de Carpetas"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy, os hablo de 3 de los mejores exploradores de carpetas, conectarnos a nubes públicas,… de Android... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-10-25-android-es-explorer-y-varios-exploradores-de-carpetas.html&gt;Android: Es Explorer y varios exploradores de Carpetas&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1689,6 +2139,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1700,12 +2151,18 @@
 
 </description>
     <pubDate>Wed, 25 Oct 2017 20:30 +0100</pubDate>
+    <category>android</category>
+    <category>app</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-10-25-android-es-explorer-y-varios-exploradores-de-carpetas.html</guid>
    </item>
    <item>
     <title>Un Servidor en mi Casa - Podcast del Maratón Linuxero 2017</title>
     <link>https://ugeek.github.io//post/2017-09-04-un-servidor-en-mi-casa-podcast-del-maraton-linuxero-2017.html</link>
-    <description>Podcast en el Maratón Linuxero con MosqueteroWeb, donde hablamos de como montar un servidor en casa.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Un Servidor en mi Casa - Podcast del Maratón Linuxero 2017"&gt;
+&lt;br&gt;&lt;p&gt;Podcast en el Maratón Linuxero con MosqueteroWeb, donde hablamos de como montar un servidor en casa.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-09-04-un-servidor-en-mi-casa-podcast-del-maraton-linuxero-2017.html&gt;Un Servidor en mi Casa - Podcast del Maratón Linuxero 2017&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1715,6 +2172,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1726,12 +2184,18 @@
 
 </description>
     <pubDate>Mon, 04 Sep 2017 23:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>maratón</category>
+    <category>crossover</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-09-04-un-servidor-en-mi-casa-podcast-del-maraton-linuxero-2017.html</guid>
    </item>
    <item>
     <title>Respuestas a Preguntas de los Oyentes y Maratón Linuxero</title>
     <link>https://ugeek.github.io//post/2017-09-02-respuestas-a-preguntas-de-los-oyentes-y-maraton-linuxero.html</link>
-    <description>Respondo algunas preguntas de los oyentes y nos escuchamos en el “Maratón Linuxero”... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Respuestas a Preguntas de los Oyentes y Maratón Linuxero"&gt;
+&lt;br&gt;&lt;p&gt;Respondo algunas preguntas de los oyentes y nos escuchamos en el “Maratón Linuxero”... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-09-02-respuestas-a-preguntas-de-los-oyentes-y-maraton-linuxero.html&gt;Respuestas a Preguntas de los Oyentes y Maratón Linuxero&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1741,6 +2205,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1752,12 +2217,18 @@
 
 </description>
     <pubDate>Sat, 02 Sep 2017 02:46 +0100</pubDate>
+    <category>linux</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-09-02-respuestas-a-preguntas-de-los-oyentes-y-maraton-linuxero.html</guid>
    </item>
    <item>
     <title>Me explicáis como tomáis vuestras Notas. Y Que es uGeekRadio</title>
     <link>https://ugeek.github.io//post/2017-08-30-me-explicais-como-tomais-vuestras-notas-y-que-es-ugeekradio.html</link>
-    <description>Através de uGeekRadio en Anchor me explicais como tomáis vuestras notas... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Me explicáis como tomáis vuestras Notas. Y Que es uGeekRadio"&gt;
+&lt;br&gt;&lt;p&gt;Através de uGeekRadio en Anchor me explicais como tomáis vuestras notas... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-08-30-me-explicais-como-tomais-vuestras-notas-y-que-es-ugeekradio.html&gt;Me explicáis como tomáis vuestras Notas. Y Que es uGeekRadio&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1767,6 +2238,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1778,12 +2250,18 @@
 
 </description>
     <pubDate>Wed, 30 Aug 2017 00:15 +0100</pubDate>
+    <category>notas</category>
+    <category>notas</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-08-30-me-explicais-como-tomais-vuestras-notas-y-que-es-ugeekradio.html</guid>
    </item>
    <item>
     <title>¿Porque se descarga tan rápido la batería de mi Android?</title>
     <link>https://ugeek.github.io//post/2017-08-08-porque-se-descarga-tan-rapido-la-bateria-de-mi-android.html</link>
-    <description>El podcast de hoy, os hablo de mi experiencia inhabilitando los servicios de Google.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="¿Porque se descarga tan rápido la batería de mi Android?"&gt;
+&lt;br&gt;&lt;p&gt;El podcast de hoy, os hablo de mi experiencia inhabilitando los servicios de Google.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-08-08-porque-se-descarga-tan-rapido-la-bateria-de-mi-android.html&gt;¿Porque se descarga tan rápido la batería de mi Android?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1793,6 +2271,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1804,12 +2283,18 @@
 
 </description>
     <pubDate>Tue, 08 Aug 2017 03:30 +0100</pubDate>
+    <category>android</category>
+    <category>android</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-08-08-porque-se-descarga-tan-rapido-la-bateria-de-mi-android.html</guid>
    </item>
    <item>
     <title>Anchor</title>
     <link>https://ugeek.github.io//post/2017-08-05-anchor.html</link>
-    <description>Anchor... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Anchor"&gt;
+&lt;br&gt;&lt;p&gt;Anchor... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-08-05-anchor.html&gt;Anchor&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1819,6 +2304,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1830,12 +2316,18 @@
 
 </description>
     <pubDate>Sat, 05 Aug 2017 02:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>anchor'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-08-05-anchor.html</guid>
    </item>
    <item>
     <title>Copia Remota De Vuestra SD, Mas Snap's </title>
     <link>https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html</link>
-    <description>En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio y os hablo de algunos paquetes snap nuevos ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Copia Remota De Vuestra SD, Mas Snap's "&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio y os hablo de algunos paquetes snap nuevos ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html&gt;Copia Remota De Vuestra SD, Mas Snap's &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1845,6 +2337,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1856,12 +2349,18 @@
 
 </description>
     <pubDate>Wed, 26 Jul 2017 23:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>snap</category>
+    <category>raspberry</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html</guid>
    </item>
    <item>
     <title>Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...</title>
     <link>https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</link>
-    <description>Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs..."&gt;
+&lt;br&gt;&lt;p&gt;Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html&gt;Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1871,6 +2370,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1882,12 +2382,18 @@
 
 </description>
     <pubDate>Wed, 12 Jul 2017 22:00 +0100</pubDate>
+    <category>notas</category>
+    <category>android</category>
+    <category>emacs</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</guid>
    </item>
    <item>
     <title>Raspberry Pi. ¿Esta hecha para mi?</title>
     <link>https://ugeek.github.io//post/2017-07-05-raspberry-pi-esta-hecha-para-mi.html</link>
-    <description>Raspberry Pi. ¿Esta hecha para mi?... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Raspberry Pi. ¿Esta hecha para mi?"&gt;
+&lt;br&gt;&lt;p&gt;Raspberry Pi. ¿Esta hecha para mi?... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-05-raspberry-pi-esta-hecha-para-mi.html&gt;Raspberry Pi. ¿Esta hecha para mi?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1897,6 +2403,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1908,12 +2415,18 @@
 
 </description>
     <pubDate>Wed, 05 Jul 2017 20:00 +0100</pubDate>
+    <category>raspberry</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-07-05-raspberry-pi-esta-hecha-para-mi.html</guid>
    </item>
    <item>
     <title>Miscelánea. Nextcloud 12, Resilio, Rsync...</title>
     <link>https://ugeek.github.io//post/2017-07-05-miscelanea-nextcloud-12-resilio-rsync.html</link>
-    <description>El podcast de hoy es una miscelánea de temas que he tratado en podcast anteriores y respuestas a algunas dudas de oyentes sobre los mismos... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Miscelánea. Nextcloud 12, Resilio, Rsync..."&gt;
+&lt;br&gt;&lt;p&gt;El podcast de hoy es una miscelánea de temas que he tratado en podcast anteriores y respuestas a algunas dudas de oyentes sobre los mismos... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-05-miscelanea-nextcloud-12-resilio-rsync.html&gt;Miscelánea. Nextcloud 12, Resilio, Rsync...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1923,6 +2436,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1934,12 +2448,18 @@
 
 </description>
     <pubDate>Wed, 05 Jul 2017 09:50 +0100</pubDate>
+    <category>servidor</category>
+    <category>nextcloud</category>
+    <category>resilio</category>
+    <category>rsync</category>
     <guid>https://ugeek.github.io//post/2017-07-05-miscelanea-nextcloud-12-resilio-rsync.html</guid>
    </item>
    <item>
     <title>Android: Limpia tu telefono por dentro</title>
     <link>https://ugeek.github.io//post/2017-07-05-android-limpia-tu-telefono-por-dentro.html</link>
-    <description>Volviendo a las aplicaciones que más utilizo en mi movil, hoy os explico una aplicación que examina y elimina todo el contenido que dábamos por olvidado en el teléfono... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Android: Limpia tu telefono por dentro"&gt;
+&lt;br&gt;&lt;p&gt;Volviendo a las aplicaciones que más utilizo en mi movil, hoy os explico una aplicación que examina y elimina todo el contenido que dábamos por olvidado en el teléfono... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-05-android-limpia-tu-telefono-por-dentro.html&gt;Android: Limpia tu telefono por dentro&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1949,6 +2469,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1960,12 +2481,18 @@
 
 </description>
     <pubDate>Wed, 05 Jul 2017 10:30 +0100</pubDate>
+    <category>android</category>
+    <category>app</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-07-05-android-limpia-tu-telefono-por-dentro.html</guid>
    </item>
    <item>
     <title>Nextcloud, Resilio, Syncthing... ¿Que Nube elijo?</title>
     <link>https://ugeek.github.io//post/2017-06-25-nextcloud-resilio-syncthing-que-nube-elijo.html</link>
-    <description>En el podcast de hoy os explico, bajo mi experiencia, que diferencias hay entre las nubes que hasta el momento os he explicado.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Nextcloud, Resilio, Syncthing... ¿Que Nube elijo?"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy os explico, bajo mi experiencia, que diferencias hay entre las nubes que hasta el momento os he explicado.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-25-nextcloud-resilio-syncthing-que-nube-elijo.html&gt;Nextcloud, Resilio, Syncthing... ¿Que Nube elijo?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -1975,6 +2502,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1986,12 +2514,18 @@
 
 </description>
     <pubDate>Sun, 25 Jun 2017 12:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>nextcloud</category>
+    <category>resilio</category>
+    <category>syncthing</category>
     <guid>https://ugeek.github.io//post/2017-06-25-nextcloud-resilio-syncthing-que-nube-elijo.html</guid>
    </item>
    <item>
     <title>TiddlyWiki. Una Wiki en un único archivo y multiplataforma.</title>
     <link>https://ugeek.github.io//post/2017-06-21-tiddlywiki-una-wiki-en-un-unico-archivo-y-multiplataforma.html</link>
-    <description>En el podcast de hoy os explico como montar vuestra propia wiki, wiki de notas o crear una wiki como blog, sin necesidad de tener conocimientos, servidor web ni base de datos y con un único archivo .html... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="TiddlyWiki. Una Wiki en un único archivo y multiplataforma."&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy os explico como montar vuestra propia wiki, wiki de notas o crear una wiki como blog, sin necesidad de tener conocimientos, servidor web ni base de datos y con un único archivo .html... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-21-tiddlywiki-una-wiki-en-un-unico-archivo-y-multiplataforma.html&gt;TiddlyWiki. Una Wiki en un único archivo y multiplataforma.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2001,6 +2535,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2012,12 +2547,18 @@
 
 </description>
     <pubDate>Wed, 21 Jun 2017 18:00 +0100</pubDate>
+    <category>notas</category>
+    <category>wiki</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-06-21-tiddlywiki-una-wiki-en-un-unico-archivo-y-multiplataforma.html</guid>
    </item>
    <item>
     <title>Resilio. Una Nube Ilimitada, donde el control de tus datos los tienes tu.</title>
     <link>https://ugeek.github.io//post/2017-06-17-resilio-una-nube-ilimitada-donde-el-control-de-tus-datos-los-tienes-tu.html</link>
-    <description>Frank y yo, hacemos un nuevo crossover para exprimir a fondo y descubrir todo lo que podemos hacer con Resilio... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Resilio. Una Nube Ilimitada, donde el control de tus datos los tienes tu."&gt;
+&lt;br&gt;&lt;p&gt;Frank y yo, hacemos un nuevo crossover para exprimir a fondo y descubrir todo lo que podemos hacer con Resilio... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-17-resilio-una-nube-ilimitada-donde-el-control-de-tus-datos-los-tienes-tu.html&gt;Resilio. Una Nube Ilimitada, donde el control de tus datos los tienes tu.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2027,6 +2568,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2038,12 +2580,18 @@
 
 </description>
     <pubDate>Sat, 17 Jun 2017 14:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>resilio</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-06-17-resilio-una-nube-ilimitada-donde-el-control-de-tus-datos-los-tienes-tu.html</guid>
    </item>
    <item>
     <title>Con Linux es posible</title>
     <link>https://ugeek.github.io//post/2017-06-13-con-linux-es-posible.html</link>
-    <description>Prueba de audio con mi nuevo micro, con el que no tenido ningún problema de compatibilidad en Ubuntu 16.04... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Con Linux es posible"&gt;
+&lt;br&gt;&lt;p&gt;Prueba de audio con mi nuevo micro, con el que no tenido ningún problema de compatibilidad en Ubuntu 16.04... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-13-con-linux-es-posible.html&gt;Con Linux es posible&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2053,6 +2601,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2064,12 +2613,18 @@
 
 </description>
     <pubDate>Tue, 13 Jun 2017 23:00 +0100</pubDate>
+    <category>linux</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-06-13-con-linux-es-posible.html</guid>
    </item>
    <item>
     <title>Domótica con mi Raspberry Pi. Usemos el GPIO</title>
     <link>https://ugeek.github.io//post/2017-06-09-domotica-con-mi-raspberry-pi-usemos-el-gpio.html</link>
-    <description>En el podcast de hoy, explico mi experiencia con el GPIO, utilizando mi Raspberry Pi como central de domótica... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Domótica con mi Raspberry Pi. Usemos el GPIO"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy, explico mi experiencia con el GPIO, utilizando mi Raspberry Pi como central de domótica... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-09-domotica-con-mi-raspberry-pi-usemos-el-gpio.html&gt;Domótica con mi Raspberry Pi. Usemos el GPIO&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2079,6 +2634,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2090,12 +2646,18 @@
 
 </description>
     <pubDate>Fri, 09 Jun 2017 19:35 +0100</pubDate>
+    <category>raspberry</category>
+    <category>domótica</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-06-09-domotica-con-mi-raspberry-pi-usemos-el-gpio.html</guid>
    </item>
    <item>
     <title>Docker en 10 minutos</title>
     <link>https://ugeek.github.io//post/2017-06-02-docker-en-10-minutos.html</link>
-    <description>Docker en 10 minutos... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Docker en 10 minutos"&gt;
+&lt;br&gt;&lt;p&gt;Docker en 10 minutos... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-02-docker-en-10-minutos.html&gt;Docker en 10 minutos&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2105,6 +2667,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2116,12 +2679,18 @@
 
 </description>
     <pubDate>Fri, 02 Jun 2017 18:21 +0100</pubDate>
+    <category>docker</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-06-02-docker-en-10-minutos.html</guid>
    </item>
    <item>
     <title>La Terminal mas fácil con alias</title>
     <link>https://ugeek.github.io//post/2017-06-01-la-terminal-mas-facil-con-alias.html</link>
-    <description>La Terminal mas fácil con alias... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="La Terminal mas fácil con alias"&gt;
+&lt;br&gt;&lt;p&gt;La Terminal mas fácil con alias... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-06-01-la-terminal-mas-facil-con-alias.html&gt;La Terminal mas fácil con alias&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2131,6 +2700,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2142,12 +2712,18 @@
 
 </description>
     <pubDate>Thu, 01 Jun 2017 19:21 +0100</pubDate>
+    <category>terminal</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-06-01-la-terminal-mas-facil-con-alias.html</guid>
    </item>
    <item>
     <title>2 Aplicaciones de Notas alternativas que utilizo</title>
     <link>https://ugeek.github.io//post/2017-05-25-2-aplicaciones-de-notas-alternativas-que-utilizo.html</link>
-    <description>En el podcast de hoy, os explico 2 aplicaciones alternativas que utilizo, junto mi Org Mode, para tomar notas... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="2 Aplicaciones de Notas alternativas que utilizo"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy, os explico 2 aplicaciones alternativas que utilizo, junto mi Org Mode, para tomar notas... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-25-2-aplicaciones-de-notas-alternativas-que-utilizo.html&gt;2 Aplicaciones de Notas alternativas que utilizo&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2157,6 +2733,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2168,12 +2745,18 @@
 
 </description>
     <pubDate>Thu, 25 May 2017 18:15 +0100</pubDate>
+    <category>notas</category>
+    <category>app</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-25-2-aplicaciones-de-notas-alternativas-que-utilizo.html</guid>
    </item>
    <item>
     <title>Android: Multicuentas. Gestion de Servicios Raspberry Pi</title>
     <link>https://ugeek.github.io//post/2017-05-24-android-multicuentas-gestion-de-servicios-raspberry-pi.html</link>
-    <description>En el podcast de hoy, hablo de como crear una nueva aplicación o apk, para tener 2 o más aplicaciones iguales y poder utilizar diferentes cuentas.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Android: Multicuentas. Gestion de Servicios Raspberry Pi"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de hoy, hablo de como crear una nueva aplicación o apk, para tener 2 o más aplicaciones iguales y poder utilizar diferentes cuentas.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-24-android-multicuentas-gestion-de-servicios-raspberry-pi.html&gt;Android: Multicuentas. Gestion de Servicios Raspberry Pi&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2183,6 +2766,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2194,12 +2778,18 @@
 
 </description>
     <pubDate>Wed, 24 May 2017 18:15 +0100</pubDate>
+    <category>android</category>
+    <category>app</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-24-android-multicuentas-gestion-de-servicios-raspberry-pi.html</guid>
    </item>
    <item>
     <title>Multicuenta de Telegram en tu PC de escritorio y Wire</title>
     <link>https://ugeek.github.io//post/2017-05-18-multicuenta-de-telegram-en-tu-pc-de-escritorio-y-wire.html</link>
-    <description>Multicuenta de Telegram en tu PC de escritorio y Wire... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Multicuenta de Telegram en tu PC de escritorio y Wire"&gt;
+&lt;br&gt;&lt;p&gt;Multicuenta de Telegram en tu PC de escritorio y Wire... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-18-multicuenta-de-telegram-en-tu-pc-de-escritorio-y-wire.html&gt;Multicuenta de Telegram en tu PC de escritorio y Wire&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2209,6 +2799,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2220,12 +2811,18 @@
 
 </description>
     <pubDate>Thu, 18 May 2017 18:00 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>telegram</category>
+    <category>app</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-18-multicuenta-de-telegram-en-tu-pc-de-escritorio-y-wire.html</guid>
    </item>
    <item>
     <title>Nuevos Cambios...</title>
     <link>https://ugeek.github.io//post/2017-05-17-nuevos-cambios.html</link>
-    <description>Continuo con los cambios. Este episodio esta grabado en formato .m4a, un formato que permite el comprimir mas el archivo que el .mp3 y con más calidad.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Nuevos Cambios..."&gt;
+&lt;br&gt;&lt;p&gt;Continuo con los cambios. Este episodio esta grabado en formato .m4a, un formato que permite el comprimir mas el archivo que el .mp3 y con más calidad.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-17-nuevos-cambios.html&gt;Nuevos Cambios...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2235,6 +2832,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2246,12 +2844,18 @@
 
 </description>
     <pubDate>Wed, 17 May 2017 10:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-17-nuevos-cambios.html</guid>
    </item>
    <item>
     <title>Android: Videoder y llamadas de Telegram</title>
     <link>https://ugeek.github.io//post/2017-05-17-android-videoder-y-llamadas-de-telegram.html</link>
-    <description>Hoy os hablo de Videoder, una aplicación que nos permite tanto bajar vídeos de Youtube, como los audios. También hablo de como alamaceno yo mis vídeos en Telegram... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Android: Videoder y llamadas de Telegram"&gt;
+&lt;br&gt;&lt;p&gt;Hoy os hablo de Videoder, una aplicación que nos permite tanto bajar vídeos de Youtube, como los audios. También hablo de como alamaceno yo mis vídeos en Telegram... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-17-android-videoder-y-llamadas-de-telegram.html&gt;Android: Videoder y llamadas de Telegram&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2261,6 +2865,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2272,12 +2877,18 @@
 
 </description>
     <pubDate>Wed, 17 May 2017 18:10 +0100</pubDate>
+    <category>android</category>
+    <category>telegram</category>
+    <category>mensajeria</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-17-android-videoder-y-llamadas-de-telegram.html</guid>
    </item>
    <item>
     <title>Telefónica esta siendo Atacada!!!</title>
     <link>https://ugeek.github.io//post/2017-05-12-telefonica-esta-siendo-atacada.html</link>
-    <description>Telefónica esta siendo Atacada!!!... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Telefónica esta siendo Atacada!!!"&gt;
+&lt;br&gt;&lt;p&gt;Telefónica esta siendo Atacada!!!... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-12-telefonica-esta-siendo-atacada.html&gt;Telefónica esta siendo Atacada!!!&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2287,6 +2898,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2298,12 +2910,18 @@
 
 </description>
     <pubDate>Fri, 12 May 2017 02:00 +0100</pubDate>
+    <category>seguridad</category>
+    <category>seguridad</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-12-telefonica-esta-siendo-atacada.html</guid>
    </item>
    <item>
     <title>Synapse</title>
     <link>https://ugeek.github.io//post/2017-05-10-synapse.html</link>
-    <description>En el podcast de Hoy os hablo de Synapse. También de como combinar el almacenamiento externo de Nextcloud con Syncthing... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Synapse"&gt;
+&lt;br&gt;&lt;p&gt;En el podcast de Hoy os hablo de Synapse. También de como combinar el almacenamiento externo de Nextcloud con Syncthing... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-10-synapse.html&gt;Synapse&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2313,6 +2931,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2324,12 +2943,18 @@
 
 </description>
     <pubDate>Wed, 10 May 2017 02:00 +0100</pubDate>
+    <category>app</category>
+    <category>app</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-10-synapse.html</guid>
    </item>
    <item>
     <title>¿Jekyll o WordPress?</title>
     <link>https://ugeek.github.io//post/2017-05-06-jekyll-o-wordpress.html</link>
-    <description>¿Jekyll o WordPress?... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="¿Jekyll o WordPress?"&gt;
+&lt;br&gt;&lt;p&gt;¿Jekyll o WordPress?... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-06-jekyll-o-wordpress.html&gt;¿Jekyll o WordPress?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2339,6 +2964,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2350,12 +2976,18 @@
 
 </description>
     <pubDate>Sat, 06 May 2017 02:00 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
     <guid>https://ugeek.github.io//post/2017-05-06-jekyll-o-wordpress.html</guid>
    </item>
    <item>
     <title>Adiós Blogger, Hola GitHub!</title>
     <link>https://ugeek.github.io//post/2017-05-04-adios-blogger-hola-github.html</link>
-    <description>Adiós Blogger, Hola GitHub!... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Adiós Blogger, Hola GitHub!"&gt;
+&lt;br&gt;&lt;p&gt;Adiós Blogger, Hola GitHub!... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-04-adios-blogger-hola-github.html&gt;Adiós Blogger, Hola GitHub!&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2365,6 +2997,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2376,12 +3009,18 @@
 
 </description>
     <pubDate>Thu, 04 May 2017 02:00 +0100</pubDate>
+    <category>git'</category>
+    <category>jekyll</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-04-adios-blogger-hola-github.html</guid>
    </item>
    <item>
     <title>Que ando haciendo, nuevas publicaciones y más...</title>
     <link>https://ugeek.github.io//post/2017-05-01-que-ando-haciendo-nuevas-publicaciones-y-mas.html</link>
-    <description>Que ando haciendo, nuevas publicaciones y más...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Que ando haciendo, nuevas publicaciones y más..."&gt;
+&lt;br&gt;&lt;p&gt;Que ando haciendo, nuevas publicaciones y más...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-05-01-que-ando-haciendo-nuevas-publicaciones-y-mas.html&gt;Que ando haciendo, nuevas publicaciones y más...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2391,6 +3030,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2402,12 +3042,18 @@
 
 </description>
     <pubDate>Mon, 01 May 2017 02:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-05-01-que-ando-haciendo-nuevas-publicaciones-y-mas.html</guid>
    </item>
    <item>
     <title>Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi</title>
     <link>https://ugeek.github.io//post/2017-04-30-instalando-syncthing-en-ubuntu-antergos-y-raspberry-pi.html</link>
-    <description>Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi"&gt;
+&lt;br&gt;&lt;p&gt;Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-30-instalando-syncthing-en-ubuntu-antergos-y-raspberry-pi.html&gt;Instalando Syncthing en Ubuntu, Antergos y Raspberry Pi&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2417,6 +3063,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2428,12 +3075,18 @@
 
 </description>
     <pubDate>Sun, 30 Apr 2017 02:00 +0100</pubDate>
+    <category>syncthing</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-30-instalando-syncthing-en-ubuntu-antergos-y-raspberry-pi.html</guid>
    </item>
    <item>
     <title>Encuentro de amiguetes</title>
     <link>https://ugeek.github.io//post/2017-04-28-encuentro-de-amiguetes.html</link>
-    <description>Encuentro de amiguetes... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Encuentro de amiguetes"&gt;
+&lt;br&gt;&lt;p&gt;Encuentro de amiguetes... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-28-encuentro-de-amiguetes.html&gt;Encuentro de amiguetes&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2443,6 +3096,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2454,12 +3108,18 @@
 
 </description>
     <pubDate>Fri, 28 Apr 2017 02:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category>crossover</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-28-encuentro-de-amiguetes.html</guid>
    </item>
    <item>
     <title>Se quemó la SD. Comparación de consumos entre PC, NAS-Microserver, Raspberry Pi</title>
     <link>https://ugeek.github.io//post/2017-04-26-se-quemo-la-sd-comparacion-de-consumos-entre-pc-nas-microserver-raspberry-pi.html</link>
-    <description>Se quemó la SD. Comparación de consumos entre PC, NAS-Microserver, Raspberry Pi... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Se quemó la SD. Comparación de consumos entre PC, NAS-Microserver, Raspberry Pi"&gt;
+&lt;br&gt;&lt;p&gt;Se quemó la SD. Comparación de consumos entre PC, NAS-Microserver, Raspberry Pi... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-26-se-quemo-la-sd-comparacion-de-consumos-entre-pc-nas-microserver-raspberry-pi.html&gt;Se quemó la SD. Comparación de consumos entre PC, NAS-Microserver, Raspberry Pi&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2469,6 +3129,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2480,12 +3141,18 @@
 
 </description>
     <pubDate>Wed, 26 Apr 2017 02:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category>nas</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-26-se-quemo-la-sd-comparacion-de-consumos-entre-pc-nas-microserver-raspberry-pi.html</guid>
    </item>
    <item>
     <title>Sincronización de carpetas entre dispositivos. Syncthing, Resilio y Dukto</title>
     <link>https://ugeek.github.io//post/2017-04-21-sincronizacion-de-carpetas-entre-dispositivos-syncthing--resilio-y-dukto.html</link>
-    <description>Sincronización de carpetas entre dispositivos. Syncthing, Resilio y Dukto... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Sincronización de carpetas entre dispositivos. Syncthing, Resilio y Dukto"&gt;
+&lt;br&gt;&lt;p&gt;Sincronización de carpetas entre dispositivos. Syncthing, Resilio y Dukto... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-21-sincronizacion-de-carpetas-entre-dispositivos-syncthing--resilio-y-dukto.html&gt;Sincronización de carpetas entre dispositivos. Syncthing, Resilio y Dukto&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2495,6 +3162,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2506,12 +3174,18 @@
 
 </description>
     <pubDate>Fri, 21 Apr 2017 02:00 +0100</pubDate>
+    <category>syncthing</category>
+    <category>servidor</category>
+    <category>resilio</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-21-sincronizacion-de-carpetas-entre-dispositivos-syncthing--resilio-y-dukto.html</guid>
    </item>
    <item>
     <title>Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas...</title>
     <link>https://ugeek.github.io//post/2017-04-12-crossover-con-salmorejo-geek-donde-hablamos-de-mastodon-ubuntu-telegram-y-mucho-mas.html</link>
-    <description>Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas..."&gt;
+&lt;br&gt;&lt;p&gt;Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-12-crossover-con-salmorejo-geek-donde-hablamos-de-mastodon-ubuntu-telegram-y-mucho-mas.html&gt;Crossover con Salmorejo Geek, donde hablamos de Mastodon, Ubuntu, Telegram y mucho mas...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2521,6 +3195,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2532,12 +3207,18 @@
 
 </description>
     <pubDate>Wed, 12 Apr 2017 02:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>crossover</category>
+    <category>telegram</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-12-crossover-con-salmorejo-geek-donde-hablamos-de-mastodon-ubuntu-telegram-y-mucho-mas.html</guid>
    </item>
    <item>
     <title>La web de Jekyll en GitHub, va tomando forma</title>
     <link>https://ugeek.github.io//post/2017-04-11-la-web-de-jekyll-en-github-va-tomando-forma.html</link>
-    <description>La web de Jekyll en GitHub, va tomando forma... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="La web de Jekyll en GitHub, va tomando forma"&gt;
+&lt;br&gt;&lt;p&gt;La web de Jekyll en GitHub, va tomando forma... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-11-la-web-de-jekyll-en-github-va-tomando-forma.html&gt;La web de Jekyll en GitHub, va tomando forma&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2547,6 +3228,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2558,12 +3240,18 @@
 
 </description>
     <pubDate>Tue, 11 Apr 2017 02:00 +0100</pubDate>
+    <category>git'</category>
+    <category>jekyll</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-11-la-web-de-jekyll-en-github-va-tomando-forma.html</guid>
    </item>
    <item>
     <title>Bot de Telegram IFTTT</title>
     <link>https://ugeek.github.io//post/2017-04-10-bot-de-telegram-ifttt.html</link>
-    <description>Bot de Telegram IFTTT... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Bot de Telegram IFTTT"&gt;
+&lt;br&gt;&lt;p&gt;Bot de Telegram IFTTT... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-10-bot-de-telegram-ifttt.html&gt;Bot de Telegram IFTTT&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2573,6 +3261,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2584,12 +3273,18 @@
 
 </description>
     <pubDate>Mon, 10 Apr 2017 02:00 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
     <guid>https://ugeek.github.io//post/2017-04-10-bot-de-telegram-ifttt.html</guid>
    </item>
    <item>
     <title>El Atareao visita el Crossover de la Semana</title>
     <link>https://ugeek.github.io//post/2017-04-09-el-atareao-visita-el-crossover-de-la-semana.html</link>
-    <description>El Atareao visita el Crossover de la Semana... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="El Atareao visita el Crossover de la Semana"&gt;
+&lt;br&gt;&lt;p&gt;El Atareao visita el Crossover de la Semana... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-09-el-atareao-visita-el-crossover-de-la-semana.html&gt;El Atareao visita el Crossover de la Semana&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2599,6 +3294,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2610,12 +3306,18 @@
 
 </description>
     <pubDate>Sun, 09 Apr 2017 02:00 +0100</pubDate>
+    <category>linux</category>
+    <category>crossover</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-09-el-atareao-visita-el-crossover-de-la-semana.html</guid>
    </item>
    <item>
     <title>Ubuntu y el adios de Unity</title>
     <link>https://ugeek.github.io//post/2017-04-06-ubuntu-y-el-adios-de-unity.html</link>
-    <description>Ubuntu y el adios de Unity... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Ubuntu y el adios de Unity"&gt;
+&lt;br&gt;&lt;p&gt;Ubuntu y el adios de Unity... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-06-ubuntu-y-el-adios-de-unity.html&gt;Ubuntu y el adios de Unity&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2626,6 +3328,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2636,12 +3339,18 @@
 
 </description>
     <pubDate>Thu, 06 Apr 2017 02:00 +0100</pubDate>
+    <category>linux</category>
+    <category>ubuntu</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-06-ubuntu-y-el-adios-de-unity.html</guid>
    </item>
    <item>
     <title>Antergos, Ocnews De Nextcloud Y Jekyll</title>
     <link>https://ugeek.github.io//post/2017-04-06-antergos-ocnews-de-nextcloud-y-jekyll.html</link>
-    <description>Antergos, Ocnews De Nextcloud Y Jekyll... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Antergos, Ocnews De Nextcloud Y Jekyll"&gt;
+&lt;br&gt;&lt;p&gt;Antergos, Ocnews De Nextcloud Y Jekyll... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-06-antergos-ocnews-de-nextcloud-y-jekyll.html&gt;Antergos, Ocnews De Nextcloud Y Jekyll&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2652,6 +3361,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2662,12 +3372,18 @@
 
 </description>
     <pubDate>Thu, 06 Apr 2017 02:00 +0100</pubDate>
+    <category>nextcloud</category>
+    <category>nextcloud</category>
+    <category>antergos</category>
+    <category>jekyll</category>
     <guid>https://ugeek.github.io//post/2017-04-06-antergos-ocnews-de-nextcloud-y-jekyll.html</guid>
    </item>
    <item>
     <title>Aplicación Notes de Nextcloud y crea tus bots de Telegram</title>
     <link>https://ugeek.github.io//post/2017-04-02-aplicacion-notes-de-nextcloud-y-crea-tus-bots-de-telegram.html</link>
-    <description>Aplicación Notes de Nextcloud y crea tus bots de Telegram... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Aplicación Notes de Nextcloud y crea tus bots de Telegram"&gt;
+&lt;br&gt;&lt;p&gt;Aplicación Notes de Nextcloud y crea tus bots de Telegram... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-02-aplicacion-notes-de-nextcloud-y-crea-tus-bots-de-telegram.html&gt;Aplicación Notes de Nextcloud y crea tus bots de Telegram&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2677,6 +3393,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2688,12 +3405,18 @@
 
 </description>
     <pubDate>Sun, 02 Apr 2017 02:00 +0100</pubDate>
+    <category>notas</category>
+    <category>telegram</category>
+    <category>nextcloud</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-02-aplicacion-notes-de-nextcloud-y-crea-tus-bots-de-telegram.html</guid>
    </item>
    <item>
     <title>Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi.</title>
     <link>https://ugeek.github.io//post/2017-04-01-crossover-con-mosqueteroweb--masterclass-de-freenas-docker-y-virtualizacion-mediante-proxmox-y-esxi.html</link>
-    <description>Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi."&gt;
+&lt;br&gt;&lt;p&gt;Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-04-01-crossover-con-mosqueteroweb--masterclass-de-freenas-docker-y-virtualizacion-mediante-proxmox-y-esxi.html&gt;Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2703,6 +3426,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2714,12 +3438,18 @@
 
 </description>
     <pubDate>Sat, 01 Apr 2017 02:00 +0100</pubDate>
+    <category>docker</category>
+    <category>crossover</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-04-01-crossover-con-mosqueteroweb--masterclass-de-freenas-docker-y-virtualizacion-mediante-proxmox-y-esxi.html</guid>
    </item>
    <item>
     <title>Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero diferente</title>
     <link>https://ugeek.github.io//post/2017-03-30-podcast-con-frank-de-bateria2x100-servidores-linux-y-nas--lo-mismo-pero--diferente.html</link>
-    <description>Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero diferente... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero diferente"&gt;
+&lt;br&gt;&lt;p&gt;Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero diferente... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-30-podcast-con-frank-de-bateria2x100-servidores-linux-y-nas--lo-mismo-pero--diferente.html&gt;Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero diferente&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2730,6 +3460,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2740,12 +3471,18 @@
 
 </description>
     <pubDate>Thu, 30 Mar 2017 02:00 +0100</pubDate>
+    <category>unix</category>
+    <category>bash</category>
+    <category>unix</category>
+    <category>terminal</category>
     <guid>https://ugeek.github.io//post/2017-03-30-podcast-con-frank-de-bateria2x100-servidores-linux-y-nas--lo-mismo-pero--diferente.html</guid>
    </item>
    <item>
     <title>Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran</title>
     <link>https://ugeek.github.io//post/2017-03-30-llamadas-de-telegram-ya-estan-aqui-y-3-bots-que-os-encantaran.html</link>
-    <description>Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran"&gt;
+&lt;br&gt;&lt;p&gt;Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-30-llamadas-de-telegram-ya-estan-aqui-y-3-bots-que-os-encantaran.html&gt;Llamadas de Telegram ya estan aquí. Y 3 bots que os encantaran&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2756,6 +3493,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2766,12 +3504,18 @@
 
 </description>
     <pubDate>Thu, 30 Mar 2017 02:00 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-30-llamadas-de-telegram-ya-estan-aqui-y-3-bots-que-os-encantaran.html</guid>
    </item>
    <item>
     <title>Mi HP ProLiant MicroServer Gen8 </title>
     <link>https://ugeek.github.io//post/2017-03-28-mi-hp-proliant-microserver-gen8.html</link>
-    <description>Mi HP ProLiant MicroServer Gen8 ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Mi HP ProLiant MicroServer Gen8 "&gt;
+&lt;br&gt;&lt;p&gt;Mi HP ProLiant MicroServer Gen8 ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-28-mi-hp-proliant-microserver-gen8.html&gt;Mi HP ProLiant MicroServer Gen8 &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2782,6 +3526,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2792,12 +3537,18 @@
 
 </description>
     <pubDate>Tue, 28 Mar 2017 02:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-28-mi-hp-proliant-microserver-gen8.html</guid>
    </item>
    <item>
     <title>Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket</title>
     <link>https://ugeek.github.io//post/2017-03-28-bots-de-telegram-sustitutos-a-shazam-y-busqueda-de-articulos-dentro-del-bot-de-pocket.html</link>
-    <description>Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket"&gt;
+&lt;br&gt;&lt;p&gt;Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-28-bots-de-telegram-sustitutos-a-shazam-y-busqueda-de-articulos-dentro-del-bot-de-pocket.html&gt;Bots de Telegram Sustitutos a Shazam y busqueda de articulos dentro del bot de Pocket&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2808,6 +3559,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2818,12 +3570,18 @@
 
 </description>
     <pubDate>Tue, 28 Mar 2017 02:00 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-28-bots-de-telegram-sustitutos-a-shazam-y-busqueda-de-articulos-dentro-del-bot-de-pocket.html</guid>
    </item>
    <item>
     <title>Miscelánea de Viernes</title>
     <link>https://ugeek.github.io//post/2017-03-24-miscelanea-de-viernes.html</link>
-    <description>Miscelánea de Viernes... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Miscelánea de Viernes"&gt;
+&lt;br&gt;&lt;p&gt;Miscelánea de Viernes... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-24-miscelanea-de-viernes.html&gt;Miscelánea de Viernes&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2834,6 +3592,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2844,12 +3603,18 @@
 
 </description>
     <pubDate>Fri, 24 Mar 2017 01:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-24-miscelanea-de-viernes.html</guid>
    </item>
    <item>
     <title>Bots en Telegram. Bot de Pocket</title>
     <link>https://ugeek.github.io//post/2017-03-24-bots-en-telegram-bot-de-pocket.html</link>
-    <description>En este podcast os hablo de un bot para compartir todos nuestros artículos, fotos, vídeos,... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Bots en Telegram. Bot de Pocket"&gt;
+&lt;br&gt;&lt;p&gt;En este podcast os hablo de un bot para compartir todos nuestros artículos, fotos, vídeos,... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-24-bots-en-telegram-bot-de-pocket.html&gt;Bots en Telegram. Bot de Pocket&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2860,6 +3625,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -2870,12 +3636,18 @@
 
 </description>
     <pubDate>Fri, 24 Mar 2017 01:00 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>telegram</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-24-bots-en-telegram-bot-de-pocket.html</guid>
    </item>
    <item>
     <title>Keepass, como gestiono mis contraseñas</title>
     <link>https://ugeek.github.io//post/2017-03-22-keepass-como-gestiono-mis-contrasenas.html</link>
-    <description>Como os comento en el podcast, [[http://keepass.info/][keepass.info]] es es mi aplicación para gestionar mis contraseñas. Por supuesto, esta aplicación es de software libre y multiplataforma... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Keepass, como gestiono mis contraseñas"&gt;
+&lt;br&gt;&lt;p&gt;Como os comento en el podcast, [[http://keepass.info/][keepass.info]] es es mi aplicación para gestionar mis contraseñas. Por supuesto, esta aplicación es de software libre y multiplataforma... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-22-keepass-como-gestiono-mis-contrasenas.html&gt;Keepass, como gestiono mis contraseñas&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2885,6 +3657,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2896,12 +3669,18 @@
 
 </description>
     <pubDate>Wed, 22 Mar 2017 01:00 +0100</pubDate>
+    <category>seguridad</category>
+    <category>seguridad</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-22-keepass-como-gestiono-mis-contrasenas.html</guid>
    </item>
    <item>
     <title>Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive</title>
     <link>https://ugeek.github.io//post/2017-03-21-mumble-voip-de-software-libre-nextcloud-wallabag-y-kdenlive.html</link>
-    <description>Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive. Instalemos un servidor de Mumble para tener conversaciones grupales via VoIP... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive"&gt;
+&lt;br&gt;&lt;p&gt;Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive. Instalemos un servidor de Mumble para tener conversaciones grupales via VoIP... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-21-mumble-voip-de-software-libre-nextcloud-wallabag-y-kdenlive.html&gt;Mumble, VoIP de Software Libre. Nextcloud, Wallabag y kdenlive&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2911,6 +3690,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2922,12 +3702,18 @@
 
 </description>
     <pubDate>Tue, 21 Mar 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>nextcloud</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-21-mumble-voip-de-software-libre-nextcloud-wallabag-y-kdenlive.html</guid>
    </item>
    <item>
     <title>Miscelánea de Viernes.</title>
     <link>https://ugeek.github.io//post/2017-03-17-miscelanea-de-viernes.html</link>
-    <description>Miscelánea de Viernes: Ubuntu Core, Ubuntu Mate 16.04, Raspberry Pi, Folder Sync, Llamadas de Telegram ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Miscelánea de Viernes."&gt;
+&lt;br&gt;&lt;p&gt;Miscelánea de Viernes: Ubuntu Core, Ubuntu Mate 16.04, Raspberry Pi, Folder Sync, Llamadas de Telegram ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-17-miscelanea-de-viernes.html&gt;Miscelánea de Viernes.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2937,6 +3723,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2948,12 +3735,18 @@
 
 </description>
     <pubDate>Fri, 17 Mar 2017 01:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-17-miscelanea-de-viernes.html</guid>
    </item>
    <item>
     <title>Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber </title>
     <link>https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html</link>
-    <description>Vamos a instalar un servidor de mensajería instantánea, donde los mensajes, llamadas ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber "&gt;
+&lt;br&gt;&lt;p&gt;Vamos a instalar un servidor de mensajería instantánea, donde los mensajes, llamadas ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html&gt;Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2963,6 +3756,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -2974,12 +3768,18 @@
 
 </description>
     <pubDate>Thu, 16 Mar 2017 01:00 +0100</pubDate>
+    <category>mensajeria</category>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html</guid>
    </item>
    <item>
     <title>Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn</title>
     <link>https://ugeek.github.io//post/2017-03-14-instala-una-vpn-openvpn-en-ubuntu-o-raspberry-pi-con-pivpn.html</link>
-    <description>Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn. He probado tanto en Raspberry Pi con Raspbian como en Ubuntu 16.04 y funciona perfectamente... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn"&gt;
+&lt;br&gt;&lt;p&gt;Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn. He probado tanto en Raspberry Pi con Raspbian como en Ubuntu 16.04 y funciona perfectamente... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-14-instala-una-vpn-openvpn-en-ubuntu-o-raspberry-pi-con-pivpn.html&gt;Instala una VPN (OpenVpn) en Ubuntu o Raspberry Pi con PiVpn&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -2989,6 +3789,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3000,12 +3801,18 @@
 
 </description>
     <pubDate>Tue, 14 Mar 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-14-instala-una-vpn-openvpn-en-ubuntu-o-raspberry-pi-con-pivpn.html</guid>
    </item>
    <item>
     <title>Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras Fotos, actualidad y sorteo del libro del año</title>
     <link>https://ugeek.github.io//post/2017-03-11-podcast-con-frank-de-bateria2x100-hablamos-de-como-gestionamos-nuestras-fotos-actualidad-y-sorteo-del-libro-del-ano.html</link>
-    <description>Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras Fotos, actualidad y sorteo del libro del año... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras Fotos, actualidad y sorteo del libro del año"&gt;
+&lt;br&gt;&lt;p&gt;Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras Fotos, actualidad y sorteo del libro del año... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-11-podcast-con-frank-de-bateria2x100-hablamos-de-como-gestionamos-nuestras-fotos-actualidad-y-sorteo-del-libro-del-ano.html&gt;Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestras Fotos, actualidad y sorteo del libro del año&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3015,6 +3822,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3026,12 +3834,18 @@
 
 </description>
     <pubDate>Sat, 11 Mar 2017 01:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>crossover</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-11-podcast-con-frank-de-bateria2x100-hablamos-de-como-gestionamos-nuestras-fotos-actualidad-y-sorteo-del-libro-del-ano.html</guid>
    </item>
    <item>
     <title>Metodo mas completo para recopilar notas, org Mode</title>
     <link>https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</link>
-    <description>Este es el método definitivo, hasta ahora, para tomar mis notas con un sistema jerárquico de  notas y todas dentro en un único txt, renombrado como .org... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Metodo mas completo para recopilar notas, org Mode"&gt;
+&lt;br&gt;&lt;p&gt;Este es el método definitivo, hasta ahora, para tomar mis notas con un sistema jerárquico de  notas y todas dentro en un único txt, renombrado como .org... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html&gt;Metodo mas completo para recopilar notas, org Mode&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3041,6 +3855,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3052,12 +3867,18 @@
 
 </description>
     <pubDate>Wed, 08 Mar 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>orgmode</category>
+    <category>emacs</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</guid>
    </item>
    <item>
     <title>Conectate remotamente a tu Raspberry Pi con "dataplicity" </title>
     <link>https://ugeek.github.io//post/2017-03-07-conectate-remotamente-a-tu-raspberry-pi-con-dataplicity.html</link>
-    <description>Conectate remotamente a tu Raspberry Pi con "dataplicity" ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Conectate remotamente a tu Raspberry Pi con "dataplicity" "&gt;
+&lt;br&gt;&lt;p&gt;Conectate remotamente a tu Raspberry Pi con "dataplicity" ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-07-conectate-remotamente-a-tu-raspberry-pi-con-dataplicity.html&gt;Conectate remotamente a tu Raspberry Pi con "dataplicity" &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3067,6 +3888,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3078,12 +3900,18 @@
 
 </description>
     <pubDate>Tue, 07 Mar 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-07-conectate-remotamente-a-tu-raspberry-pi-con-dataplicity.html</guid>
    </item>
    <item>
     <title>Entrevista a Chema y Juan, dos desarrolladores de Software Libre de Igalia.com en el #mwc17</title>
     <link>https://ugeek.github.io//post/2017-03-04-entrevista-a-chema-y-juan-dos-desarrolladores-de-software-libre-de-igalia-com-en-el-mwc17.html</link>
-    <description>Gracias a @gnomeinbasket en twitter, que sabiendo que estaba en el #mwc17, me recomendó pasar por el stand de Igalia... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Entrevista a Chema y Juan, dos desarrolladores de Software Libre de Igalia.com en el #mwc17"&gt;
+&lt;br&gt;&lt;p&gt;Gracias a @gnomeinbasket en twitter, que sabiendo que estaba en el #mwc17, me recomendó pasar por el stand de Igalia... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-04-entrevista-a-chema-y-juan-dos-desarrolladores-de-software-libre-de-igalia-com-en-el-mwc17.html&gt;Entrevista a Chema y Juan, dos desarrolladores de Software Libre de Igalia.com en el #mwc17&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3093,6 +3921,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3104,12 +3933,18 @@
 
 </description>
     <pubDate>Sat, 04 Mar 2017 01:00 +0100</pubDate>
+    <category>entrevista</category>
+    <category>podcast'</category>
+    <category>mwc</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-04-entrevista-a-chema-y-juan-dos-desarrolladores-de-software-libre-de-igalia-com-en-el-mwc17.html</guid>
    </item>
    <item>
     <title>Entrevista con Arturo Suarez, DIrectivo del Cloud de Canonical Ubuntu</title>
     <link>https://ugeek.github.io//post/2017-03-02-entrevista-con-arturo-suarez--directivo-del-cloud-de-canonical-ubuntu.html</link>
-    <description>hacia donde se está orientando Ubuntu, a través de Ubuntu en la nube, el sistema operativo en dispositivos móviles...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Entrevista con Arturo Suarez, DIrectivo del Cloud de Canonical Ubuntu"&gt;
+&lt;br&gt;&lt;p&gt;hacia donde se está orientando Ubuntu, a través de Ubuntu en la nube, el sistema operativo en dispositivos móviles...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-02-entrevista-con-arturo-suarez--directivo-del-cloud-de-canonical-ubuntu.html&gt;Entrevista con Arturo Suarez, DIrectivo del Cloud de Canonical Ubuntu&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3119,6 +3954,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3130,12 +3966,18 @@
 
 </description>
     <pubDate>Thu, 02 Mar 2017 01:00 +0100</pubDate>
+    <category>entrevista</category>
+    <category>ubuntu</category>
+    <category>mwc</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-02-entrevista-con-arturo-suarez--directivo-del-cloud-de-canonical-ubuntu.html</guid>
    </item>
    <item>
     <title>Ubuntu en el Mobile World Congress </title>
     <link>https://ugeek.github.io//post/2017-02-28-ubuntu-en-el-mobile-world-congress.html</link>
-    <description>Estoy en el Mobile World Congress y en breve subiremos entrevistas de ubuntu, nextcloud y mucho más ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Ubuntu en el Mobile World Congress "&gt;
+&lt;br&gt;&lt;p&gt;Estoy en el Mobile World Congress y en breve subiremos entrevistas de ubuntu, nextcloud y mucho más ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-28-ubuntu-en-el-mobile-world-congress.html&gt;Ubuntu en el Mobile World Congress &lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3145,6 +3987,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3156,12 +3999,18 @@
 
 </description>
     <pubDate>Tue, 28 Feb 2017 01:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>mwc</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-28-ubuntu-en-el-mobile-world-congress.html</guid>
    </item>
    <item>
     <title>Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra notas y mucho mas...</title>
     <link>https://ugeek.github.io//post/2017-02-25-podcast-con-frank-de-bateria2x100--hablamos-de-como-gestionamos-nuestra-notas-y-mucho-mas.html</link>
-    <description>Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra notas y mucho mas...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra notas y mucho mas..."&gt;
+&lt;br&gt;&lt;p&gt;Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra notas y mucho mas...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-25-podcast-con-frank-de-bateria2x100--hablamos-de-como-gestionamos-nuestra-notas-y-mucho-mas.html&gt;Podcast con Frank de Batería2x100, Hablamos de como gestionamos nuestra notas y mucho mas...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3171,6 +4020,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3182,12 +4032,18 @@
 
 </description>
     <pubDate>Sat, 25 Feb 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>crossover</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-25-podcast-con-frank-de-bateria2x100--hablamos-de-como-gestionamos-nuestra-notas-y-mucho-mas.html</guid>
    </item>
    <item>
     <title>Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki.</title>
     <link>https://ugeek.github.io//post/2017-02-23-dokuwiki-nueva-forma-de-tomar-mis-notas-monta-tu-wiki-con-dokuwiki-o-mediawiki.html</link>
-    <description>Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki."&gt;
+&lt;br&gt;&lt;p&gt;Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-23-dokuwiki-nueva-forma-de-tomar-mis-notas-monta-tu-wiki-con-dokuwiki-o-mediawiki.html&gt;Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3197,6 +4053,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3208,12 +4065,18 @@
 
 </description>
     <pubDate>Thu, 23 Feb 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>servidor</category>
+    <category>wiki</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-23-dokuwiki-nueva-forma-de-tomar-mis-notas-monta-tu-wiki-con-dokuwiki-o-mediawiki.html</guid>
    </item>
    <item>
     <title>Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor de todo, en tu servidor</title>
     <link>https://ugeek.github.io//post/2017-02-21-como-montar-wallabag-el-pocket-o-instapaper-de-software-libre-y-lo-mejor-de-todo--en-tu-servidor.html</link>
-    <description>Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor de todo, en tu servidor. La versión 1.9.1 de Wallabag funciona perfectamente tanto en ubuntu como en raspberry pi, tal como explico en el podcast.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor de todo, en tu servidor"&gt;
+&lt;br&gt;&lt;p&gt;Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor de todo, en tu servidor. La versión 1.9.1 de Wallabag funciona perfectamente tanto en ubuntu como en raspberry pi, tal como explico en el podcast.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-21-como-montar-wallabag-el-pocket-o-instapaper-de-software-libre-y-lo-mejor-de-todo--en-tu-servidor.html&gt;Como montar Wallabag, el Pocket o Instapaper de software libre y lo mejor de todo, en tu servidor&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3223,6 +4086,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3234,12 +4098,18 @@
 
 </description>
     <pubDate>Tue, 21 Feb 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-21-como-montar-wallabag-el-pocket-o-instapaper-de-software-libre-y-lo-mejor-de-todo--en-tu-servidor.html</guid>
    </item>
    <item>
     <title>Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud...</title>
     <link>https://ugeek.github.io//post/2017-02-18-podcast-con-frank-de-bateria2x100-hablando-de-plex-nextcloud.html</link>
-    <description>Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud..."&gt;
+&lt;br&gt;&lt;p&gt;Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-18-podcast-con-frank-de-bateria2x100-hablando-de-plex-nextcloud.html&gt;Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3249,6 +4119,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3260,12 +4131,18 @@
 
 </description>
     <pubDate>Sat, 18 Feb 2017 01:00 +0100</pubDate>
+    <category>nextcloud</category>
+    <category>crossover</category>
+    <category>plex</category>
+    <category>nextcloud</category>
     <guid>https://ugeek.github.io//post/2017-02-18-podcast-con-frank-de-bateria2x100-hablando-de-plex-nextcloud.html</guid>
    </item>
    <item>
     <title>Que es un Servidor (dudas oyentes), servidor web, ...</title>
     <link>https://ugeek.github.io//post/2017-02-17-que-es-un-servidor-(dudas-oyentes)--servidor-web.html</link>
-    <description>Que es un Servidor (dudas oyentes), servidor web, ...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Que es un Servidor (dudas oyentes), servidor web, ..."&gt;
+&lt;br&gt;&lt;p&gt;Que es un Servidor (dudas oyentes), servidor web, ...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-17-que-es-un-servidor-(dudas-oyentes)--servidor-web.html&gt;Que es un Servidor (dudas oyentes), servidor web, ...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3275,6 +4152,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3286,12 +4164,18 @@
 
 </description>
     <pubDate>Fri, 17 Feb 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-17-que-es-un-servidor-(dudas-oyentes)--servidor-web.html</guid>
    </item>
    <item>
     <title>Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas y hacer copias de mis fotos.</title>
     <link>https://ugeek.github.io//post/2017-02-16-como-ampliar-el-almacenamiento-de-nextcloud-combinar-con-nubes-publicas-y-hacer-copias-de-mis-fotos.html</link>
-    <description>Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas y hacer copias de mis fotos.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas y hacer copias de mis fotos."&gt;
+&lt;br&gt;&lt;p&gt;Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas y hacer copias de mis fotos.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-16-como-ampliar-el-almacenamiento-de-nextcloud-combinar-con-nubes-publicas-y-hacer-copias-de-mis-fotos.html&gt;Como ampliar el almacenamiento de Nextcloud, combinar con nubes publicas y hacer copias de mis fotos.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3301,6 +4185,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3312,12 +4197,18 @@
 
 </description>
     <pubDate>Thu, 16 Feb 2017 01:00 +0100</pubDate>
+    <category>nextcloud</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-16-como-ampliar-el-almacenamiento-de-nextcloud-combinar-con-nubes-publicas-y-hacer-copias-de-mis-fotos.html</guid>
    </item>
    <item>
     <title>Notas en Nextcloud y Markdown</title>
     <link>https://ugeek.github.io//post/2017-02-15-notas-en-nextcloud-y-markdown.html</link>
-    <description>Tengo que decir que estoy probando Markdown en la aplicación Notas de Nextcloud y me esta gustando... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Notas en Nextcloud y Markdown"&gt;
+&lt;br&gt;&lt;p&gt;Tengo que decir que estoy probando Markdown en la aplicación Notas de Nextcloud y me esta gustando... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-15-notas-en-nextcloud-y-markdown.html&gt;Notas en Nextcloud y Markdown&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3327,6 +4218,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3338,12 +4230,18 @@
 
 </description>
     <pubDate>Wed, 15 Feb 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>markdown</category>
+    <category>nextcloud</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-15-notas-en-nextcloud-y-markdown.html</guid>
    </item>
    <item>
     <title>News y FreshRSS. Gestor de Noticias RSS.</title>
     <link>https://ugeek.github.io//post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html</link>
-    <description>News y FreshRSS. Gestor de Noticias RSS.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="News y FreshRSS. Gestor de Noticias RSS."&gt;
+&lt;br&gt;&lt;p&gt;News y FreshRSS. Gestor de Noticias RSS.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html&gt;News y FreshRSS. Gestor de Noticias RSS.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3354,6 +4252,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -3364,12 +4263,18 @@
 
 </description>
     <pubDate>Tue, 14 Feb 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>rss</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-14-news-y-freshrss-gestor-de-noticias-rss.html</guid>
    </item>
    <item>
     <title>bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.</title>
     <link>https://ugeek.github.io//post/2017-02-14-bis-f-droid-tienda-android-de-aplicaciones-de-software-libre-y-actualizar-las-noticias-en-nextcloud.html</link>
-    <description>bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud."&gt;
+&lt;br&gt;&lt;p&gt;bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-14-bis-f-droid-tienda-android-de-aplicaciones-de-software-libre-y-actualizar-las-noticias-en-nextcloud.html&gt;bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3380,6 +4285,7 @@
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
 
+
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=http://feeds.feedburner.com/ugeekblog&gt;Suscribete al Blog de uGeek&lt;/a&gt;
@@ -3390,12 +4296,18 @@
 
 </description>
     <pubDate>Tue, 14 Feb 2017 01:00 +0100</pubDate>
+    <category>android</category>
+    <category>app</category>
+    <category>nextcloud</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-14-bis-f-droid-tienda-android-de-aplicaciones-de-software-libre-y-actualizar-las-noticias-en-nextcloud.html</guid>
    </item>
    <item>
     <title>Como actualizar Nextcloud y salir del modo de "mantenimiento"</title>
     <link>https://ugeek.github.io//post/2017-02-13-como-actualizar-nextcloud-y-salir-del-modo-de-mantenimiento.html</link>
-    <description>Cuando actualizamos Nextcloud puede salirnos una pantalla donde se indica que estamos en modo mantenimiento. Para solucionar este problema, nos conectamos con la terminal y escribimos estas dos lineas:... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como actualizar Nextcloud y salir del modo de "mantenimiento""&gt;
+&lt;br&gt;&lt;p&gt;Cuando actualizamos Nextcloud puede salirnos una pantalla donde se indica que estamos en modo mantenimiento. Para solucionar este problema, nos conectamos con la terminal y escribimos estas dos lineas:... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-13-como-actualizar-nextcloud-y-salir-del-modo-de-mantenimiento.html&gt;Como actualizar Nextcloud y salir del modo de "mantenimiento"&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3405,6 +4317,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3416,12 +4329,18 @@
 
 </description>
     <pubDate>Mon, 13 Feb 2017 01:00 +0100</pubDate>
+    <category>nextcloud</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-13-como-actualizar-nextcloud-y-salir-del-modo-de-mantenimiento.html</guid>
    </item>
    <item>
     <title>Podcast con Frank de Bateria2x100, hablando un poco de todo...</title>
     <link>https://ugeek.github.io//post/2017-02-11-podcast-con-frank-de-bateria2x100-hablando-un-poco-de-todo.html</link>
-    <description>Podcast con Frank de Bateria2x100, hablando un poco de todo...... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Podcast con Frank de Bateria2x100, hablando un poco de todo..."&gt;
+&lt;br&gt;&lt;p&gt;Podcast con Frank de Bateria2x100, hablando un poco de todo...... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-11-podcast-con-frank-de-bateria2x100-hablando-un-poco-de-todo.html&gt;Podcast con Frank de Bateria2x100, hablando un poco de todo...&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3431,6 +4350,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3442,12 +4362,18 @@
 
 </description>
     <pubDate>Sat, 11 Feb 2017 01:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>crossover</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-11-podcast-con-frank-de-bateria2x100-hablando-un-poco-de-todo.html</guid>
    </item>
    <item>
     <title>CloudReady el Chromium OS de bolsillo</title>
     <link>https://ugeek.github.io//post/2017-02-10-cloudready-el-chromium-os-de-bolsillo.html</link>
-    <description>CloudReady el Chromium OS de bolsillo... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="CloudReady el Chromium OS de bolsillo"&gt;
+&lt;br&gt;&lt;p&gt;CloudReady el Chromium OS de bolsillo... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-10-cloudready-el-chromium-os-de-bolsillo.html&gt;CloudReady el Chromium OS de bolsillo&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3457,6 +4383,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3468,12 +4395,18 @@
 
 </description>
     <pubDate>Fri, 10 Feb 2017 01:00 +0100</pubDate>
+    <category>linux</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-10-cloudready-el-chromium-os-de-bolsillo.html</guid>
    </item>
    <item>
     <title>Crea tu podcast en 3 simples pasos y totalmente gratis</title>
     <link>https://ugeek.github.io//post/2017-02-09-crea-tu-podcast-en-3-simples-pasos-y-totalmente-gratis.html</link>
-    <description>Crea tu podcast en 3 simples pasos y totalmente gratis... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Crea tu podcast en 3 simples pasos y totalmente gratis"&gt;
+&lt;br&gt;&lt;p&gt;Crea tu podcast en 3 simples pasos y totalmente gratis... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-09-crea-tu-podcast-en-3-simples-pasos-y-totalmente-gratis.html&gt;Crea tu podcast en 3 simples pasos y totalmente gratis&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3483,6 +4416,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3494,12 +4428,18 @@
 
 </description>
     <pubDate>Thu, 09 Feb 2017 01:00 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-09-crea-tu-podcast-en-3-simples-pasos-y-totalmente-gratis.html</guid>
    </item>
    <item>
     <title>Como gestiono mis Notas</title>
     <link>https://ugeek.github.io//post/2017-02-08-como-gestiono-mis-notas.html</link>
-    <description>En este podcast os explico como tomo mis notas en formato .txt. LLevo algo mas de año y medio tomando mis notas con este sistema y estoy encantado así que quería compartirlo con vosotros. ... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Como gestiono mis Notas"&gt;
+&lt;br&gt;&lt;p&gt;En este podcast os explico como tomo mis notas en formato .txt. LLevo algo mas de año y medio tomando mis notas con este sistema y estoy encantado así que quería compartirlo con vosotros. ... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-08-como-gestiono-mis-notas.html&gt;Como gestiono mis Notas&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3509,6 +4449,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3520,12 +4461,18 @@
 
 </description>
     <pubDate>Wed, 08 Feb 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>notas</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-08-como-gestiono-mis-notas.html</guid>
    </item>
    <item>
     <title>Linux es una alternativa real</title>
     <link>https://ugeek.github.io//post/2017-02-07-linux-es-una-alternativa-real.html</link>
-    <description>Linux como alternativa a otras soluciones privativas así como programas de Software Libre.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Linux es una alternativa real"&gt;
+&lt;br&gt;&lt;p&gt;Linux como alternativa a otras soluciones privativas así como programas de Software Libre.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-07-linux-es-una-alternativa-real.html&gt;Linux es una alternativa real&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3535,6 +4482,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3546,12 +4494,18 @@
 
 </description>
     <pubDate>Tue, 07 Feb 2017 01:00 +0100</pubDate>
+    <category>linux</category>
+    <category>linux</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-07-linux-es-una-alternativa-real.html</guid>
    </item>
    <item>
     <title>El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor.</title>
     <link>https://ugeek.github.io//post/2017-02-05-el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi--el-sistema-kanban-en-tu-servidor.html</link>
-    <description>Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos.... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor."&gt;
+&lt;br&gt;&lt;p&gt;Hoy os traigo un par de aplicaciones para desarrollar vosotros el sistema Kanban y no tener que usar necesariamente aplicaciones como Trello. Como sabéis, si instaláis estas aplicaciones en vuestro servidor o raspberry Pi, tendréis vosotros vuestra información y no en servidores ajenos.... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-05-el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi--el-sistema-kanban-en-tu-servidor.html&gt;El Trello de Software Libre Wekan y Kanboard para Raspberry Pi. El sistema Kanban en tu servidor.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3561,6 +4515,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3572,12 +4527,18 @@
 
 </description>
     <pubDate>Sun, 05 Feb 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>raspberry</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-05-el-trello-de-software-libre-wekan-y-kanboard-para-raspberry-pi--el-sistema-kanban-en-tu-servidor.html</guid>
    </item>
    <item>
     <title>Paper de Dropbox</title>
     <link>https://ugeek.github.io//post/2017-02-02-paper-de-dropbox.html</link>
-    <description>Llega Paper de Dropbox y le damos una probadita... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Paper de Dropbox"&gt;
+&lt;br&gt;&lt;p&gt;Llega Paper de Dropbox y le damos una probadita... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-02-paper-de-dropbox.html&gt;Paper de Dropbox&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3587,6 +4548,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3598,12 +4560,18 @@
 
 </description>
     <pubDate>Thu, 02 Feb 2017 01:00 +0100</pubDate>
+    <category>notas</category>
+    <category>app</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-02-paper-de-dropbox.html</guid>
    </item>
    <item>
     <title>Servidor Linux Vs QNAP-Synology</title>
     <link>https://ugeek.github.io//post/2017-02-01-servidor-linux-vs-qnap-synology.html</link>
-    <description>Servidor Linux Vs QNAP-Synology... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Servidor Linux Vs QNAP-Synology"&gt;
+&lt;br&gt;&lt;p&gt;Servidor Linux Vs QNAP-Synology... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-01-servidor-linux-vs-qnap-synology.html&gt;Servidor Linux Vs QNAP-Synology&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3613,6 +4581,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3624,12 +4593,18 @@
 
 </description>
     <pubDate>Wed, 01 Feb 2017 01:00 +0100</pubDate>
+    <category>servidor</category>
+    <category>linux</category>
+    <category>servidor</category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-02-01-servidor-linux-vs-qnap-synology.html</guid>
    </item>
    <item>
     <title>Nextcloud. Instalar tu Nube en menos de 2 minutos.</title>
     <link>https://ugeek.github.io//post/2017-01-31-nextcloud-instalar-tu-nube-en-menos-de-2-minutos.html</link>
-    <description>Monta tu nube nextcloud en menos de 2 minutos con la paquetería snap... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Nextcloud. Instalar tu Nube en menos de 2 minutos."&gt;
+&lt;br&gt;&lt;p&gt;Monta tu nube nextcloud en menos de 2 minutos con la paquetería snap... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-01-31-nextcloud-instalar-tu-nube-en-menos-de-2-minutos.html&gt;Nextcloud. Instalar tu Nube en menos de 2 minutos.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3639,6 +4614,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3650,12 +4626,18 @@
 
 </description>
     <pubDate>Tue, 31 Jan 2017 01:00 +0100</pubDate>
+    <category>nextcloud</category>
+    <category>servidor</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-01-31-nextcloud-instalar-tu-nube-en-menos-de-2-minutos.html</guid>
    </item>
    <item>
     <title>De qué va esto de uGeek?</title>
     <link>https://ugeek.github.io//post/2017-01-30-de-que-va-esto-de-ugeek.html</link>
-    <description>De qué va esto de uGeek?... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="De qué va esto de uGeek?"&gt;
+&lt;br&gt;&lt;p&gt;De qué va esto de uGeek?... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-01-30-de-que-va-esto-de-ugeek.html&gt;De qué va esto de uGeek?&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3665,6 +4647,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3676,12 +4659,18 @@
 
 </description>
     <pubDate>Mon, 30 Jan 2017 06:45 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-01-30-de-que-va-esto-de-ugeek.html</guid>
    </item>
    <item>
     <title>Hola Mundo</title>
     <link>https://ugeek.github.io//post/2017-01-26-hola-mundo.html</link>
-    <description>Hola Mundo... 
+    <description>
+&lt;img src="https://ugeek.github.io/blog/icon/ugeek.png" alt="Hola Mundo"&gt;
+&lt;br&gt;&lt;p&gt;Hola Mundo... 
 &lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-01-26-hola-mundo.html&gt;Hola Mundo&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
@@ -3691,6 +4680,7 @@
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
 &lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3702,6 +4692,10 @@
 
 </description>
     <pubDate>Thu, 26 Jan 2017 20:44 +0100</pubDate>
+    <category>podcast'</category>
+    <category>podcast'</category>
+    <category></category>
+    <category></category>
     <guid>https://ugeek.github.io//post/2017-01-26-hola-mundo.html</guid>
    </item>
   </channel>
