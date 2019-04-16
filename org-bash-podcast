@@ -376,7 +376,7 @@ gtag("'config'", "'$GOOGLE_ANALITYCS'");
 
 </head>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 '$HEAD_PAGE_POST'
 ' >   $FILE.html
@@ -674,7 +674,7 @@ gtag("'config'", "'$GOOGLE_ANALITYCS'");
 
 </head>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 '$HEAD_PAGE'
 '> index.html
 cat index.org | pandoc --from org --to html5 >> index.html
@@ -734,7 +734,7 @@ gtag("'config'", "'$GOOGLE_ANALITYCS'");
 
 </head>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 '$HEAD_PAGE'
 ' > list.html
@@ -745,11 +745,11 @@ sed -i 's|__css/|css/|g' list.html
 rm list.org
 echo "Generando Clasificación por Tags"
 #echo "$GOOGLE_ANALITYCS" > tag.org
-echo "* Etiquetas" >> tag.org
+echo "** Etiquetas" >> tag.org
 echo " " >> tag.org
 while read TAG; do 
 grep -i "$TAG" posts.csv > temp_tag.csv
-echo "** $TAG" >> tag.org
+echo "*** $TAG" >> tag.org
 NUM_TAGS=$(cat tag.csv | wc -l)
 while read LINEA; do 
 TPOST=$(echo $LINEA | cut -d, -f1 | sed 's/|/,/g' )
@@ -804,7 +804,7 @@ gtag("'config'", "'$GOOGLE_ANALITYCS'");
 
 </head>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 '$HEAD_PAGE'
 ' > tag.html
