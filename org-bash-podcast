@@ -22,6 +22,28 @@
 #
 
 
+
+
+TITLE_POST=$(wget -qO- https://ugeek.github.io/blog/feed.xml  | xml2 | grep "/rss/channel/item/title=" | sed -e 's|/rss/channel/item/title=||g')
+URL=$(wget -qO- https://ugeek.github.io/blog/feed.xml   | xml2 | grep "/rss/channel/item/link=" | sed -e 's|/rss/channel/item/link=||g')
+#IMG=$(wget -qO- https://ugeek.github.io/blog/feed.xml  | xml2 | grep "/rss/channel/item/description=<img src="  | sed -e 's|/rss/channel/item/description=||g')
+#echo "* Últimos Artículos Publicados" >> index.org
+#echo "#+html: $(echo "$IMG" | awk '{if(NR==1) print $0}')  $(echo "$IMG" | awk '{if(NR==2) print $0}')   $(echo "$IMG" | awk '{if(NR==3) print $0}')   $(echo "$IMG" | awk '{if(NR==4) print $0}')" >> index.org
+ARTICULOS_WEB=$(echo "*** Últimos Artículos Publicados                                                                                                                          
+- [[$(echo "$URL" | awk '{if(NR==1) print $0}' )][$(echo "$TITLE_POST" | awk '{if(NR==1) print $0}' )]]                                                                            
+- [[$(echo "$URL" | awk '{if(NR==2) print $0}' )][$(echo "$TITLE_POST" | awk '{if(NR==2) print $0}' )]]                                                                            
+- [[$(echo "$URL" | awk '{if(NR==3) print $0}' )][$(echo "$TITLE_POST" | awk '{if(NR==3) print $0}' )]]                                                                            
+- [[$(echo "$URL" | awk '{if(NR==4) print $0}' )][$(echo "$TITLE_POST" | awk '{if(NR==4) print $0}' )]]                                                                            
+- [[$(echo "$URL" | awk '{if(NR==5) print $0}' )][$(echo "$TITLE_POST" | awk '{if(NR==5) print $0}' )]]")
+
+
+
+
+
+
+
+
+
 # BROWSER
 BROWSER="firefox"         # Browser to open page
 TWITTER="@ugeekpodcast"   # nick twitter
@@ -75,23 +97,23 @@ HEAD_PAGE_POST=$(echo '
 
 ################################################################################
 # MAIN CONTENT. INDEX PAGE
-INDEX=$(echo "Bienvenido al Blog del Podcast de **uGeek**. Aquí encontraras tutoriales y notas que voy tomando en el proceso de aprendizaje de todo aquello que os explico en el [[https://ugeek.github.io][Podcast]]. En la sección [[https://ugeek.github.io/tags.html][Tags]], encontraras todos los Artículos y Podcast, clasificados por temáticas.")
+INDEX=$(echo "Bienvenido al Blog del Podcast de **uGeek**. Aquí encontraras tutoriales y notas que voy tomando en el proceso de aprendizaje de todo aquello que os explico en el [[https://ugeek.github.io][Podcast]]. En la sección [[https://ugeek.github.io/tags.html][Tags]], encontraras todos los Artículos y Podcast, clasificados por temáticas.
 
-#BLOG=$(cat index_blog.org)
+$ARTICULOS_WEB
+")
 
-#######
-#ULTIMO_TITULO_PODCAST=$(wget -q -O- "http://feeds.feedburner.com/ugeek" | grep '<title>' | head -3 | tail -1 | sed 's/<title>/ /g' | sed 's/<\/title>/ /g')
-#ULTIMO_PODCAST=$(wget -q -O- "http://feeds.feedburner.com/ugeek" | grep -o '<enclosure url="[^"]*' | grep -o '[^"]*$' | head -1)
-
+#BLOG
 ULTIMO_TITULO_PODCAST=$(wget -qO- https://anchor.fm/s/106db04/podcast/rss | xml2 | grep "/rss/channel/item/title=" | sed -e 's|/rss/channel/item/title=||g' | head -1)
 ULTIMO_PODCAST=$(wget -qO- https://anchor.fm/s/106db04/podcast/rss  | xml2 | grep "/rss/channel/item/enclosure/@url=" | sed -e 's|/rss/channel/item/enclosure/@url=||g' | head -1)
 
-
 # MAIN CONTENT NEXT. INDEX PAGE
 INDEX_NEXT=$(echo "
-* $ULTIMO_TITULO_PODCAST
-#+HTML: <audio controls=''><source src="$ULTIMO_PODCAST" />Tu navegador no soporta reproductor de Podcast.</audio>'
-")
+*** $ULTIMO_TITULO_PODCAST
+#+HTML: <audio controls=''><source src="$ULTIMO_PODCAST" />Tu navegador no soporta reproductor de Podcast.</audio>")
+
+
+
+
 ################################################################################
 # FOOTER WEB. ALL PAGES
 PIE_WEB=$(echo '<p style="text-align: center;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0px; display: block; margin-left: auto; margin-right: auto;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licencia de Creative Commons" /></a><br />Este obra est&aacute; bajo una <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.</p><br><br><br>')
@@ -121,6 +143,15 @@ Modo de empleo:     ./org-bash-podcast [ARCHIVO ORG-MODE]
  ./org-bash-podcast -b                         Construir carpetas
  ./org-bash-podcast -u                         Último podcast
  ./org-bash-podcast -i [ARCHIVO ORG-MODE]      Importar Podcast de otro feed
+ ./org-bash-podcast -n                         Nuevo Post
+ ./org-bash-podcast -f                         Crear Nuevo Org-Mode
+
+
+
+Ejemplos:
+
+./org-bash-podcast -n [ARCHIVO ORG-MODE] 'Título del Podcast'
+./org-bash-podcast -f [ARCHIVO ORG-MODE] 
 
 
 
@@ -135,6 +166,34 @@ then
 echo "Último Podcast Publicado:"
 wget -qO- $FEED | xml2 | grep "/rss/channel/item/title=" | sed -e 's|/rss/channel/item/title=||g' | head -1
 else  
+if [ $1 = "-n" ]
+then
+echo "Creada Nueva Entrada"
+DIA=$(date +"%Y-%m-%d %H:%M")
+echo '* TODO '$3'
+:PROPERTIES:
+:TITLE: '$3'
+:EXPORT_FILE_NAME: '$3'
+:DESCRIPTION:
+:EXPORT_DATE: '$DIA'
+:CATEGORY:
+:TAG:
+:IMAGE:
+:END:
+' >> $2
+else  
+if [ $1 = "-f" ]
+then
+echo "    
+#+TITLE:
+#+LINK: 
+#+DESCRIPTION: 
+#+KEYWORDS:  
+#+AUTHOR:
+
+ " > $2
+else
+    
 if [ $1 = "-i" ]
 then
 ULTIMO_TITULO_PODCAST=$(wget -qO- $FEED | xml2 | grep "/rss/channel/item/title=" | sed -e 's|/rss/channel/item/title=||g' | head -1)
@@ -558,18 +617,17 @@ echo "  </channel>
 </rss>" >> $WORD.xml
 echo "Generando Página Home"
 cat posts.csv | head -n5 > posts_home.csv
-#echo "$GOOGLE_ANALITYCS" >> index.org
 echo " " >> index.org
 echo "$INDEX" >> index.org
 echo " " >> index.org
-echo "* Últimos Podcasts Publicados" >> index.org
+echo "*** Últimos Podcasts Publicados" >> index.org
 echo " " >> index.org
 while read LINEA; do 
 TPOST=$(echo $LINEA | cut -d, -f1 | sed 's/|/,/g')
 UPOST=$(echo $LINEA | cut -d, -f2)
 DPOST=$(echo $LINEA | cut -d, -f4)
-echo "- /$DPOST/ - [[$LINK/post/$DPOST-$UPOST.html][$TPOST]] " >> index.org
-#echo " " >> index.org
+#echo "- /$DPOST/ - [[$LINK/post/$DPOST-$UPOST.html][$TPOST]] " >> index.org
+echo "- [[$LINK/post/$DPOST-$UPOST.html][$TPOST]] " >> index.org
 done < posts_home.csv
 echo "$INDEX_NEXT" >> index.org
 echo '<head>
@@ -625,7 +683,6 @@ sed -i 's|__icon/|icon/|g' index.html
 sed -i 's|__css/|css/|g' index.html
 rm index.org posts_home.csv
 echo "Generando Lista de Podcasts"
-#echo "$GOOGLE_ANALITYCS" > list.org
 echo "* $NUM_POSTS Podcasts Publicados" >> list.org
 while read LINEA; do 
 TPOST=$(echo $LINEA | cut -d, -f1 | sed 's/|/,/g')
@@ -766,6 +823,8 @@ rm tag.csv tags.csv tag temp_post.org
 rm category.csv hour
 rm title link description category date date-  
 sed -i '$d' $1
+fi
+fi
 fi
 fi
 fi
