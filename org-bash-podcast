@@ -624,7 +624,7 @@ echo $ORG $PIE_WEB  >> index.html
 sed -i 's|__icon/|icon/|g' index.html
 sed -i 's|__css/|css/|g' index.html
 rm index.org posts_home.csv
-echo "Generando Lista de Artículos"
+echo "Generando Lista de Podcasts"
 #echo "$GOOGLE_ANALITYCS" > list.org
 echo "* $NUM_POSTS Podcasts Publicados" >> list.org
 while read LINEA; do 
