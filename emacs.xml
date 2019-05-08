@@ -40,9 +40,9 @@
 </description>
     <pubDate>Mon, 11 Mar 2019 5:45 +0100</pubDate>
     <category>emacs</category>
+    <category>podcast</category>
     <category>emacs</category>
     <category>orgmode</category>
-    <category></category>
     <guid>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid>
    </item>
    <item>
@@ -106,9 +106,9 @@
 </description>
     <pubDate>Mon, 29 Oct 2018 20:06 +0100</pubDate>
     <category>syncthing</category>
+    <category>podcast</category>
     <category>notas</category>
     <category>emacs</category>
-    <category>i3</category>
     <guid>https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</guid>
    </item>
    <item>
@@ -139,9 +139,9 @@
 </description>
     <pubDate>Sun, 14 Oct 2018 23:34 +0100</pubDate>
     <category>notas</category>
+    <category>podcast</category>
     <category>markdown</category>
     <category>emacs</category>
-    <category></category>
     <guid>https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html</guid>
    </item>
    <item>
@@ -172,9 +172,9 @@
 </description>
     <pubDate>Tue, 09 Oct 2018 23:26 +0100</pubDate>
     <category>emacs</category>
+    <category>podcast</category>
     <category>emacs</category>
     <category>orgmode</category>
-    <category></category>
     <guid>https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</guid>
    </item>
    <item>
@@ -205,9 +205,9 @@
 </description>
     <pubDate>Wed, 19 Sep 2018 18:19 +0100</pubDate>
     <category>notas</category>
+    <category>podcast</category>
     <category>emacs</category>
     <category>orgmode</category>
-    <category></category>
     <guid>https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</guid>
    </item>
    <item>
@@ -238,9 +238,9 @@
 </description>
     <pubDate>Wed, 12 Jul 2017 22:00 +0100</pubDate>
     <category>notas</category>
+    <category>podcast</category>
     <category>android</category>
     <category>emacs</category>
-    <category></category>
     <guid>https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</guid>
    </item>
    <item>
@@ -271,9 +271,9 @@
 </description>
     <pubDate>Wed, 08 Mar 2017 01:00 +0100</pubDate>
     <category>notas</category>
+    <category>podcast</category>
     <category>orgmode</category>
     <category>emacs</category>
-    <category></category>
     <guid>https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</guid>
    </item>
   </channel>

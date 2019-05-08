@@ -22,7 +22,7 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Tue, 07 May 2019 20:20 +0100</pubDate>
+    <pubDate>Wed, 08 May 2019 19:19 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
    <item>
     <title>Podcast: El Adiós a Plex y Emby. Llega Jellyfin</title>
@@ -48,7 +48,7 @@
     <guid>https://ugeek.github.io//post/2019-05-07-podcast:-el-adios-a-plex-y-emby-llega-jellyfin.html</guid> 
           <itunes:summary>Para probar Jellyfin, visita el Post en:https://ugeek.github.io/blog/post/2019-05-07-el-adios-a-plex-y-emby.-llega-jellyfin.html</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/images-blog/jellifin.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>plex,jellyfin,emby,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -75,7 +75,7 @@
     <guid>https://ugeek.github.io//post/2019-04-11-controla-tu-raspberry-servidor-o-pc-desde-telegram.html</guid> 
           <itunes:summary>Voy a explicarte como configurar un Bot de Telegram, que te va a permitir el controlar la totalidad de tu Raspberry, Servidor o PC, remotamente</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>bot,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -102,7 +102,7 @@
     <guid>https://ugeek.github.io//post/2019-03-28-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-y-categorias-telegram.html</guid> 
           <itunes:summary>Sigue paso a paso el tutorial en : https://ugeek.github.io/blog/post/2019-03-26-enviando-imagenes-audios-archivos-con-mi-bot-de-telegram-de-una-sola-linea-de-terminal.html</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>bash,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -129,7 +129,7 @@
     <guid>https://ugeek.github.io//post/2019-03-14-crea-un-bot-de-telegram-con-bash-muy-facil.html</guid> 
           <itunes:summary>Todas las notas de este Podcast, las encontraras en:https://ugeek.github.io/blog/post/2019-03-14-crea-un-bot-de-telegram-con-bash-y-una-sola-linea-de-terminal.html</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>bot,,,,</itunes:keywords>
+          <itunes:keywords>telegram,bot,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -156,7 +156,7 @@
     <guid>https://ugeek.github.io//post/2019-03-11-notas-y-documentos-en-la-nube-para-compartir-trabajar-en-equipo.html</guid> 
           <itunes:summary>Simplenote, es una aplicación de notas muy conocida de Software Libre, totalmente multiplataforma y gratuita</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>orgmode,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -183,7 +183,7 @@
     <guid>https://ugeek.github.io//post/2019-02-27-aplicaciones-a-la-última-en-tu-raspberry-o-servidor.html</guid> 
           <itunes:summary>Prueba crear tu Blog con org-bash-blog y crea tus dockers</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>docker,ubuntu,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -210,7 +210,7 @@
     <guid>https://ugeek.github.io//post/2019-02-07-enviar-archivos-a-la-papelera-desde-la-terminal.html</guid> 
           <itunes:summary>Artículo completo, con mas información en: https://ugeek.github.io/blog/post/2019-02-07-papelera-reciclaje-desde-la-terminal.html. Aplicación de Podcast: https://ugeek.github.io/blog/post/2019-01-26-castero-podcatcher-ligero-para-terminal.html</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>aplicaciones,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -237,7 +237,7 @@
     <guid>https://ugeek.github.io//post/2019-01-30-33-servicios-de-software-libre-en-un-servidor-gratis-que-puedes-utilizar.html</guid> 
           <itunes:summary>33 Servicios de Software Libre, en un servidor Gratis que puedes utilizar. Servicios como nextcloud, tt-rss, wallabag, dokuwiki... que podrás utilizar y probar de un modo gratuito en: https://framasoft.org. Vista la web de ugeek.github.io para más información</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>wallabag,dokuwiki,,,</itunes:keywords>
+          <itunes:keywords>tt-rss,wallabag,dokuwiki,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -264,7 +264,7 @@
     <guid>https://ugeek.github.io//post/2019-01-23-alternativa-para-sincronizar-tus-calendarios-contactos-rss-tareas.html</guid> 
           <itunes:summary>Sincroniza tus Calendarios, Contactos, rss y Tareas con Syncthing y DecSync</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>calendario,tareas,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -345,7 +345,7 @@
     <guid>https://ugeek.github.io//post/2018-12-10-cambio-de-filosofia.html</guid> 
           <itunes:summary>Cambio de Filosofía</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>app,,,,</itunes:keywords>
+          <itunes:keywords>flatpak,app,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -399,7 +399,7 @@
     <guid>https://ugeek.github.io//post/2018-11-30-pocket-cast-en-tu-escritorio-linux-mediante-snap.html</guid> 
           <itunes:summary>Pocket Cast en tu Escritorio Linux mediante Snap</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>podcast,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -426,7 +426,7 @@
     <guid>https://ugeek.github.io//post/2018-11-26-gitlab-novedades-de-syncthing-y-orgzly.html</guid> 
           <itunes:summary>GitLab + Novedades de Syncthing y Orgzly</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>orgmode,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -480,7 +480,7 @@
     <guid>https://ugeek.github.io//post/2018-11-05-como-actualizar-tus-dockers.html</guid> 
           <itunes:summary>Como Actualizar tus Dockers</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>servidor,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -507,7 +507,7 @@
     <guid>https://ugeek.github.io//post/2018-10-29-sincronizacion-selectiva-en-syncthing-markdown-en-emacs-blog-jekyll-escritorio-i3.html</guid> 
           <itunes:summary>Sincronización Selectiva en Syncthing, Markdown en Emacs, Blog Jekyll, Escritorio i3</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>i3,jekyll,markdown,,</itunes:keywords>
+          <itunes:keywords>emacs,i3,jekyll,markdown,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -534,7 +534,7 @@
     <guid>https://ugeek.github.io//post/2018-10-19-muchos-servicios-dietpi-y-mucho-mas-en-el-crossover-con-jose-jimenez.html</guid> 
           <itunes:summary>Muchos Servicios, DietPi y mucho más en el crossover con José Jiménez</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>servidor,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -561,7 +561,7 @@
     <guid>https://ugeek.github.io//post/2018-10-14-como-gestiono-mis-notas-markdown.html</guid> 
           <itunes:summary>Como gestiono Mis Notas Markdown</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>emacs,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -588,7 +588,7 @@
     <guid>https://ugeek.github.io//post/2018-10-09-podcast-iniciandonos-en-emacs-y-org-mode-de-un-modo-muy-muy-facil.html</guid> 
           <itunes:summary>Podcast: Iniciándonos en Emacs y Org Mode de un Modo muy muy Fácil.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>orgmode,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -615,7 +615,7 @@
     <guid>https://ugeek.github.io//post/2018-09-19-el-mejor-metodo-para-crear-gestionar-y-automatizar-notas-tareas-hojas-de-calculo.html</guid> 
           <itunes:summary>El mejor Método para Crear, Gestionar y Automatizar Notas, Tareas, Hojas de cálculo….</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>orgmode,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -642,7 +642,7 @@
     <guid>https://ugeek.github.io//post/2018-09-16-hablando-con-atareao-y-mosqueteroweb-de-servidores-en-casa-vps.html</guid> 
           <itunes:summary>Hablando con Atareao y MosqueteroWeb de Servidores en Casa, VPS,... Episodio que grabé con Atareao y MosqueteroWeb, en el primer aniversario de maratón linuxero</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>maratón,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -831,7 +831,7 @@
     <guid>https://ugeek.github.io//post/2018-06-28-android-tv-y-arduino-chino.html</guid> 
           <itunes:summary>En este podcast os hablo de la actualización a Android Tv 8 y mi nueva adquisición, un arduino chino</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>android,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -912,15 +912,15 @@
     <guid>https://ugeek.github.io//post/2018-05-31-podcasts-en-plex-scripts-graficamente-con-zenity-y-yad-anchor.html</guid> 
           <itunes:summary>Podcasts en Plex, Scripts Gráficamente con Zenity y Yad, Anchor ...</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>bash,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Servidor de ebooks con Calibre </title>
+    <title>Servidor de ebooks con Calibre</title>
     <link>https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html</link>
     <pubDate>Fri, 25 May 2018 20:44 +0100</pubDate>
     <description>Servidor de ebooks con Calibre 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html&gt;Servidor de ebooks con Calibre &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-25-servidor-de-ebooks-con-calibre.html&gt;Servidor de ebooks con Calibre&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1020,15 +1020,15 @@
     <guid>https://ugeek.github.io//post/2018-05-08-docker-en-raspberry.html</guid> 
           <itunes:summary>Docker en Raspberry</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>raspberry,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. </title>
+    <title>MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim.</title>
     <link>https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html</link>
     <pubDate>Fri, 04 May 2018 20:44 +0100</pubDate>
     <description>MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html&gt;MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim. &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2018-05-04-masterclass-plex-2--crossover-con-bateria2x100-y-rapejim.html&gt;MasterClass Plex 2. Crossover con Bateria2x100 y Rapejim.&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1074,7 +1074,7 @@
     <guid>https://ugeek.github.io//post/2018-04-26-la-nube-mas-segura-dentro-y-fuera-de-tu-red-local.html</guid> 
           <itunes:summary>La Nube más Segura Dentro y Fuera de tu Red Local</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>servidor,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1128,7 +1128,7 @@
     <guid>https://ugeek.github.io//post/2018-04-20-xiaomi-mi-box.html</guid> 
           <itunes:summary>Xiaomi Mi Box</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:keywords>unix,terminal,sed,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1155,7 +1155,7 @@
     <guid>https://ugeek.github.io//post/2018-04-19-rclone.html</guid> 
           <itunes:summary>Rclone</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>raspberry,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1236,7 +1236,7 @@
     <guid>https://ugeek.github.io//post/2018-03-22-joplin-el-evernote-del-software-libre.html</guid> 
           <itunes:summary>Joplin. El Evernote del Software Libre</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>nextcloud,,,,</itunes:keywords>
+          <itunes:keywords>markdown,nextcloud,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1263,7 +1263,7 @@
     <guid>https://ugeek.github.io//post/2018-03-18-crossover-con-bateria2x100-masterclass-plex.html</guid> 
           <itunes:summary>Crossover con Bateria2x100. MasterClass Plex</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>crossover,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1317,7 +1317,7 @@
     <guid>https://ugeek.github.io//post/2018-03-14-el-github-gitlab-de-mi-raspberry-gitea.html</guid> 
           <itunes:summary>El GitHub - GitLab de mi Raspberry. Gitea</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>raspberry,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1371,7 +1371,7 @@
     <guid>https://ugeek.github.io//post/2018-02-22-tiny-tiny-rss-feedme-y-voice.html</guid> 
           <itunes:summary>En el podcast de hoy explico mi experiencia con Tiny Tiny RSS, FeedMe y @Voice</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>servidor,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1587,7 +1587,7 @@
     <guid>https://ugeek.github.io//post/2018-01-15-nextcloud-talk-y-script-para-instalar-nextcloud.html</guid> 
           <itunes:summary>En este podcast os hablo de Nextcloud Talk y un script para poder instalar Nextcloud completo en tu Raspberry Pi</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>raspberry,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1830,7 +1830,7 @@
     <guid>https://ugeek.github.io//post/2017-09-04-un-servidor-en-mi-casa-podcast-del-maraton-linuxero-2017.html</guid> 
           <itunes:summary>Podcast en el Maratón Linuxero con MosqueteroWeb, donde hablamos de como montar un servidor en casa.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>crossover,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -1942,11 +1942,11 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Copia Remota De Vuestra SD, Mas Snap's </title>
+    <title>Copia Remota De Vuestra SD, Mas Snap's</title>
     <link>https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html</link>
     <pubDate>Wed, 26 Jul 2017 20:44 +0100</pubDate>
     <description>En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio y os hablo de algunos paquetes snap nuevos 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html&gt;Copia Remota De Vuestra SD, Mas Snap's &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html&gt;Copia Remota De Vuestra SD, Mas Snap's&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -1965,7 +1965,7 @@
     <guid>https://ugeek.github.io//post/2017-07-26-copia-remota-de-vuestra-sd-mas-snap.html</guid> 
           <itunes:summary>En el podcast de hoy os explico un poco lo que ando haciendo, como hacer una copia de nuestra SD, sin necesidad de detener ningún servicio y os hablo de algunos paquetes snap nuevos </itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>raspberry,,,,</itunes:keywords>
           <itunes:explicit>%20Mas%20snap's.mp3</itunes:explicit>
    </item>
    <item>
@@ -1992,7 +1992,7 @@
     <guid>https://ugeek.github.io//post/2017-07-12-eficiencia-de-servicios-y-aplicaciones-notas-entre-keep-onenote-paper-emacs.html</guid> 
           <itunes:summary>Eficiencia de servicios y aplicaciones. Notas entre Keep, OneNote, Paper, Emacs...</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>emacs,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2046,7 +2046,7 @@
     <guid>https://ugeek.github.io//post/2017-07-05-miscelanea-nextcloud-12-resilio-rsync.html</guid> 
           <itunes:summary>El podcast de hoy es una miscelánea de temas que he tratado en podcast anteriores y respuestas a algunas dudas de oyentes sobre los mismos</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>rsync,,,,</itunes:keywords>
+          <itunes:keywords>resilio,rsync,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2100,7 +2100,7 @@
     <guid>https://ugeek.github.io//post/2017-06-25-nextcloud-resilio-syncthing-que-nube-elijo.html</guid> 
           <itunes:summary>En el podcast de hoy os explico, bajo mi experiencia, que diferencias hay entre las nubes que hasta el momento os he explicado.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>syncthing,,,,</itunes:keywords>
+          <itunes:keywords>resilio,syncthing,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2343,7 +2343,7 @@
     <guid>https://ugeek.github.io//post/2017-05-18-multicuenta-de-telegram-en-tu-pc-de-escritorio-y-wire.html</guid> 
           <itunes:summary>Multicuenta de Telegram en tu PC de escritorio y Wire</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>app,,,,</itunes:keywords>
           <itunes:explicit>%20wire.mp3</itunes:explicit>
    </item>
    <item>
@@ -2397,7 +2397,7 @@
     <guid>https://ugeek.github.io//post/2017-05-17-android-videoder-y-llamadas-de-telegram.html</guid> 
           <itunes:summary>Hoy os hablo de Videoder, una aplicación que nos permite tanto bajar vídeos de Youtube, como los audios. También hablo de como alamaceno yo mis vídeos en Telegram</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>mensajeria,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2478,7 +2478,7 @@
     <guid>https://ugeek.github.io//post/2017-05-06-jekyll-o-wordpress.html</guid> 
           <itunes:summary>¿Jekyll o WordPress?</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:keywords>unix,terminal,sed,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2613,7 +2613,7 @@
     <guid>https://ugeek.github.io//post/2017-04-26-se-quemo-la-sd-comparacion-de-consumos-entre-pc-nas-microserver-raspberry-pi.html</guid> 
           <itunes:summary>Se quemó la SD. Comparación de consumos entre PC, NAS-Microserver, Raspberry Pi</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>nas,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2640,7 +2640,7 @@
     <guid>https://ugeek.github.io//post/2017-04-21-sincronizacion-de-carpetas-entre-dispositivos-syncthing--resilio-y-dukto.html</guid> 
           <itunes:summary>Sincronización de carpetas entre dispositivos. Syncthing, Resilio y Dukto</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>resilio,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2721,7 +2721,7 @@
     <guid>https://ugeek.github.io//post/2017-04-10-bot-de-telegram-ifttt.html</guid> 
           <itunes:summary>Bot de Telegram IFTTT</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:keywords>unix,terminal,sed,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2802,7 +2802,7 @@
     <guid>https://ugeek.github.io//post/2017-04-06-antergos-ocnews-de-nextcloud-y-jekyll.html</guid> 
           <itunes:summary>Antergos, Ocnews De Nextcloud Y Jekyll</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>jekyll,,,,</itunes:keywords>
+          <itunes:keywords>antergos,jekyll,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2829,7 +2829,7 @@
     <guid>https://ugeek.github.io//post/2017-04-02-aplicacion-notes-de-nextcloud-y-crea-tus-bots-de-telegram.html</guid> 
           <itunes:summary>Aplicación Notes de Nextcloud y crea tus bots de Telegram</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>nextcloud,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2883,7 +2883,7 @@
     <guid>https://ugeek.github.io//post/2017-03-30-podcast-con-frank-de-bateria2x100-servidores-linux-y-nas--lo-mismo-pero--diferente.html</guid> 
           <itunes:summary>Podcast con Frank de Batería2x100, Servidores Linux y NAS, lo mismo pero diferente</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>terminal,sed,,,</itunes:keywords>
+          <itunes:keywords>unix,terminal,sed,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -2914,11 +2914,11 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Mi HP ProLiant MicroServer Gen8 </title>
+    <title>Mi HP ProLiant MicroServer Gen8</title>
     <link>https://ugeek.github.io//post/2017-03-28-mi-hp-proliant-microserver-gen8.html</link>
     <pubDate>Tue, 28 Mar 2017 20:44 +0100</pubDate>
     <description>Mi HP ProLiant MicroServer Gen8 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-28-mi-hp-proliant-microserver-gen8.html&gt;Mi HP ProLiant MicroServer Gen8 &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-28-mi-hp-proliant-microserver-gen8.html&gt;Mi HP ProLiant MicroServer Gen8&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3103,11 +3103,11 @@
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber </title>
+    <title>Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber</title>
     <link>https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html</link>
     <pubDate>Thu, 16 Mar 2017 20:44 +0100</pubDate>
     <description>Vamos a instalar un servidor de mensajería instantánea, donde los mensajes, llamadas 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html&gt;Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html&gt;Instala un servidor de mensajeria tipo Whatsapp o Telegram y de Software Libre con XMPP/Jabber&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3126,7 +3126,7 @@
     <guid>https://ugeek.github.io//post/2017-03-16-instala-un-servidor-de-mensajeria-tipo-whatsapp-o-telegram-y-de-software-libre-con-xmppjabber-.html</guid> 
           <itunes:summary>Vamos a instalar un servidor de mensajería instantánea, donde los mensajes, llamadas </itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>raspberry,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -3207,15 +3207,15 @@
     <guid>https://ugeek.github.io//post/2017-03-08-metodo-mas-completo-para-recopilar-notas-org-mode.html</guid> 
           <itunes:summary>Este es el método definitivo, hasta ahora, para tomar mis notas con un sistema jerárquico de  notas y todas dentro en un único txt, renombrado como .org</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>emacs,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
-    <title>Conectate remotamente a tu Raspberry Pi con "dataplicity" </title>
+    <title>Conectate remotamente a tu Raspberry Pi con "dataplicity"</title>
     <link>https://ugeek.github.io//post/2017-03-07-conectate-remotamente-a-tu-raspberry-pi-con-dataplicity.html</link>
     <pubDate>Tue, 07 Mar 2017 20:44 +0100</pubDate>
     <description>Conectate remotamente a tu Raspberry Pi con "dataplicity" 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-07-conectate-remotamente-a-tu-raspberry-pi-con-dataplicity.html&gt;Conectate remotamente a tu Raspberry Pi con "dataplicity" &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-03-07-conectate-remotamente-a-tu-raspberry-pi-con-dataplicity.html&gt;Conectate remotamente a tu Raspberry Pi con "dataplicity"&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3288,15 +3288,15 @@
     <guid>https://ugeek.github.io//post/2017-03-02-entrevista-con-arturo-suarez--directivo-del-cloud-de-canonical-ubuntu.html</guid> 
           <itunes:summary>hacia donde se está orientando Ubuntu, a través de Ubuntu en la nube, el sistema operativo en dispositivos móviles...</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>mwc,,,,</itunes:keywords>
           <itunes:explicit>%20Directivo%20del%20Cloud%20de%20Canonical%20Ubuntu.mp3</itunes:explicit>
    </item>
    <item>
-    <title>Ubuntu en el Mobile World Congress </title>
+    <title>Ubuntu en el Mobile World Congress</title>
     <link>https://ugeek.github.io//post/2017-02-28-ubuntu-en-el-mobile-world-congress.html</link>
     <pubDate>Tue, 28 Feb 2017 20:44 +0100</pubDate>
     <description>Estoy en el Mobile World Congress y en breve subiremos entrevistas de ubuntu, nextcloud y mucho más 
-&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-28-ubuntu-en-el-mobile-world-congress.html&gt;Ubuntu en el Mobile World Congress &lt;/a&gt;
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2017-02-28-ubuntu-en-el-mobile-world-congress.html&gt;Ubuntu en el Mobile World Congress&lt;/a&gt;
 
 &lt;/a&gt;&lt;/p&gt;&lt;p&gt;
 
@@ -3369,7 +3369,7 @@
     <guid>https://ugeek.github.io//post/2017-02-23-dokuwiki-nueva-forma-de-tomar-mis-notas-monta-tu-wiki-con-dokuwiki-o-mediawiki.html</guid> 
           <itunes:summary>Dokuwiki, nueva forma de tomar mis notas. Monta tu wiki con DokuWiki o MediaWiki.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>wiki,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -3423,7 +3423,7 @@
     <guid>https://ugeek.github.io//post/2017-02-18-podcast-con-frank-de-bateria2x100-hablando-de-plex-nextcloud.html</guid> 
           <itunes:summary>Podcast con Frank de Bateria2x100, hablando de Plex, Nextcloud...</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>nextcloud,servidor,,,</itunes:keywords>
+          <itunes:keywords>plex,nextcloud,servidor,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -3504,7 +3504,7 @@
     <guid>https://ugeek.github.io//post/2017-02-15-notas-en-nextcloud-y-markdown.html</guid> 
           <itunes:summary>Tengo que decir que estoy probando Markdown en la aplicación Notas de Nextcloud y me esta gustando</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>nextcloud,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -3558,7 +3558,7 @@
     <guid>https://ugeek.github.io//post/2017-02-14-bis-f-droid-tienda-android-de-aplicaciones-de-software-libre-y-actualizar-las-noticias-en-nextcloud.html</guid> 
           <itunes:summary>bis F-Droid Tienda Android de aplicaciones de Software Libre y Actualizar las Noticias en Nextcloud.</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>nextcloud,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
@@ -3801,7 +3801,7 @@
     <guid>https://ugeek.github.io//post/2017-02-01-servidor-linux-vs-qnap-synology.html</guid> 
           <itunes:summary>Servidor Linux Vs QNAP-Synology</itunes:summary>
           <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
-          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:keywords>servidor,,,,</itunes:keywords>
           <itunes:explicit>No</itunes:explicit>
    </item>
    <item>
