@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Wed, 15 May 2019 21:12 +0100</pubDate>
+    <pubDate>Thu, 06 Jun 2019 19:33 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Domótica fácil y para todos</title>
+    <link>https://ugeek.github.io//post/2019-06-06-domotica-facil-y-para-todos.html</link>
+    <pubDate>Thu, 06 Jun 2019 20:44 +0100</pubDate>
+    <description>En el Podcast de hoy, hablo de mi proyecto domótico
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-06-06-domotica-facil-y-para-todos.html&gt;Domótica fácil y para todos&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/3488318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-5-6%2FDom-tica-facil-y-para-todos-ed2ead773be24.m4a"/>
+    <guid>https://ugeek.github.io//post/2019-06-06-domotica-facil-y-para-todos.html</guid> 
+          <itunes:summary>En el Podcast de hoy, hablo de mi proyecto domótico</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>terminal,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Podcast: Accediendo a todos mis servicios, desde cualquier lugar, sin VPN</title>
     <link>https://ugeek.github.io//post/2019-05-15-podcast-accediendo-a-todos-mis-servicios-desde-cualquier-lugar-sin-vpn.html</link>
