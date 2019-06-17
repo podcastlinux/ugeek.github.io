@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Thu, 06 Jun 2019 19:33 +0100</pubDate>
+    <pubDate>Mon, 17 Jun 2019 18:19 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Muy Buena aplicación de Podcast. Capsule</title>
+    <link>https://ugeek.github.io//post/2019-06-17-muy-buena-aplicacion-de-podcast.-capsule.html</link>
+    <pubDate>Mon, 17 Jun 2019 20:44 +0100</pubDate>
+    <description>Hoy os hablo de Capsule. https://capsulefm.io/
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-06-17-muy-buena-aplicacion-de-podcast.-capsule.html&gt;Muy Buena aplicación de Podcast. Capsule&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/3592515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-17%2F17098382-44100-1-cdcbcaba02f85.mp3"/>
+    <guid>https://ugeek.github.io//post/2019-06-17-muy-buena-aplicacion-de-podcast.-capsule.html</guid> 
+          <itunes:summary>Hoy os hablo de Capsule. https://capsulefm.io/</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Domótica fácil y para todos</title>
     <link>https://ugeek.github.io//post/2019-06-06-domotica-facil-y-para-todos.html</link>
