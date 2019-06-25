@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 17 Jun 2019 18:19 +0100</pubDate>
+    <pubDate>Tue, 25 Jun 2019 20:33 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Raspberry 4. Se acabó el cuello de botella</title>
+    <link>https://ugeek.github.io//post/2019-06-25-raspberry-4.-se-acabó-el-cuello-de-botella.html</link>
+    <pubDate>Tue, 25 Jun 2019 20:44 +0100</pubDate>
+    <description>Raspberry 4. Se acabó el cuello de botella
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-06-25-raspberry-4.-se-acabó-el-cuello-de-botella.html&gt;Raspberry 4. Se acabó el cuello de botella&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/3674211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-25%2F17590790-44100-1-ebd3da4c8af6c.mp3"/>
+    <guid>https://ugeek.github.io//post/2019-06-25-raspberry-4.-se-acabó-el-cuello-de-botella.html</guid> 
+          <itunes:summary>Raspberry 4. Se acabó el cuello de botella</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Muy Buena aplicación de Podcast. Capsule</title>
     <link>https://ugeek.github.io//post/2019-06-17-muy-buena-aplicacion-de-podcast.-capsule.html</link>
