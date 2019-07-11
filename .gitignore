@@ -1,8 +1,6 @@
-*.org
 *.sh
 *.csv
 #*
 *.txt
 org-bash-podcast.html
-org-bash-podcast
 config

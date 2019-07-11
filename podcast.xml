@@ -22,8 +22,35 @@
     <rawvoice:location>Barcelona, Spain</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <itunes:category text="Technology"/>
-    <pubDate>Mon, 08 Jul 2019 22:09 +0100</pubDate>
+    <pubDate>Thu, 11 Jul 2019 20:15 +0100</pubDate>
     <generator>org-bash-podcast static site generator (https://github.com/ugeek/org-bash-podcast)</generator>
+   <item>
+    <title>Entre una tostadora o una Raspberry Pi 4 con atareao. + Bonus track</title>
+    <link>https://ugeek.github.io//post/2019-07-11-entre-una-tostadora-o-una-raspberry-pi-4-con-atareao.-+-bonus-track.html</link>
+    <pubDate>Thu, 11 Jul 2019 20:44 +0100</pubDate>
+    <description>Una charla de aproximadamente una hora sobre las primeras impresiones de la Raspberry Pi 4, con atareao.es. Añado un Bonus track de 8 minutos respondiendo preguntas.
+&lt;p&gt;Sigue leyendo el post completo de &lt;a href=https://ugeek.github.io//post/2019-07-11-entre-una-tostadora-o-una-raspberry-pi-4-con-atareao.-+-bonus-track.html&gt;Entre una tostadora o una Raspberry Pi 4 con atareao. + Bonus track&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io/&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=https://ugeek.github.io&gt;Visita uGeek Podcast&lt;/a&gt;
+
+&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;a href=http://feeds.feedburner.com/ugeek&gt;Suscribete al Podcast de uGeek&lt;/a&gt;
+
+</description>
+    <enclosure url="https://anchor.fm/s/106db04/podcast/play/3834840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-6-11%2F-0cc2883235379.m4a"/>
+    <guid>https://ugeek.github.io//post/2019-07-11-entre-una-tostadora-o-una-raspberry-pi-4-con-atareao.-+-bonus-track.html</guid> 
+          <itunes:summary>Una charla de aproximadamente una hora sobre las primeras impresiones de la Raspberry Pi 4, con atareao.es. Añado un Bonus track de 8 minutos respondiendo preguntas.</itunes:summary>
+          <itunes:image href="https://ugeek.github.io/blog/icon/ugeek.png"/>  
+          <itunes:keywords>,,,,</itunes:keywords>
+          <itunes:explicit>No</itunes:explicit>
+   </item>
    <item>
     <title>Almacenamiento ilimitado en tu Raspberry o Servidor con Rclone</title>
     <link>https://ugeek.github.io//post/2019-07-04-almacenamiento-ilimitado-en-tu-raspberry-o-servidor-con-rclone.html</link>
